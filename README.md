@@ -1,52 +1,49 @@
 # agent-qc-kit
 
-**Quality checklist + prompts for agent-generated research and content.**
+**Fail-closed publish gate for agent-generated research and content.**
 
-Built for maintainers and solo operators who ship AI-assisted posts, notes, and docs — and need a repeatable gate so drafts do not invent numbers, drop citations, or sneak in investment advice.
+Solves a real failure mode: AI drafts that look fine until they ship — truncated openings, buy/sell language, numbers with no source URL, broken quotes. This kit **blocks publish** when HARD rules fail (exit code `1`).
 
-## Why this exists
+## Problem → fix
 
-Agent workflows fail quietly: truncated posts, missing sources, unverifiable stats, soft sell language. This kit is a small, public, maintainer-friendly checklist you can run before publish.
+| Failure we hit in production | Gate rule |
+|------------------------------|-----------|
+| First line cut mid-sentence after length limits | `truncated_open` |
+| Soft investment advice slipping into “research” posts | `investment_advice` |
+| Impressive numbers with no link | `number_without_source` |
+| Mismatched `「」` after bad truncation | `broken_quotes` |
 
-## What's inside
-
-| Path | Purpose |
-|------|---------|
-| `CHECKLIST.md` | Pre-publish QC gate (copy/paste or automate) |
-| `docs/prompts.md` | Maintainer prompts for review / rewrite / cite |
-| `examples/sample-pass.md` | Example draft that passes the gate |
-| `examples/sample-fail.md` | Example draft that must be rejected |
-| `scripts/lint-checklist.sh` | Tiny shell lint for required section headers |
-
-## Quick start
+## Install / run (no packaging required)
 
 ```bash
-# 1. Read the gate
-cat CHECKLIST.md
-
-# 2. Optional: verify checklist structure
-bash scripts/lint-checklist.sh
+# from repo root
+PYTHONPATH=src python -m agent_qc_kit path/to/draft.md
+echo $?   # 0 = PASS, 1 = HARD fail
 ```
 
-## Maintainer workflow (Codex-friendly)
+Or pipe stdin:
 
-1. Open an issue with the `qc-review` template.
-2. Paste the draft under review.
-3. Run through `CHECKLIST.md` — fail any hard rule.
-4. Fix or reject; never invent facts to "complete" a draft.
-5. Tag a release when checklist semantics change.
+```bash
+pbpaste | PYTHONPATH=src python -m agent_qc_kit
+```
 
-## Hard rules (non-negotiable)
+## Checklist + prompts
 
-- Public sources only; every material claim needs a URL + date when available.
-- No fabricated metrics, quotes, or "Source:" labels on invented data.
-- No target prices, buy/sell calls, or return promises for securities.
-- Prefer deleting a draft over shipping a truncated/garbled post.
+- `CHECKLIST.md` — human gate (same HARD philosophy)
+- `docs/prompts.md` — reviewer prompts for Codex / ChatGPT
+- `examples/` — pass/fail fixtures used in CI
+
+## CI
+
+GitHub Actions runs unit tests and asserts `sample-fail` exits non-zero / `sample-pass` exits 0.
+
+## Maintainer use (this repo’s purpose)
+
+1. Paste draft into a file or stdin.
+2. Run the gate before posting to X / shipping a pack.
+3. Fix HARD findings or **do not publish**.
+4. Open issues when a new failure mode appears; add a rule + test.
 
 ## License
 
-MIT — see `LICENSE`.
-
-## Status
-
-Actively maintained. Issues and PRs welcome for checklist clarity and language packs.
+MIT

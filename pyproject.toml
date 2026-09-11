@@ -1,0 +1,18 @@
+[project]
+name = "agent-qc-kit"
+version = "0.1.0"
+description = "Fail-closed publish gate for agent-generated research and content"
+readme = "README.md"
+requires-python = ">=3.10"
+license = { text = "MIT" }
+authors = [{ name = "Lock-Louis" }]
+
+[project.scripts]
+agent-qc-kit = "agent_qc_kit.gate:main"
+
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools.packages.find]
+where = ["src"]
