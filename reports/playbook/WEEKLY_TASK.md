@@ -17,11 +17,15 @@
 | 产品 | 路径 |
 |---|---|
 | 公众号排版稿 | `reports/outputs/中国私募合规周报_YYYYMMDD-DD_公众号排版稿.html` |
+| 英文文件名副本（预览打不开时用） | `reports/outputs/weekly-wechat-YYYYMMDD-DD.html` |
 | 核验底稿 | `reports/YYYY-Www-中国私募合规周报.md` |
+
+中文文件名在部分预览窗口打不开时，同步写一份英文文件名副本，并在聊天里同时给仓库路径和 GitHub 链接。
 
 版式只在现有公众号稿上优化：
 
-- `reports/outputs/中国私募合规周报_20260914-20_公众号排版稿.html`
+- `reports/outputs/中国私募合规周报_20260921-27_公众号排版稿.html`
+- `reports/outputs/weekly-wechat-20260921-27.html`
 - 用户本地参考：`/Users/jingsheng/Documents/Codex/2026-09-14/new-chat/outputs/中国私募合规周报_20260914-20_公众号排版稿.html`
 
 ## 内容硬约束
