@@ -24,8 +24,11 @@
 
 版式只在现有公众号稿上优化：
 
-- `reports/outputs/中国私募合规周报_20260921-27_公众号排版稿.html`
-- `reports/outputs/weekly-wechat-20260921-27.html`
+- `reports/outputs/中国私募合规周报_20260928-04_公众号排版稿.html`
+- `reports/outputs/中国私募合规周报_20260928-1004_公众号排版稿.html`
+- `reports/outputs/weekly-wechat-20260928-04.html`
+- `reports/outputs/weekly-wechat-20260928-1004.html`
+- 上期对照：`reports/outputs/中国私募合规周报_20260921-27_公众号排版稿.html`
 - 用户本地参考：`/Users/jingsheng/Documents/Codex/2026-09-14/new-chat/outputs/中国私募合规周报_20260914-20_公众号排版稿.html`
 
 ## 内容硬约束
@@ -41,4 +44,4 @@
 9. 跑门禁：`PYTHONPATH=src python3 -m agent_qc_kit <稿件>`。
 10. commit、push，更新本分支 PR；然后在聊天里把结论和 HTML 路径发给用户。
 
-下一次预定运行：2026年10月5日北京时间 08:00。
+下一次预定运行：2026年10月12日北京时间 08:00。
