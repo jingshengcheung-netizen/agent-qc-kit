@@ -30,6 +30,7 @@
 - `reports/outputs/weekly-wechat-20261005-11.html`
 - `reports/outputs/weekly-wechat-20261005-1011.html`
 - 封面：`reports/outputs/assets/w41/cover-wechat-2351.jpg`（另有 900×383 副本、16:9 正文头图、1:1 分享图）
+- 第40–41周合并粘贴稿：`reports/outputs/weekly-wechat-20260928-1011.html`
 - 上期对照：`reports/outputs/中国私募合规周报_20260928-04_公众号排版稿.html`
 - 上期对照：`reports/outputs/中国私募合规周报_20260928-1004_公众号排版稿.html`
 - 用户本地参考：`/Users/jingsheng/Documents/Codex/2026-09-14/new-chat/outputs/中国私募合规周报_20260914-20_公众号排版稿.html`
