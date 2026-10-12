@@ -16,8 +16,9 @@
 
 | 产品 | 路径 |
 |---|---|
-| 公众号排版稿 | `reports/outputs/中国私募合规周报_YYYYMMDD-DD_公众号排版稿.html` |
+| 公众号发布稿 | `reports/outputs/中国私募合规周报_YYYYMMDD-DD_公众号排版稿.html` |
 | 英文文件名副本（预览打不开时用） | `reports/outputs/weekly-wechat-YYYYMMDD-DD.html` |
+| 封面与配图 | `reports/outputs/assets/wYY/`（头条封面 2.35:1，分享图 1:1，正文配图） |
 | 核验底稿 | `reports/YYYY-Www-中国私募合规周报.md` |
 
 中文文件名在部分预览窗口打不开时，同步写一份英文文件名副本，并在聊天里同时给仓库路径和 GitHub 链接。
@@ -28,6 +29,7 @@
 - `reports/outputs/中国私募合规周报_20261005-1011_公众号排版稿.html`
 - `reports/outputs/weekly-wechat-20261005-11.html`
 - `reports/outputs/weekly-wechat-20261005-1011.html`
+- 封面：`reports/outputs/assets/w41/cover-wechat-2351.jpg`（另有 900×383 副本、16:9 正文头图、1:1 分享图）
 - 上期对照：`reports/outputs/中国私募合规周报_20260928-04_公众号排版稿.html`
 - 上期对照：`reports/outputs/中国私募合规周报_20260928-1004_公众号排版稿.html`
 - 用户本地参考：`/Users/jingsheng/Documents/Codex/2026-09-14/new-chat/outputs/中国私募合规周报_20260914-20_公众号排版稿.html`
