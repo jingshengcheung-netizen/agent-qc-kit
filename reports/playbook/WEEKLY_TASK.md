@@ -30,6 +30,8 @@
 - `reports/outputs/weekly-wechat-20261005-11.html`
 - `reports/outputs/weekly-wechat-20261005-1011.html`
 - 封面：`reports/outputs/assets/w41/cover-wechat-2351.jpg`（另有 900×383 副本、16:9 正文头图、1:1 分享图）
+- 第42周粘贴稿：`reports/outputs/weekly-wechat-20261012-18.html`
+- 第42周封面：`reports/outputs/assets/w42/cover-wechat-2351.jpg`
 - 第40–41周合并粘贴稿：`reports/outputs/weekly-wechat-20260928-1011.html`
 - 上期对照：`reports/outputs/中国私募合规周报_20260928-04_公众号排版稿.html`
 - 上期对照：`reports/outputs/中国私募合规周报_20260928-1004_公众号排版稿.html`
@@ -48,4 +50,4 @@
 9. 跑门禁：`PYTHONPATH=src python3 -m agent_qc_kit <稿件>`。
 10. commit、push，更新本分支 PR；然后在聊天里把结论和 HTML 路径发给用户。
 
-下一次预定运行：2026年10月19日北京时间 08:00。
+下一次预定运行：2026年10月26日北京时间 08:00。
