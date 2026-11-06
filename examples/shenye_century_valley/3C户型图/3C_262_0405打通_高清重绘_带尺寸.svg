@@ -1,594 +1,826 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="-3600 -4700 25000 27300" width="2500.0" height="2730.0">
-<defs><pattern id="hatch" patternUnits="userSpaceOnUse" width="160" height="160" patternTransform="rotate(45)"><line x1="0" y1="0" x2="0" y2="160" stroke="#555" stroke-width="14"/></pattern><pattern id="core" patternUnits="userSpaceOnUse" width="220" height="220" patternTransform="rotate(45)"><line x1="0" y1="0" x2="0" y2="220" stroke="#9a9a9a" stroke-width="18"/></pattern></defs>
-<rect x="-3600" y="-4700" width="25000" height="27300" fill="#ffffff" stroke="none" stroke-width="20" />
-<line x1="0" y1="-400" x2="0" y2="17750" stroke="#c9c9c9" stroke-width="12" stroke-dasharray="300 150 40 150"/>
-<line x1="1300" y1="-400" x2="1300" y2="17750" stroke="#c9c9c9" stroke-width="12" stroke-dasharray="300 150 40 150"/>
-<line x1="4200" y1="-400" x2="4200" y2="17750" stroke="#c9c9c9" stroke-width="12" stroke-dasharray="300 150 40 150"/>
-<line x1="6100" y1="-400" x2="6100" y2="17750" stroke="#c9c9c9" stroke-width="12" stroke-dasharray="300 150 40 150"/>
-<line x1="7800" y1="-400" x2="7800" y2="17750" stroke="#c9c9c9" stroke-width="12" stroke-dasharray="300 150 40 150"/>
-<line x1="10800" y1="-400" x2="10800" y2="17750" stroke="#c9c9c9" stroke-width="12" stroke-dasharray="300 150 40 150"/>
-<line x1="12900" y1="-400" x2="12900" y2="17750" stroke="#c9c9c9" stroke-width="12" stroke-dasharray="300 150 40 150"/>
-<line x1="15850" y1="-400" x2="15850" y2="17750" stroke="#c9c9c9" stroke-width="12" stroke-dasharray="300 150 40 150"/>
-<line x1="18550" y1="-400" x2="18550" y2="17750" stroke="#c9c9c9" stroke-width="12" stroke-dasharray="300 150 40 150"/>
-<line x1="-400" y1="0" x2="18950" y2="0" stroke="#c9c9c9" stroke-width="12" stroke-dasharray="300 150 40 150"/>
-<line x1="-400" y1="2400" x2="18950" y2="2400" stroke="#c9c9c9" stroke-width="12" stroke-dasharray="300 150 40 150"/>
-<line x1="-400" y1="3700" x2="18950" y2="3700" stroke="#c9c9c9" stroke-width="12" stroke-dasharray="300 150 40 150"/>
-<line x1="-400" y1="5700" x2="18950" y2="5700" stroke="#c9c9c9" stroke-width="12" stroke-dasharray="300 150 40 150"/>
-<line x1="-400" y1="7600" x2="18950" y2="7600" stroke="#c9c9c9" stroke-width="12" stroke-dasharray="300 150 40 150"/>
-<line x1="-400" y1="10250" x2="18950" y2="10250" stroke="#c9c9c9" stroke-width="12" stroke-dasharray="300 150 40 150"/>
-<line x1="-400" y1="11500" x2="18950" y2="11500" stroke="#c9c9c9" stroke-width="12" stroke-dasharray="300 150 40 150"/>
-<line x1="-400" y1="12900" x2="18950" y2="12900" stroke="#c9c9c9" stroke-width="12" stroke-dasharray="300 150 40 150"/>
-<line x1="-400" y1="15200" x2="18950" y2="15200" stroke="#c9c9c9" stroke-width="12" stroke-dasharray="300 150 40 150"/>
-<line x1="-400" y1="17350" x2="18950" y2="17350" stroke="#c9c9c9" stroke-width="12" stroke-dasharray="300 150 40 150"/>
-<rect x="12900" y="5700" width="5650" height="1900" fill="url(#core)" stroke="none" stroke-width="20" />
-<rect x="12900" y="7600" width="2950" height="9750" fill="url(#core)" stroke="none" stroke-width="20" />
-<rect x="15850" y="7600" width="2700" height="2650" fill="#f2f2f2" stroke="none" stroke-width="20" />
-<rect x="16150" y="7900" width="2100" height="2050" fill="none" stroke="#000" stroke-width="18" />
-<line x1="16150" y1="7900" x2="18250" y2="9950" stroke="#000" stroke-width="12" />
-<line x1="16150" y1="9950" x2="18250" y2="7900" stroke="#000" stroke-width="12" />
-<text x="17200" y="9025.0" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="280" text-anchor="middle" fill="#000" font-weight="normal" >电梯</text>
-<rect x="15850" y="10250" width="2700" height="2650" fill="#f2f2f2" stroke="none" stroke-width="20" />
-<rect x="16150" y="10550" width="2100" height="2050" fill="none" stroke="#000" stroke-width="18" />
-<line x1="16150" y1="10550" x2="18250" y2="12600" stroke="#000" stroke-width="12" />
-<line x1="16150" y1="12600" x2="18250" y2="10550" stroke="#000" stroke-width="12" />
-<text x="17200" y="11675.0" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="280" text-anchor="middle" fill="#000" font-weight="normal" >电梯</text>
-<rect x="15850" y="12900" width="2700" height="2300" fill="#f2f2f2" stroke="none" stroke-width="20" />
-<rect x="16150" y="13200" width="2100" height="1700" fill="none" stroke="#000" stroke-width="18" />
-<line x1="16150" y1="13200" x2="18250" y2="14900" stroke="#000" stroke-width="12" />
-<line x1="16150" y1="14900" x2="18250" y2="13200" stroke="#000" stroke-width="12" />
-<text x="17200" y="14150.0" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="280" text-anchor="middle" fill="#000" font-weight="normal" >电梯</text>
-<rect x="15850" y="15200" width="2700" height="2150" fill="#f2f2f2" stroke="none" stroke-width="20" />
-<text x="17200" y="16350" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="260" text-anchor="middle" fill="#000" font-weight="normal" >设备/管井</text>
-<rect x="13300" y="11200" width="1300" height="5400" fill="#fff" stroke="#000" stroke-width="18" />
-<line x1="13300" y1="11200" x2="14600" y2="11200" stroke="#000" stroke-width="12" />
-<line x1="13300" y1="11470" x2="14600" y2="11470" stroke="#000" stroke-width="12" />
-<line x1="13300" y1="11740" x2="14600" y2="11740" stroke="#000" stroke-width="12" />
-<line x1="13300" y1="12010" x2="14600" y2="12010" stroke="#000" stroke-width="12" />
-<line x1="13300" y1="12280" x2="14600" y2="12280" stroke="#000" stroke-width="12" />
-<line x1="13300" y1="12550" x2="14600" y2="12550" stroke="#000" stroke-width="12" />
-<line x1="13300" y1="12820" x2="14600" y2="12820" stroke="#000" stroke-width="12" />
-<line x1="13300" y1="13090" x2="14600" y2="13090" stroke="#000" stroke-width="12" />
-<line x1="13300" y1="13360" x2="14600" y2="13360" stroke="#000" stroke-width="12" />
-<line x1="13300" y1="13630" x2="14600" y2="13630" stroke="#000" stroke-width="12" />
-<line x1="13300" y1="13900" x2="14600" y2="13900" stroke="#000" stroke-width="12" />
-<line x1="13300" y1="14170" x2="14600" y2="14170" stroke="#000" stroke-width="12" />
-<line x1="13300" y1="14440" x2="14600" y2="14440" stroke="#000" stroke-width="12" />
-<line x1="13300" y1="14710" x2="14600" y2="14710" stroke="#000" stroke-width="12" />
-<line x1="13300" y1="14980" x2="14600" y2="14980" stroke="#000" stroke-width="12" />
-<line x1="13300" y1="15250" x2="14600" y2="15250" stroke="#000" stroke-width="12" />
-<line x1="13300" y1="15520" x2="14600" y2="15520" stroke="#000" stroke-width="12" />
-<line x1="13300" y1="15790" x2="14600" y2="15790" stroke="#000" stroke-width="12" />
-<line x1="13300" y1="16060" x2="14600" y2="16060" stroke="#000" stroke-width="12" />
-<line x1="13300" y1="16330" x2="14600" y2="16330" stroke="#000" stroke-width="12" />
-<line x1="13300" y1="16600" x2="14600" y2="16600" stroke="#000" stroke-width="12" />
-<line x1="13950.0" y1="16500" x2="13950.0" y2="11400" stroke="#000" stroke-width="30" marker-end="url(#arrow)"/>
-<defs><marker id="arrow" markerWidth="8" markerHeight="8" refX="4" refY="4" orient="auto"><path d="M0,0 L8,4 L0,8 z" fill="#000"/></marker></defs>
-<text x="13950" y="10700" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="300" text-anchor="middle" fill="#000" font-weight="normal" >楼梯</text>
-<text x="14400" y="9000" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="320" text-anchor="middle" fill="#000" font-weight="normal" >电梯厅</text>
-<text x="15700" y="6750" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="320" text-anchor="middle" fill="#000" font-weight="normal" >公共走道</text>
-<rect x="0" y="-125.0" width="10800" height="250.0" fill="#2b2b2b" stroke="none" stroke-width="20" />
-<rect x="-125.0" y="0" width="250.0" height="3700" fill="#2b2b2b" stroke="none" stroke-width="20" />
-<rect x="-125.0" y="11500" width="250.0" height="3700" fill="#2b2b2b" stroke="none" stroke-width="20" />
-<rect x="0" y="15075.0" width="10800" height="250.0" fill="#2b2b2b" stroke="none" stroke-width="20" />
-<rect x="10675.0" y="0" width="250.0" height="700" fill="#2b2b2b" stroke="none" stroke-width="20" />
-<rect x="12775.0" y="700" width="250.0" height="5000" fill="#2b2b2b" stroke="none" stroke-width="20" />
-<rect x="12700.0" y="5700" width="400.0" height="300" fill="#000" stroke="none" stroke-width="20" />
-<rect x="12700.0" y="7300" width="400.0" height="10050" fill="#000" stroke="none" stroke-width="20" />
-<rect x="12900" y="5575.0" width="5650" height="250.0" fill="#2b2b2b" stroke="none" stroke-width="20" />
-<rect x="12900" y="7475.0" width="5650" height="250.0" fill="#2b2b2b" stroke="none" stroke-width="20" />
-<rect x="18425.0" y="5700" width="250.0" height="11650" fill="#2b2b2b" stroke="none" stroke-width="20" />
-<rect x="12900" y="17225.0" width="5650" height="250.0" fill="#2b2b2b" stroke="none" stroke-width="20" />
-<rect x="15750.0" y="7600" width="200.0" height="9750" fill="#2b2b2b" stroke="none" stroke-width="20" />
-<rect x="15850" y="10150.0" width="2700" height="200.0" fill="#2b2b2b" stroke="none" stroke-width="20" />
-<rect x="15850" y="12800.0" width="2700" height="200.0" fill="#2b2b2b" stroke="none" stroke-width="20" />
-<rect x="15850" y="15100.0" width="2700" height="200.0" fill="#2b2b2b" stroke="none" stroke-width="20" />
-<rect x="10800" y="700" width="2100" height="600" fill="none" stroke="#000" stroke-width="25" />
-<rect x="11300" y="800" width="1200" height="400" fill="none" stroke="#000" stroke-width="18" />
-<text x="11900" y="1080" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="220" text-anchor="middle" fill="#000" font-weight="normal" >空调机位</text>
-<line x1="10800" y1="1300" x2="12900" y2="1300" stroke="#000" stroke-width="35" />
-<rect x="10800" y="14400" width="2100" height="800" fill="none" stroke="#000" stroke-width="25" />
-<rect x="11300" y="14550" width="1200" height="500" fill="none" stroke="#000" stroke-width="18" />
-<text x="11900" y="14880" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="220" text-anchor="middle" fill="#000" font-weight="normal" >空调机位</text>
-<line x1="10800" y1="14400" x2="12900" y2="14400" stroke="#000" stroke-width="35" />
-<line x1="-90" y1="3700" x2="-90" y2="11500" stroke="#1f6fb2" stroke-width="18" />
-<line x1="0" y1="3700" x2="0" y2="11500" stroke="#1f6fb2" stroke-width="18" />
-<line x1="90" y1="3700" x2="90" y2="11500" stroke="#1f6fb2" stroke-width="18" />
-<rect x="0" y="3500.0" width="5700" height="400.0" fill="#000" stroke="none" stroke-width="20" />
-<rect x="6900" y="3600.0" width="3900" height="200.0" fill="#2b2b2b" stroke="none" stroke-width="20" />
-<rect x="4100.0" y="0" width="200.0" height="2600" fill="#2b2b2b" stroke="none" stroke-width="20" />
-<rect x="4100.0" y="3500" width="200.0" height="200" fill="#2b2b2b" stroke="none" stroke-width="20" />
-<rect x="4200" y="2300.0" width="2200" height="200.0" fill="#2b2b2b" stroke="none" stroke-width="20" />
-<rect x="7200" y="2300.0" width="600" height="200.0" fill="#2b2b2b" stroke="none" stroke-width="20" />
-<rect x="7700.0" y="0" width="200.0" height="2700" fill="#2b2b2b" stroke="none" stroke-width="20" />
-<rect x="7700.0" y="3500" width="200.0" height="200" fill="#2b2b2b" stroke="none" stroke-width="20" />
-<rect x="10700.0" y="0" width="200.0" height="4100" fill="#2b2b2b" stroke="none" stroke-width="20" />
-<rect x="10700.0" y="4900" width="200.0" height="800" fill="#2b2b2b" stroke="none" stroke-width="20" />
-<rect x="11700" y="2300.0" width="1200" height="200.0" fill="#2b2b2b" stroke="none" stroke-width="20" />
-<rect x="10800" y="2300.0" width="100" height="200.0" fill="#2b2b2b" stroke="none" stroke-width="20" />
-<rect x="10800" y="5600.0" width="2100" height="200.0" fill="#2b2b2b" stroke="none" stroke-width="20" />
-<rect x="10050" y="5600.0" width="750" height="200.0" fill="#2b2b2b" stroke="none" stroke-width="20" />
-<rect x="10100.0" y="5700" width="200.0" height="300" fill="#2b2b2b" stroke="none" stroke-width="20" />
-<rect x="10100.0" y="7300" width="200.0" height="2950" fill="#2b2b2b" stroke="none" stroke-width="20" />
-<rect x="12000" y="7500.0" width="900" height="200.0" fill="#2b2b2b" stroke="none" stroke-width="20" />
-<rect x="11900.0" y="7600" width="200.0" height="1900" fill="#2b2b2b" stroke="none" stroke-width="20" />
-<rect x="12000" y="9400.0" width="900" height="200.0" fill="#2b2b2b" stroke="none" stroke-width="20" />
-<rect x="9700" y="10150.0" width="3200" height="200.0" fill="#2b2b2b" stroke="none" stroke-width="20" />
-<rect x="9600.0" y="10250" width="200.0" height="100" fill="#2b2b2b" stroke="none" stroke-width="20" />
-<rect x="9600.0" y="11300" width="200.0" height="200" fill="#2b2b2b" stroke="none" stroke-width="20" />
-<line x1="9700" y1="10350" x2="9700" y2="11300" stroke="#1f6fb2" stroke-width="35" />
-<line x1="9630" y1="10350" x2="9630" y2="11300" stroke="#1f6fb2" stroke-width="15" />
-<line x1="9770" y1="10350" x2="9770" y2="11300" stroke="#1f6fb2" stroke-width="15" />
-<rect x="1100.0" y="3700" width="400.0" height="600" fill="#000" stroke="none" stroke-width="20" />
-<rect x="1100.0" y="7300" width="400.0" height="1200" fill="#000" stroke="none" stroke-width="20" />
-<rect x="1100.0" y="10300" width="400.0" height="1200" fill="#000" stroke="none" stroke-width="20" />
-<line x1="1300" y1="4300" x2="1300" y2="7300" stroke="#1f6fb2" stroke-width="35" />
-<line x1="1230" y1="4300" x2="1230" y2="7300" stroke="#1f6fb2" stroke-width="15" />
-<line x1="1370" y1="4300" x2="1370" y2="7300" stroke="#1f6fb2" stroke-width="15" />
-<line x1="1300" y1="8500" x2="1300" y2="10300" stroke="#1f6fb2" stroke-width="35" />
-<line x1="1230" y1="8500" x2="1230" y2="10300" stroke="#1f6fb2" stroke-width="15" />
-<line x1="1370" y1="8500" x2="1370" y2="10300" stroke="#1f6fb2" stroke-width="15" />
-<rect x="1300" y="7450.0" width="4200" height="300.0" fill="#2b2b2b" stroke="none" stroke-width="20" />
-<rect x="5350.0" y="6900" width="300.0" height="1000" fill="#000" stroke="none" stroke-width="20" />
-<line x1="5600" y1="3700" x2="5600" y2="6900" stroke="#1f6fb2" stroke-width="35" />
-<line x1="5530" y1="3700" x2="5530" y2="6900" stroke="#1f6fb2" stroke-width="15" />
-<line x1="5670" y1="3700" x2="5670" y2="6900" stroke="#1f6fb2" stroke-width="15" />
-<rect x="0" y="11300.0" width="5700" height="400.0" fill="#000" stroke="none" stroke-width="20" />
-<rect x="7000" y="11400.0" width="3800" height="200.0" fill="#2b2b2b" stroke="none" stroke-width="20" />
-<rect x="10700.0" y="11500" width="200.0" height="3700" fill="#2b2b2b" stroke="none" stroke-width="20" />
-<rect x="10800" y="12800.0" width="100" height="200.0" fill="#2b2b2b" stroke="none" stroke-width="20" />
-<rect x="11700" y="12800.0" width="1200" height="200.0" fill="#2b2b2b" stroke="none" stroke-width="20" />
-<rect x="4100.0" y="11500" width="200.0" height="200" fill="#2b2b2b" stroke="none" stroke-width="20" />
-<rect x="4100.0" y="12500" width="200.0" height="2700" fill="#2b2b2b" stroke="none" stroke-width="20" />
-<rect x="7700.0" y="11500" width="200.0" height="200" fill="#2b2b2b" stroke="none" stroke-width="20" />
-<rect x="7700.0" y="12500" width="200.0" height="2700" fill="#2b2b2b" stroke="none" stroke-width="20" />
-<rect x="4200" y="12300.0" width="300" height="200.0" fill="#2b2b2b" stroke="none" stroke-width="20" />
-<rect x="5300" y="12300.0" width="1200" height="200.0" fill="#2b2b2b" stroke="none" stroke-width="20" />
-<rect x="7300" y="12300.0" width="500" height="200.0" fill="#2b2b2b" stroke="none" stroke-width="20" />
-<rect x="6000.0" y="12400" width="200.0" height="2800" fill="#2b2b2b" stroke="none" stroke-width="20" />
-<line x1="300" y1="-90" x2="4000" y2="-90" stroke="#1f6fb2" stroke-width="18" />
-<line x1="300" y1="0" x2="4000" y2="0" stroke="#1f6fb2" stroke-width="18" />
-<line x1="300" y1="90" x2="4000" y2="90" stroke="#1f6fb2" stroke-width="18" />
-<line x1="-90" y1="2000" x2="-90" y2="3000" stroke="#1f6fb2" stroke-width="18" />
-<line x1="0" y1="2000" x2="0" y2="3000" stroke="#1f6fb2" stroke-width="18" />
-<line x1="90" y1="2000" x2="90" y2="3000" stroke="#1f6fb2" stroke-width="18" />
-<line x1="8000" y1="-90" x2="10600" y2="-90" stroke="#1f6fb2" stroke-width="18" />
-<line x1="8000" y1="0" x2="10600" y2="0" stroke="#1f6fb2" stroke-width="18" />
-<line x1="8000" y1="90" x2="10600" y2="90" stroke="#1f6fb2" stroke-width="18" />
-<line x1="300" y1="15110" x2="3900" y2="15110" stroke="#1f6fb2" stroke-width="18" />
-<line x1="300" y1="15200" x2="3900" y2="15200" stroke="#1f6fb2" stroke-width="18" />
-<line x1="300" y1="15290" x2="3900" y2="15290" stroke="#1f6fb2" stroke-width="18" />
-<line x1="4400" y1="15110" x2="5900" y2="15110" stroke="#1f6fb2" stroke-width="18" />
-<line x1="4400" y1="15200" x2="5900" y2="15200" stroke="#1f6fb2" stroke-width="18" />
-<line x1="4400" y1="15290" x2="5900" y2="15290" stroke="#1f6fb2" stroke-width="18" />
-<line x1="6300" y1="15110" x2="7700" y2="15110" stroke="#1f6fb2" stroke-width="18" />
-<line x1="6300" y1="15200" x2="7700" y2="15200" stroke="#1f6fb2" stroke-width="18" />
-<line x1="6300" y1="15290" x2="7700" y2="15290" stroke="#1f6fb2" stroke-width="18" />
-<line x1="8000" y1="15110" x2="10600" y2="15110" stroke="#1f6fb2" stroke-width="18" />
-<line x1="8000" y1="15200" x2="10600" y2="15200" stroke="#1f6fb2" stroke-width="18" />
-<line x1="8000" y1="15290" x2="10600" y2="15290" stroke="#1f6fb2" stroke-width="18" />
-<line x1="-90" y1="11700" x2="-90" y2="14900" stroke="#1f6fb2" stroke-width="18" />
-<line x1="0" y1="11700" x2="0" y2="14900" stroke="#1f6fb2" stroke-width="18" />
-<line x1="90" y1="11700" x2="90" y2="14900" stroke="#1f6fb2" stroke-width="18" />
-<line x1="10900" y1="1210" x2="12800" y2="1210" stroke="#1f6fb2" stroke-width="18" />
-<line x1="10900" y1="1300" x2="12800" y2="1300" stroke="#1f6fb2" stroke-width="18" />
-<line x1="10900" y1="1390" x2="12800" y2="1390" stroke="#1f6fb2" stroke-width="18" />
-<line x1="4200" y1="3500" x2="3300.0" y2="3500.0" stroke="#000" stroke-width="40" />
-<path d="M 4200.0 2600.0 A 900 900 0 0 0 3300.0 3500.0" fill="none" stroke="#000" stroke-width="15" stroke-dasharray="60 40"/>
-<line x1="7200" y1="2400" x2="7200.0" y2="3200.0" stroke="#000" stroke-width="40" />
-<path d="M 6400.0 2400.0 A 800 800 0 0 0 7200.0 3200.0" fill="none" stroke="#000" stroke-width="15" stroke-dasharray="60 40"/>
-<line x1="5700" y1="3700" x2="5700.0" y2="3100.0" stroke="#000" stroke-width="40" />
-<path d="M 6300.0 3700.0 A 600 600 0 0 0 5700.0 3100.0" fill="none" stroke="#000" stroke-width="15" stroke-dasharray="60 40"/>
-<line x1="6900" y1="3700" x2="6900.0" y2="3100.0" stroke="#000" stroke-width="40" />
-<path d="M 6300.0 3700.0 A 600 600 0 0 1 6900.0 3100.0" fill="none" stroke="#000" stroke-width="15" stroke-dasharray="60 40"/>
-<line x1="10800" y1="4900" x2="11600.0" y2="4900.0" stroke="#000" stroke-width="40" />
-<path d="M 10800.0 4100.0 A 800 800 0 0 1 11600.0 4900.0" fill="none" stroke="#000" stroke-width="15" stroke-dasharray="60 40"/>
-<line x1="10900" y1="2400" x2="10900.0" y2="1600.0" stroke="#000" stroke-width="40" />
-<path d="M 11700.0 2400.0 A 800 800 0 0 0 10900.0 1600.0" fill="none" stroke="#000" stroke-width="15" stroke-dasharray="60 40"/>
-<line x1="10050" y1="5700" x2="10050.0" y2="6550.0" stroke="#000" stroke-width="40" />
-<path d="M 9200.0 5700.0 A 850 850 0 0 0 10050.0 6550.0" fill="none" stroke="#000" stroke-width="15" stroke-dasharray="60 40"/>
-<line x1="12900" y1="6100" x2="11800.0" y2="6100.0" stroke="#000" stroke-width="40" />
-<path d="M 12900.0 7200.0 A 1100 1100 0 0 1 11800.0 6100.0" fill="none" stroke="#000" stroke-width="15" stroke-dasharray="60 40"/>
-<line x1="4200" y1="11700" x2="3400.0" y2="11700.0" stroke="#000" stroke-width="40" />
-<path d="M 4200.0 12500.0 A 800 800 0 0 1 3400.0 11700.0" fill="none" stroke="#000" stroke-width="15" stroke-dasharray="60 40"/>
-<line x1="7800" y1="11700" x2="8600.0" y2="11700.0" stroke="#000" stroke-width="40" />
-<path d="M 7800.0 12500.0 A 800 800 0 0 0 8600.0 11700.0" fill="none" stroke="#000" stroke-width="15" stroke-dasharray="60 40"/>
-<line x1="4500" y1="12400" x2="4500.0" y2="13200.0" stroke="#000" stroke-width="40" />
-<path d="M 5300.0 12400.0 A 800 800 0 0 1 4500.0 13200.0" fill="none" stroke="#000" stroke-width="15" stroke-dasharray="60 40"/>
-<line x1="7300" y1="12400" x2="7300.0" y2="13200.0" stroke="#000" stroke-width="40" />
-<path d="M 6500.0 12400.0 A 800 800 0 0 0 7300.0 13200.0" fill="none" stroke="#000" stroke-width="15" stroke-dasharray="60 40"/>
-<line x1="10900" y1="12900" x2="10900.0" y2="13700.0" stroke="#000" stroke-width="40" />
-<path d="M 11700.0 12900.0 A 800 800 0 0 1 10900.0 13700.0" fill="none" stroke="#000" stroke-width="15" stroke-dasharray="60 40"/>
-<rect x="300" y="300" width="3700" height="550" fill="none" stroke="#000" stroke-width="18" />
-<rect x="1300" y="300" width="2100" height="550" fill="#eee" stroke="#000" stroke-width="18" />
-<circle cx="800" cy="575" r="120" fill="none" stroke="#000" stroke-width="20"/>
-<circle cx="3650" cy="575" r="120" fill="none" stroke="#000" stroke-width="20"/>
-<rect x="1300" y="850" width="2100" height="2150" fill="none" stroke="#000" stroke-width="25" />
-<line x1="1300" y1="1400" x2="3400" y2="1400" stroke="#000" stroke-width="15" />
-<rect x="1400" y="950" width="900" height="400" fill="none" stroke="#000" stroke-width="12" />
-<rect x="2400" y="950" width="900" height="400" fill="none" stroke="#000" stroke-width="12" />
-<rect x="5900" y="200" width="1200" height="1100" fill="#eef5fb" stroke="#000" stroke-width="18" />
-<line x1="5900" y1="1300" x2="7100" y2="1300" stroke="#1f6fb2" stroke-width="30" />
-<circle cx="6500" cy="500" r="90" fill="none" stroke="#000" stroke-width="20"/>
-<ellipse cx="4950" cy="750" rx="230" ry="330" fill="none" stroke="#000" stroke-width="18"/>
-<rect x="4700" y="300" width="500" height="220" fill="none" stroke="#000" stroke-width="15" />
-<rect x="4600" y="1500" width="1700" height="800" fill="none" stroke="#000" stroke-width="18" rx="300"/>
-<rect x="4750" y="1620" width="1400" height="560" fill="none" stroke="#000" stroke-width="12" rx="250"/>
-<rect x="7000" y="900" width="750" height="1400" fill="none" stroke="#000" stroke-width="18" />
-<ellipse cx="7375" cy="1250" rx="230" ry="200" fill="none" stroke="#000" stroke-width="15"/>
-<ellipse cx="7375" cy="1950" rx="230" ry="200" fill="none" stroke="#000" stroke-width="15"/>
-<rect x="4300" y="300" width="300" height="1200" fill="url(#hatch)" stroke="#000" stroke-width="18" />
-<rect x="8000" y="300" width="600" height="3200" fill="none" stroke="#000" stroke-width="18" />
-<line x1="8000" y1="450" x2="8600" y2="450" stroke="#000" stroke-width="10" />
-<line x1="8000" y1="600" x2="8600" y2="600" stroke="#000" stroke-width="10" />
-<line x1="8000" y1="750" x2="8600" y2="750" stroke="#000" stroke-width="10" />
-<line x1="8000" y1="900" x2="8600" y2="900" stroke="#000" stroke-width="10" />
-<line x1="8000" y1="1050" x2="8600" y2="1050" stroke="#000" stroke-width="10" />
-<line x1="8000" y1="1200" x2="8600" y2="1200" stroke="#000" stroke-width="10" />
-<line x1="8000" y1="1350" x2="8600" y2="1350" stroke="#000" stroke-width="10" />
-<line x1="8000" y1="1500" x2="8600" y2="1500" stroke="#000" stroke-width="10" />
-<line x1="8000" y1="1650" x2="8600" y2="1650" stroke="#000" stroke-width="10" />
-<line x1="8000" y1="1800" x2="8600" y2="1800" stroke="#000" stroke-width="10" />
-<line x1="8000" y1="1950" x2="8600" y2="1950" stroke="#000" stroke-width="10" />
-<line x1="8000" y1="2100" x2="8600" y2="2100" stroke="#000" stroke-width="10" />
-<line x1="8000" y1="2250" x2="8600" y2="2250" stroke="#000" stroke-width="10" />
-<line x1="8000" y1="2400" x2="8600" y2="2400" stroke="#000" stroke-width="10" />
-<line x1="8000" y1="2550" x2="8600" y2="2550" stroke="#000" stroke-width="10" />
-<line x1="8000" y1="2700" x2="8600" y2="2700" stroke="#000" stroke-width="10" />
-<line x1="8000" y1="2850" x2="8600" y2="2850" stroke="#000" stroke-width="10" />
-<line x1="8000" y1="3000" x2="8600" y2="3000" stroke="#000" stroke-width="10" />
-<line x1="8000" y1="3150" x2="8600" y2="3150" stroke="#000" stroke-width="10" />
-<line x1="8000" y1="3300" x2="8600" y2="3300" stroke="#000" stroke-width="10" />
-<line x1="8000" y1="3450" x2="8600" y2="3450" stroke="#000" stroke-width="10" />
-<rect x="10000" y="300" width="600" height="3200" fill="none" stroke="#000" stroke-width="18" />
-<line x1="10000" y1="450" x2="10600" y2="450" stroke="#000" stroke-width="10" />
-<line x1="10000" y1="600" x2="10600" y2="600" stroke="#000" stroke-width="10" />
-<line x1="10000" y1="750" x2="10600" y2="750" stroke="#000" stroke-width="10" />
-<line x1="10000" y1="900" x2="10600" y2="900" stroke="#000" stroke-width="10" />
-<line x1="10000" y1="1050" x2="10600" y2="1050" stroke="#000" stroke-width="10" />
-<line x1="10000" y1="1200" x2="10600" y2="1200" stroke="#000" stroke-width="10" />
-<line x1="10000" y1="1350" x2="10600" y2="1350" stroke="#000" stroke-width="10" />
-<line x1="10000" y1="1500" x2="10600" y2="1500" stroke="#000" stroke-width="10" />
-<line x1="10000" y1="1650" x2="10600" y2="1650" stroke="#000" stroke-width="10" />
-<line x1="10000" y1="1800" x2="10600" y2="1800" stroke="#000" stroke-width="10" />
-<line x1="10000" y1="1950" x2="10600" y2="1950" stroke="#000" stroke-width="10" />
-<line x1="10000" y1="2100" x2="10600" y2="2100" stroke="#000" stroke-width="10" />
-<line x1="10000" y1="2250" x2="10600" y2="2250" stroke="#000" stroke-width="10" />
-<line x1="10000" y1="2400" x2="10600" y2="2400" stroke="#000" stroke-width="10" />
-<line x1="10000" y1="2550" x2="10600" y2="2550" stroke="#000" stroke-width="10" />
-<line x1="10000" y1="2700" x2="10600" y2="2700" stroke="#000" stroke-width="10" />
-<line x1="10000" y1="2850" x2="10600" y2="2850" stroke="#000" stroke-width="10" />
-<line x1="10000" y1="3000" x2="10600" y2="3000" stroke="#000" stroke-width="10" />
-<line x1="10000" y1="3150" x2="10600" y2="3150" stroke="#000" stroke-width="10" />
-<line x1="10000" y1="3300" x2="10600" y2="3300" stroke="#000" stroke-width="10" />
-<line x1="10000" y1="3450" x2="10600" y2="3450" stroke="#000" stroke-width="10" />
-<rect x="8900" y="1200" width="800" height="2100" fill="none" stroke="#000" stroke-width="18" />
-<rect x="12200" y="2600" width="500" height="2900" fill="url(#hatch)" stroke="#000" stroke-width="18" />
-<rect x="10950" y="2550" width="600" height="600" fill="none" stroke="#000" stroke-width="18" />
-<circle cx="11250" cy="2850" r="220" fill="none" stroke="#000" stroke-width="20"/>
-<rect x="1700" y="3900" width="3800" height="400" fill="url(#hatch)" stroke="#000" stroke-width="18" />
-<circle cx="2500" cy="4800" r="320" fill="none" stroke="#000" stroke-width="20"/>
-<circle cx="2500" cy="4800" r="120" fill="none" stroke="#000" stroke-width="20"/>
-<rect x="2900" y="4400" width="800" height="700" fill="none" stroke="#000" stroke-width="15" rx="150"/>
-<rect x="3700" y="6400" width="900" height="500" fill="none" stroke="#000" stroke-width="18" />
-<rect x="2400" y="6950" width="2900" height="350" fill="url(#hatch)" stroke="#000" stroke-width="18" />
-<rect x="7000" y="3900" width="3600" height="400" fill="url(#hatch)" stroke="#000" stroke-width="18" />
-<rect x="7000" y="4900" width="2400" height="800" fill="none" stroke="#000" stroke-width="22" />
-<circle cx="9000" cy="5300" r="200" fill="none" stroke="#000" stroke-width="20"/>
-<rect x="7200" y="5050" width="1100" height="500" fill="none" stroke="#000" stroke-width="12" />
-<circle cx="7600" cy="6000" r="220" fill="none" stroke="#000" stroke-width="20"/>
-<circle cx="8300" cy="6000" r="220" fill="none" stroke="#000" stroke-width="20"/>
-<rect x="9500" y="5000" width="1200" height="600" fill="url(#hatch)" stroke="#000" stroke-width="18" />
-<rect x="7200" y="8700" width="1400" height="1400" fill="none" stroke="#000" stroke-width="22" />
-<rect x="6750" y="8850" width="400" height="350" fill="none" stroke="#000" stroke-width="12" />
-<rect x="8650" y="8850" width="400" height="350" fill="none" stroke="#000" stroke-width="12" />
-<rect x="6750" y="9350" width="400" height="350" fill="none" stroke="#000" stroke-width="12" />
-<rect x="8650" y="9350" width="400" height="350" fill="none" stroke="#000" stroke-width="12" />
-<rect x="6750" y="9850" width="400" height="350" fill="none" stroke="#000" stroke-width="12" />
-<rect x="8650" y="9850" width="400" height="350" fill="none" stroke="#000" stroke-width="12" />
-<rect x="7100" y="11000" width="2400" height="400" fill="url(#hatch)" stroke="#000" stroke-width="18" />
-<rect x="9600" y="8100" width="500" height="1300" fill="url(#hatch)" stroke="#000" stroke-width="18" />
-<circle cx="9800" cy="7750" r="250" fill="none" stroke="#000" stroke-width="20"/>
-<line x1="3200" y1="7800" x2="4600" y2="7800" stroke="#000" stroke-width="60" />
-<rect x="1900" y="8900" width="700" height="2200" fill="none" stroke="#000" stroke-width="18" />
-<rect x="2600" y="10400" width="3000" height="700" fill="none" stroke="#000" stroke-width="18" />
-<line x1="2650" y1="10400" x2="2650" y2="11100" stroke="#000" stroke-width="10" />
-<line x1="3350" y1="10400" x2="3350" y2="11100" stroke="#000" stroke-width="10" />
-<line x1="4050" y1="10400" x2="4050" y2="11100" stroke="#000" stroke-width="10" />
-<line x1="4750" y1="10400" x2="4750" y2="11100" stroke="#000" stroke-width="10" />
-<line x1="5450" y1="10400" x2="5450" y2="11100" stroke="#000" stroke-width="10" />
-<circle cx="3850" cy="9450" r="420" fill="none" stroke="#000" stroke-width="20"/>
-<circle cx="3850" cy="9450" r="300" fill="none" stroke="#000" stroke-width="20"/>
-<rect x="2800" y="8400" width="2800" height="1900" fill="none" stroke="#000" stroke-width="10" stroke-dasharray="80 80"/>
-<rect x="11400" y="7700" width="500" height="1800" fill="url(#hatch)" stroke="#000" stroke-width="18" />
-<rect x="10400" y="9650" width="1500" height="550" fill="url(#hatch)" stroke="#000" stroke-width="18" />
-<rect x="12100" y="7700" width="650" height="1700" fill="url(#hatch)" stroke="#000" stroke-width="18" />
-<text x="12425.0" y="8634.0" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="240" text-anchor="middle" fill="#000" font-weight="normal" >SP</text>
-<rect x="12100" y="10400" width="600" height="2350" fill="url(#hatch)" stroke="#000" stroke-width="18" />
-<circle cx="12400" cy="11000" r="180" fill="none" stroke="#000" stroke-width="20"/>
-<circle cx="12400" cy="11700" r="150" fill="none" stroke="#000" stroke-width="20"/>
-<circle cx="12400" cy="12050" r="150" fill="none" stroke="#000" stroke-width="20"/>
-<rect x="300" y="14400" width="3150" height="500" fill="none" stroke="#000" stroke-width="18" />
-<rect x="1100" y="14400" width="1800" height="500" fill="#eee" stroke="#000" stroke-width="18" />
-<circle cx="700" cy="14650" r="120" fill="none" stroke="#000" stroke-width="20"/>
-<circle cx="3150" cy="14650" r="120" fill="none" stroke="#000" stroke-width="20"/>
-<rect x="1100" y="12400" width="1800" height="2000" fill="none" stroke="#000" stroke-width="25" />
-<line x1="1100" y1="13850" x2="2900" y2="13850" stroke="#000" stroke-width="15" />
-<rect x="1200" y="13950" width="750" height="350" fill="none" stroke="#000" stroke-width="12" />
-<rect x="2050" y="13950" width="750" height="350" fill="none" stroke="#000" stroke-width="12" />
-<rect x="3500" y="12400" width="600" height="2500" fill="none" stroke="#000" stroke-width="18" />
-<line x1="3500" y1="12550" x2="4100" y2="12550" stroke="#000" stroke-width="10" />
-<line x1="3500" y1="12700" x2="4100" y2="12700" stroke="#000" stroke-width="10" />
-<line x1="3500" y1="12850" x2="4100" y2="12850" stroke="#000" stroke-width="10" />
-<line x1="3500" y1="13000" x2="4100" y2="13000" stroke="#000" stroke-width="10" />
-<line x1="3500" y1="13150" x2="4100" y2="13150" stroke="#000" stroke-width="10" />
-<line x1="3500" y1="13300" x2="4100" y2="13300" stroke="#000" stroke-width="10" />
-<line x1="3500" y1="13450" x2="4100" y2="13450" stroke="#000" stroke-width="10" />
-<line x1="3500" y1="13600" x2="4100" y2="13600" stroke="#000" stroke-width="10" />
-<line x1="3500" y1="13750" x2="4100" y2="13750" stroke="#000" stroke-width="10" />
-<line x1="3500" y1="13900" x2="4100" y2="13900" stroke="#000" stroke-width="10" />
-<line x1="3500" y1="14050" x2="4100" y2="14050" stroke="#000" stroke-width="10" />
-<line x1="3500" y1="14200" x2="4100" y2="14200" stroke="#000" stroke-width="10" />
-<line x1="3500" y1="14350" x2="4100" y2="14350" stroke="#000" stroke-width="10" />
-<line x1="3500" y1="14500" x2="4100" y2="14500" stroke="#000" stroke-width="10" />
-<line x1="3500" y1="14650" x2="4100" y2="14650" stroke="#000" stroke-width="10" />
-<line x1="3500" y1="14800" x2="4100" y2="14800" stroke="#000" stroke-width="10" />
-<ellipse cx="5700" cy="12850" rx="200" ry="280" fill="none" stroke="#000" stroke-width="15"/>
-<rect x="5500" y="12500" width="400" height="200" fill="none" stroke="#000" stroke-width="12" />
-<ellipse cx="6500" cy="12850" rx="200" ry="280" fill="none" stroke="#000" stroke-width="15"/>
-<rect x="6300" y="12500" width="400" height="200" fill="none" stroke="#000" stroke-width="12" />
-<rect x="4500" y="13300" width="1400" height="500" fill="none" stroke="#000" stroke-width="15" />
-<ellipse cx="5200" cy="13550" rx="260" ry="170" fill="none" stroke="#000" stroke-width="12"/>
-<rect x="6300" y="13300" width="1400" height="500" fill="none" stroke="#000" stroke-width="15" />
-<ellipse cx="7000" cy="13550" rx="260" ry="170" fill="none" stroke="#000" stroke-width="12"/>
-<rect x="4500" y="13950" width="1400" height="1000" fill="#eef5fb" stroke="#000" stroke-width="15" />
-<circle cx="5200" cy="14450" r="90" fill="none" stroke="#000" stroke-width="20"/>
-<line x1="4500" y1="13950" x2="5900" y2="13950" stroke="#1f6fb2" stroke-width="30" />
-<rect x="6300" y="13950" width="1400" height="1000" fill="#eef5fb" stroke="#000" stroke-width="15" />
-<circle cx="7000" cy="14450" r="90" fill="none" stroke="#000" stroke-width="20"/>
-<line x1="6300" y1="13950" x2="7700" y2="13950" stroke="#1f6fb2" stroke-width="30" />
-<rect x="8700" y="11600" width="1900" height="500" fill="url(#hatch)" stroke="#000" stroke-width="18" />
-<rect x="8200" y="12900" width="1600" height="2000" fill="none" stroke="#000" stroke-width="25" />
-<line x1="9300" y1="12900" x2="9300" y2="14900" stroke="#000" stroke-width="15" />
-<rect x="9400" y="13000" width="300" height="800" fill="none" stroke="#000" stroke-width="12" />
-<rect x="9400" y="14000" width="300" height="800" fill="none" stroke="#000" stroke-width="12" />
-<rect x="9800" y="12900" width="600" height="2000" fill="#eee" stroke="#000" stroke-width="18" />
-<circle cx="10100" cy="13200" r="120" fill="none" stroke="#000" stroke-width="20"/>
-<rect x="11900" y="13000" width="600" height="600" fill="none" stroke="#000" stroke-width="15" />
-<circle cx="12200" cy="13300" r="200" fill="none" stroke="#000" stroke-width="20"/>
-<text x="2100" y="2000" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="330" text-anchor="middle" fill="#000" font-weight="bold" >主卧室</text>
-<text x="2100" y="2363.0" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="230.99999999999997" text-anchor="middle" fill="#444" font-weight="normal" >约4.2×3.7</text>
-<text x="5450" y="1400" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="280" text-anchor="middle" fill="#000" font-weight="bold" >主卫生间</text>
-<text x="5450" y="1708.0" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="196.0" text-anchor="middle" fill="#444" font-weight="normal" >约3.6×2.4</text>
-<text x="6000" y="3100" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="260" text-anchor="middle" fill="#000" font-weight="bold" >过厅</text>
-<text x="9300" y="700" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="300" text-anchor="middle" fill="#000" font-weight="bold" >衣帽间</text>
-<text x="9300" y="1030.0" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="210.0" text-anchor="middle" fill="#444" font-weight="normal" >约3.0×3.7</text>
-<text x="11850" y="1950" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="260" text-anchor="middle" fill="#000" font-weight="bold" >阳台</text>
-<text x="11850" y="2236.0" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="182.0" text-anchor="middle" fill="#444" font-weight="normal" >约2.1×1.1</text>
-<text x="11800" y="3900" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="260" text-anchor="middle" fill="#000" font-weight="bold" >家政多功能室</text>
-<text x="11800" y="4186.0" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="182.0" text-anchor="middle" fill="#444" font-weight="normal" >约2.1×3.3</text>
-<text x="650" y="7700" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="260" text-anchor="middle" fill="#000" font-weight="bold" >休闲阳台</text>
-<text x="650" y="8300" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="200" text-anchor="middle" fill="#444" font-weight="normal" >约1.3×7.8</text>
-<text x="3400" y="5700" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="330" text-anchor="middle" fill="#000" font-weight="bold" >多功能室</text>
-<text x="3400" y="6063.0" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="230.99999999999997" text-anchor="middle" fill="#444" font-weight="normal" >约4.3×3.9</text>
-<text x="8200" y="4650" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="300" text-anchor="middle" fill="#000" font-weight="bold" >西厨</text>
-<text x="8200" y="4980.0" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="210.0" text-anchor="middle" fill="#444" font-weight="normal" >约5.2×2.0</text>
-<text x="7900" y="8300" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="330" text-anchor="middle" fill="#000" font-weight="bold" >餐厅</text>
-<text x="3700" y="8500" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="330" text-anchor="middle" fill="#000" font-weight="bold" >客厅</text>
-<text x="3700" y="8863.0" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="230.99999999999997" text-anchor="middle" fill="#444" font-weight="normal" >约4.3×3.9</text>
-<text x="11550" y="6700" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="300" text-anchor="middle" fill="#000" font-weight="bold" >玄关</text>
-<text x="11100" y="8800" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="240" text-anchor="middle" fill="#000" font-weight="bold" >储物/收纳</text>
-<text x="11000" y="10900" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="300" text-anchor="middle" fill="#000" font-weight="bold" >中厨</text>
-<text x="2100" y="13300" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="330" text-anchor="middle" fill="#000" font-weight="bold" >卧室</text>
-<text x="2100" y="13663.0" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="230.99999999999997" text-anchor="middle" fill="#444" font-weight="normal" >约4.2×3.7</text>
-<text x="5150" y="14100" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="230" text-anchor="middle" fill="#000" font-weight="bold" >客卫生间</text>
-<text x="5150" y="14353.0" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="161.0" text-anchor="middle" fill="#444" font-weight="normal" >约1.9×2.8</text>
-<text x="7000" y="14100" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="230" text-anchor="middle" fill="#000" font-weight="bold" >客卫生间</text>
-<text x="7000" y="14353.0" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="161.0" text-anchor="middle" fill="#444" font-weight="normal" >约1.7×2.8</text>
-<text x="9000" y="12600" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="300" text-anchor="middle" fill="#000" font-weight="bold" >儿童卧室</text>
-<text x="9000" y="12930.0" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="210.0" text-anchor="middle" fill="#444" font-weight="normal" >约3.0×3.7</text>
-<text x="11850" y="13900" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="260" text-anchor="middle" fill="#000" font-weight="bold" >阳台</text>
-<text x="11850" y="14186.0" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="182.0" text-anchor="middle" fill="#444" font-weight="normal" >约2.1×1.5</text>
-<text x="6000" y="12050" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="240" text-anchor="middle" fill="#000" font-weight="normal" >走道</text>
-<line x1="0" y1="-1100" x2="18550" y2="-1100" stroke="#000" stroke-width="18" />
-<line x1="0" y1="-1220" x2="0" y2="-980" stroke="#000" stroke-width="18" />
-<line x1="-80" y1="-1020" x2="80" y2="-1180" stroke="#000" stroke-width="25" />
-<line x1="1300" y1="-1220" x2="1300" y2="-980" stroke="#000" stroke-width="18" />
-<line x1="1220" y1="-1020" x2="1380" y2="-1180" stroke="#000" stroke-width="25" />
-<line x1="4200" y1="-1220" x2="4200" y2="-980" stroke="#000" stroke-width="18" />
-<line x1="4120" y1="-1020" x2="4280" y2="-1180" stroke="#000" stroke-width="25" />
-<line x1="6100" y1="-1220" x2="6100" y2="-980" stroke="#000" stroke-width="18" />
-<line x1="6020" y1="-1020" x2="6180" y2="-1180" stroke="#000" stroke-width="25" />
-<line x1="7800" y1="-1220" x2="7800" y2="-980" stroke="#000" stroke-width="18" />
-<line x1="7720" y1="-1020" x2="7880" y2="-1180" stroke="#000" stroke-width="25" />
-<line x1="10800" y1="-1220" x2="10800" y2="-980" stroke="#000" stroke-width="18" />
-<line x1="10720" y1="-1020" x2="10880" y2="-1180" stroke="#000" stroke-width="25" />
-<line x1="12900" y1="-1220" x2="12900" y2="-980" stroke="#000" stroke-width="18" />
-<line x1="12820" y1="-1020" x2="12980" y2="-1180" stroke="#000" stroke-width="25" />
-<line x1="15850" y1="-1220" x2="15850" y2="-980" stroke="#000" stroke-width="18" />
-<line x1="15770" y1="-1020" x2="15930" y2="-1180" stroke="#000" stroke-width="25" />
-<line x1="18550" y1="-1220" x2="18550" y2="-980" stroke="#000" stroke-width="18" />
-<line x1="18470" y1="-1020" x2="18630" y2="-1180" stroke="#000" stroke-width="25" />
-<text x="650.0" y="-1170" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="260" text-anchor="middle" fill="#000" font-weight="normal" >1300</text>
-<text x="2750.0" y="-1170" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="260" text-anchor="middle" fill="#000" font-weight="normal" >2900</text>
-<text x="5150.0" y="-1170" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="260" text-anchor="middle" fill="#000" font-weight="normal" >1900</text>
-<text x="6950.0" y="-1170" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="260" text-anchor="middle" fill="#000" font-weight="normal" >1700</text>
-<text x="9300.0" y="-1170" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="260" text-anchor="middle" fill="#000" font-weight="normal" >3000</text>
-<text x="11850.0" y="-1170" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="260" text-anchor="middle" fill="#000" font-weight="normal" >2100</text>
-<text x="14375.0" y="-1170" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="260" text-anchor="middle" fill="#000" font-weight="normal" >2950</text>
-<text x="17200.0" y="-1170" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="260" text-anchor="middle" fill="#000" font-weight="normal" >2700</text>
-<line x1="0" y1="-2000" x2="18550" y2="-2000" stroke="#000" stroke-width="18" />
-<line x1="0" y1="-2120" x2="0" y2="-1880" stroke="#000" stroke-width="18" />
-<line x1="-80" y1="-1920" x2="80" y2="-2080" stroke="#000" stroke-width="25" />
-<line x1="18550" y1="-2120" x2="18550" y2="-1880" stroke="#000" stroke-width="18" />
-<line x1="18470" y1="-1920" x2="18630" y2="-2080" stroke="#000" stroke-width="25" />
-<text x="9275.0" y="-2070" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="260" text-anchor="middle" fill="#000" font-weight="normal" >18550</text>
-<line x1="0" y1="18450" x2="18550" y2="18450" stroke="#000" stroke-width="18" />
-<line x1="0" y1="18330" x2="0" y2="18570" stroke="#000" stroke-width="18" />
-<line x1="-80" y1="18530" x2="80" y2="18370" stroke="#000" stroke-width="25" />
-<line x1="1300" y1="18330" x2="1300" y2="18570" stroke="#000" stroke-width="18" />
-<line x1="1220" y1="18530" x2="1380" y2="18370" stroke="#000" stroke-width="25" />
-<line x1="4200" y1="18330" x2="4200" y2="18570" stroke="#000" stroke-width="18" />
-<line x1="4120" y1="18530" x2="4280" y2="18370" stroke="#000" stroke-width="25" />
-<line x1="6100" y1="18330" x2="6100" y2="18570" stroke="#000" stroke-width="18" />
-<line x1="6020" y1="18530" x2="6180" y2="18370" stroke="#000" stroke-width="25" />
-<line x1="7800" y1="18330" x2="7800" y2="18570" stroke="#000" stroke-width="18" />
-<line x1="7720" y1="18530" x2="7880" y2="18370" stroke="#000" stroke-width="25" />
-<line x1="10800" y1="18330" x2="10800" y2="18570" stroke="#000" stroke-width="18" />
-<line x1="10720" y1="18530" x2="10880" y2="18370" stroke="#000" stroke-width="25" />
-<line x1="12900" y1="18330" x2="12900" y2="18570" stroke="#000" stroke-width="18" />
-<line x1="12820" y1="18530" x2="12980" y2="18370" stroke="#000" stroke-width="25" />
-<line x1="15850" y1="18330" x2="15850" y2="18570" stroke="#000" stroke-width="18" />
-<line x1="15770" y1="18530" x2="15930" y2="18370" stroke="#000" stroke-width="25" />
-<line x1="18550" y1="18330" x2="18550" y2="18570" stroke="#000" stroke-width="18" />
-<line x1="18470" y1="18530" x2="18630" y2="18370" stroke="#000" stroke-width="25" />
-<text x="650.0" y="18760" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="260" text-anchor="middle" fill="#000" font-weight="normal" >1300</text>
-<text x="2750.0" y="18760" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="260" text-anchor="middle" fill="#000" font-weight="normal" >2900</text>
-<text x="5150.0" y="18760" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="260" text-anchor="middle" fill="#000" font-weight="normal" >1900</text>
-<text x="6950.0" y="18760" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="260" text-anchor="middle" fill="#000" font-weight="normal" >1700</text>
-<text x="9300.0" y="18760" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="260" text-anchor="middle" fill="#000" font-weight="normal" >3000</text>
-<text x="11850.0" y="18760" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="260" text-anchor="middle" fill="#000" font-weight="normal" >2100</text>
-<text x="14375.0" y="18760" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="260" text-anchor="middle" fill="#000" font-weight="normal" >2950</text>
-<text x="17200.0" y="18760" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="260" text-anchor="middle" fill="#000" font-weight="normal" >2700</text>
-<line x1="0" y1="19350" x2="18550" y2="19350" stroke="#000" stroke-width="18" />
-<line x1="0" y1="19230" x2="0" y2="19470" stroke="#000" stroke-width="18" />
-<line x1="-80" y1="19430" x2="80" y2="19270" stroke="#000" stroke-width="25" />
-<line x1="18550" y1="19230" x2="18550" y2="19470" stroke="#000" stroke-width="18" />
-<line x1="18470" y1="19430" x2="18630" y2="19270" stroke="#000" stroke-width="25" />
-<text x="9275.0" y="19660" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="260" text-anchor="middle" fill="#000" font-weight="normal" >18550</text>
-<line x1="-1100" y1="0" x2="-1100" y2="17350" stroke="#000" stroke-width="18" />
-<line x1="-1220" y1="0" x2="-980" y2="0" stroke="#000" stroke-width="18" />
-<line x1="-1180" y1="80" x2="-1020" y2="-80" stroke="#000" stroke-width="25" />
-<line x1="-1220" y1="2400" x2="-980" y2="2400" stroke="#000" stroke-width="18" />
-<line x1="-1180" y1="2480" x2="-1020" y2="2320" stroke="#000" stroke-width="25" />
-<line x1="-1220" y1="3700" x2="-980" y2="3700" stroke="#000" stroke-width="18" />
-<line x1="-1180" y1="3780" x2="-1020" y2="3620" stroke="#000" stroke-width="25" />
-<line x1="-1220" y1="5700" x2="-980" y2="5700" stroke="#000" stroke-width="18" />
-<line x1="-1180" y1="5780" x2="-1020" y2="5620" stroke="#000" stroke-width="25" />
-<line x1="-1220" y1="7600" x2="-980" y2="7600" stroke="#000" stroke-width="18" />
-<line x1="-1180" y1="7680" x2="-1020" y2="7520" stroke="#000" stroke-width="25" />
-<line x1="-1220" y1="10250" x2="-980" y2="10250" stroke="#000" stroke-width="18" />
-<line x1="-1180" y1="10330" x2="-1020" y2="10170" stroke="#000" stroke-width="25" />
-<line x1="-1220" y1="11500" x2="-980" y2="11500" stroke="#000" stroke-width="18" />
-<line x1="-1180" y1="11580" x2="-1020" y2="11420" stroke="#000" stroke-width="25" />
-<line x1="-1220" y1="12900" x2="-980" y2="12900" stroke="#000" stroke-width="18" />
-<line x1="-1180" y1="12980" x2="-1020" y2="12820" stroke="#000" stroke-width="25" />
-<line x1="-1220" y1="15200" x2="-980" y2="15200" stroke="#000" stroke-width="18" />
-<line x1="-1180" y1="15280" x2="-1020" y2="15120" stroke="#000" stroke-width="25" />
-<line x1="-1220" y1="17350" x2="-980" y2="17350" stroke="#000" stroke-width="18" />
-<line x1="-1180" y1="17430" x2="-1020" y2="17270" stroke="#000" stroke-width="25" />
-<text x="-1180" y="1200.0" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="260" text-anchor="middle" fill="#000" font-weight="normal" transform="rotate(-90 -1180 1200.0)" dominant-baseline="auto">2400</text>
-<text x="-1180" y="3050.0" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="260" text-anchor="middle" fill="#000" font-weight="normal" transform="rotate(-90 -1180 3050.0)" dominant-baseline="auto">1300</text>
-<text x="-1180" y="4700.0" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="260" text-anchor="middle" fill="#000" font-weight="normal" transform="rotate(-90 -1180 4700.0)" dominant-baseline="auto">2000</text>
-<text x="-1180" y="6650.0" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="260" text-anchor="middle" fill="#000" font-weight="normal" transform="rotate(-90 -1180 6650.0)" dominant-baseline="auto">1900</text>
-<text x="-1180" y="8925.0" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="260" text-anchor="middle" fill="#000" font-weight="normal" transform="rotate(-90 -1180 8925.0)" dominant-baseline="auto">2650</text>
-<text x="-1180" y="10875.0" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="260" text-anchor="middle" fill="#000" font-weight="normal" transform="rotate(-90 -1180 10875.0)" dominant-baseline="auto">1250</text>
-<text x="-1180" y="12200.0" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="260" text-anchor="middle" fill="#000" font-weight="normal" transform="rotate(-90 -1180 12200.0)" dominant-baseline="auto">1400</text>
-<text x="-1180" y="14050.0" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="260" text-anchor="middle" fill="#000" font-weight="normal" transform="rotate(-90 -1180 14050.0)" dominant-baseline="auto">2300</text>
-<text x="-1180" y="16275.0" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="260" text-anchor="middle" fill="#000" font-weight="normal" transform="rotate(-90 -1180 16275.0)" dominant-baseline="auto">2150</text>
-<line x1="-2000" y1="0" x2="-2000" y2="17350" stroke="#000" stroke-width="18" />
-<line x1="-2120" y1="0" x2="-1880" y2="0" stroke="#000" stroke-width="18" />
-<line x1="-2080" y1="80" x2="-1920" y2="-80" stroke="#000" stroke-width="25" />
-<line x1="-2120" y1="17350" x2="-1880" y2="17350" stroke="#000" stroke-width="18" />
-<line x1="-2080" y1="17430" x2="-1920" y2="17270" stroke="#000" stroke-width="25" />
-<text x="-2080" y="8675.0" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="260" text-anchor="middle" fill="#000" font-weight="normal" transform="rotate(-90 -2080 8675.0)" dominant-baseline="auto">17350</text>
-<line x1="19650" y1="0" x2="19650" y2="17350" stroke="#000" stroke-width="18" />
-<line x1="19530" y1="0" x2="19770" y2="0" stroke="#000" stroke-width="18" />
-<line x1="19570" y1="80" x2="19730" y2="-80" stroke="#000" stroke-width="25" />
-<line x1="19530" y1="2400" x2="19770" y2="2400" stroke="#000" stroke-width="18" />
-<line x1="19570" y1="2480" x2="19730" y2="2320" stroke="#000" stroke-width="25" />
-<line x1="19530" y1="3700" x2="19770" y2="3700" stroke="#000" stroke-width="18" />
-<line x1="19570" y1="3780" x2="19730" y2="3620" stroke="#000" stroke-width="25" />
-<line x1="19530" y1="5700" x2="19770" y2="5700" stroke="#000" stroke-width="18" />
-<line x1="19570" y1="5780" x2="19730" y2="5620" stroke="#000" stroke-width="25" />
-<line x1="19530" y1="7600" x2="19770" y2="7600" stroke="#000" stroke-width="18" />
-<line x1="19570" y1="7680" x2="19730" y2="7520" stroke="#000" stroke-width="25" />
-<line x1="19530" y1="10250" x2="19770" y2="10250" stroke="#000" stroke-width="18" />
-<line x1="19570" y1="10330" x2="19730" y2="10170" stroke="#000" stroke-width="25" />
-<line x1="19530" y1="11500" x2="19770" y2="11500" stroke="#000" stroke-width="18" />
-<line x1="19570" y1="11580" x2="19730" y2="11420" stroke="#000" stroke-width="25" />
-<line x1="19530" y1="12900" x2="19770" y2="12900" stroke="#000" stroke-width="18" />
-<line x1="19570" y1="12980" x2="19730" y2="12820" stroke="#000" stroke-width="25" />
-<line x1="19530" y1="15200" x2="19770" y2="15200" stroke="#000" stroke-width="18" />
-<line x1="19570" y1="15280" x2="19730" y2="15120" stroke="#000" stroke-width="25" />
-<line x1="19530" y1="17350" x2="19770" y2="17350" stroke="#000" stroke-width="18" />
-<line x1="19570" y1="17430" x2="19730" y2="17270" stroke="#000" stroke-width="25" />
-<text x="19730" y="1200.0" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="260" text-anchor="middle" fill="#000" font-weight="normal" transform="rotate(-90 19730 1200.0)" dominant-baseline="hanging">2400</text>
-<text x="19730" y="3050.0" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="260" text-anchor="middle" fill="#000" font-weight="normal" transform="rotate(-90 19730 3050.0)" dominant-baseline="hanging">1300</text>
-<text x="19730" y="4700.0" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="260" text-anchor="middle" fill="#000" font-weight="normal" transform="rotate(-90 19730 4700.0)" dominant-baseline="hanging">2000</text>
-<text x="19730" y="6650.0" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="260" text-anchor="middle" fill="#000" font-weight="normal" transform="rotate(-90 19730 6650.0)" dominant-baseline="hanging">1900</text>
-<text x="19730" y="8925.0" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="260" text-anchor="middle" fill="#000" font-weight="normal" transform="rotate(-90 19730 8925.0)" dominant-baseline="hanging">2650</text>
-<text x="19730" y="10875.0" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="260" text-anchor="middle" fill="#000" font-weight="normal" transform="rotate(-90 19730 10875.0)" dominant-baseline="hanging">1250</text>
-<text x="19730" y="12200.0" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="260" text-anchor="middle" fill="#000" font-weight="normal" transform="rotate(-90 19730 12200.0)" dominant-baseline="hanging">1400</text>
-<text x="19730" y="14050.0" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="260" text-anchor="middle" fill="#000" font-weight="normal" transform="rotate(-90 19730 14050.0)" dominant-baseline="hanging">2300</text>
-<text x="19730" y="16275.0" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="260" text-anchor="middle" fill="#000" font-weight="normal" transform="rotate(-90 19730 16275.0)" dominant-baseline="hanging">2150</text>
-<line x1="20550" y1="0" x2="20550" y2="17350" stroke="#000" stroke-width="18" />
-<line x1="20430" y1="0" x2="20670" y2="0" stroke="#000" stroke-width="18" />
-<line x1="20470" y1="80" x2="20630" y2="-80" stroke="#000" stroke-width="25" />
-<line x1="20430" y1="17350" x2="20670" y2="17350" stroke="#000" stroke-width="18" />
-<line x1="20470" y1="17430" x2="20630" y2="17270" stroke="#000" stroke-width="25" />
-<text x="20630" y="8675.0" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="260" text-anchor="middle" fill="#000" font-weight="normal" transform="rotate(-90 20630 8675.0)" dominant-baseline="hanging">17350</text>
-<circle cx="0" cy="-2650" r="230" fill="#fff" stroke="#000" stroke-width="20"/>
-<text x="0" y="-2560" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="260" text-anchor="middle" fill="#000" font-weight="normal" >1</text>
-<circle cx="1300" cy="-2650" r="230" fill="#fff" stroke="#000" stroke-width="20"/>
-<text x="1300" y="-2560" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="260" text-anchor="middle" fill="#000" font-weight="normal" >2</text>
-<circle cx="4200" cy="-2650" r="230" fill="#fff" stroke="#000" stroke-width="20"/>
-<text x="4200" y="-2560" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="260" text-anchor="middle" fill="#000" font-weight="normal" >3</text>
-<circle cx="6100" cy="-2650" r="230" fill="#fff" stroke="#000" stroke-width="20"/>
-<text x="6100" y="-2560" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="260" text-anchor="middle" fill="#000" font-weight="normal" >4</text>
-<circle cx="7800" cy="-2650" r="230" fill="#fff" stroke="#000" stroke-width="20"/>
-<text x="7800" y="-2560" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="260" text-anchor="middle" fill="#000" font-weight="normal" >5</text>
-<circle cx="10800" cy="-2650" r="230" fill="#fff" stroke="#000" stroke-width="20"/>
-<text x="10800" y="-2560" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="260" text-anchor="middle" fill="#000" font-weight="normal" >6</text>
-<circle cx="12900" cy="-2650" r="230" fill="#fff" stroke="#000" stroke-width="20"/>
-<text x="12900" y="-2560" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="260" text-anchor="middle" fill="#000" font-weight="normal" >7</text>
-<circle cx="15850" cy="-2650" r="230" fill="#fff" stroke="#000" stroke-width="20"/>
-<text x="15850" y="-2560" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="260" text-anchor="middle" fill="#000" font-weight="normal" >8</text>
-<circle cx="18550" cy="-2650" r="230" fill="#fff" stroke="#000" stroke-width="20"/>
-<text x="18550" y="-2560" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="260" text-anchor="middle" fill="#000" font-weight="normal" >9</text>
-<circle cx="-2650" cy="0" r="230" fill="#fff" stroke="#000" stroke-width="20"/>
-<text x="-2650" y="90" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="260" text-anchor="middle" fill="#000" font-weight="normal" >A</text>
-<circle cx="-2650" cy="2400" r="230" fill="#fff" stroke="#000" stroke-width="20"/>
-<text x="-2650" y="2490" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="260" text-anchor="middle" fill="#000" font-weight="normal" >B</text>
-<circle cx="-2650" cy="3700" r="230" fill="#fff" stroke="#000" stroke-width="20"/>
-<text x="-2650" y="3790" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="260" text-anchor="middle" fill="#000" font-weight="normal" >C</text>
-<circle cx="-2650" cy="5700" r="230" fill="#fff" stroke="#000" stroke-width="20"/>
-<text x="-2650" y="5790" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="260" text-anchor="middle" fill="#000" font-weight="normal" >D</text>
-<circle cx="-2650" cy="7600" r="230" fill="#fff" stroke="#000" stroke-width="20"/>
-<text x="-2650" y="7690" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="260" text-anchor="middle" fill="#000" font-weight="normal" >E</text>
-<circle cx="-2650" cy="10250" r="230" fill="#fff" stroke="#000" stroke-width="20"/>
-<text x="-2650" y="10340" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="260" text-anchor="middle" fill="#000" font-weight="normal" >F</text>
-<circle cx="-2650" cy="11500" r="230" fill="#fff" stroke="#000" stroke-width="20"/>
-<text x="-2650" y="11590" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="260" text-anchor="middle" fill="#000" font-weight="normal" >G</text>
-<circle cx="-2650" cy="12900" r="230" fill="#fff" stroke="#000" stroke-width="20"/>
-<text x="-2650" y="12990" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="260" text-anchor="middle" fill="#000" font-weight="normal" >H</text>
-<circle cx="-2650" cy="15200" r="230" fill="#fff" stroke="#000" stroke-width="20"/>
-<text x="-2650" y="15290" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="260" text-anchor="middle" fill="#000" font-weight="normal" >I</text>
-<circle cx="-2650" cy="17350" r="230" fill="#fff" stroke="#000" stroke-width="20"/>
-<text x="-2650" y="17440" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="260" text-anchor="middle" fill="#000" font-weight="normal" >J</text>
-<path d="M 20200 500 L 20450 1500 L 20200 1300 L 19950 1500 Z" fill="#000"/>
-<text x="20200" y="1950" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="320" text-anchor="middle" fill="#000" font-weight="bold" >北</text>
-<text x="-3300" y="-4000" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="520" text-anchor="start" fill="#000" font-weight="bold" >深业世纪山谷 3C栋 04+05打通户型  建面约262㎡  平面图（高清重绘版）</text>
-<text x="-3300" y="-3350" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="260" text-anchor="start" fill="#333" font-weight="normal" >外围尺寸链（mm）为开发商原图标注；室内隔墙、门窗、家具位置按原图比例推算，误差约±200mm。室内“约a×b”为轴线尺寸估算（m）。本图非施工图、非测绘成果。</text>
-<rect x="12900" y="19900" width="600" height="250" fill="#000" stroke="none" stroke-width="20" />
-<text x="13650" y="20120" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="240" text-anchor="start" fill="#000" font-weight="normal" >剪力墙/核心筒墙（按原图线宽推测）</text>
-<rect x="12900" y="20350" width="600" height="200" fill="#2b2b2b" stroke="none" stroke-width="20" />
-<text x="13650" y="20530" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="240" text-anchor="start" fill="#000" font-weight="normal" >隔墙</text>
-<line x1="12900" y1="20900" x2="13500" y2="20900" stroke="#1f6fb2" stroke-width="35" />
-<text x="13650" y="20980" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="240" text-anchor="start" fill="#000" font-weight="normal" >玻璃隔断 / 窗 / 栏板</text>
-<rect x="12900" y="21200" width="600" height="250" fill="url(#hatch)" stroke="#000" stroke-width="15" />
-<text x="13650" y="21400" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="240" text-anchor="start" fill="#000" font-weight="normal" >固定柜体</text>
-<rect x="12900" y="21650" width="600" height="250" fill="url(#core)" stroke="none" stroke-width="20" />
-<text x="13650" y="21850" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="240" text-anchor="start" fill="#000" font-weight="normal" >公共区域（走道/电梯厅/楼梯）</text>
-<rect x="0" y="20400" width="1000" height="180" fill="#000" stroke="#000" stroke-width="15" />
-<rect x="1000" y="20400" width="1000" height="180" fill="#fff" stroke="#000" stroke-width="15" />
-<rect x="2000" y="20400" width="1000" height="180" fill="#000" stroke="#000" stroke-width="15" />
-<rect x="3000" y="20400" width="1000" height="180" fill="#fff" stroke="#000" stroke-width="15" />
-<rect x="4000" y="20400" width="1000" height="180" fill="#000" stroke="#000" stroke-width="15" />
-<text x="0" y="20900" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="230" text-anchor="middle" fill="#000" font-weight="normal" >0m</text>
-<text x="1000" y="20900" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="230" text-anchor="middle" fill="#000" font-weight="normal" >1m</text>
-<text x="2000" y="20900" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="230" text-anchor="middle" fill="#000" font-weight="normal" >2m</text>
-<text x="3000" y="20900" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="230" text-anchor="middle" fill="#000" font-weight="normal" >3m</text>
-<text x="4000" y="20900" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="230" text-anchor="middle" fill="#000" font-weight="normal" >4m</text>
-<text x="5000" y="20900" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="230" text-anchor="middle" fill="#000" font-weight="normal" >5m</text>
-<text x="-3300" y="22250" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="230" text-anchor="start" fill="#555" font-weight="normal" >原图来源：开发商宣传户型图（用户提供）。重绘：2026-11。</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-3900 -5000 25400 28200" width="2540.0" height="2820.0">
+<defs><pattern id="cab" patternUnits="userSpaceOnUse" width="150" height="150" patternTransform="rotate(45)"><line x1="0" y1="0" x2="0" y2="150" stroke="#555" stroke-width="12"/></pattern><pattern id="core" patternUnits="userSpaceOnUse" width="240" height="240" patternTransform="rotate(45)"><line x1="0" y1="0" x2="0" y2="240" stroke="#a8a8a8" stroke-width="16"/></pattern><pattern id="ac" patternUnits="userSpaceOnUse" width="120" height="120"><line x1="0" y1="0" x2="120" y2="0" stroke="#888" stroke-width="10"/></pattern><marker id="arrow" markerWidth="8" markerHeight="8" refX="4" refY="4" orient="auto"><path d="M0,0 L8,4 L0,8 z" fill="#000"/></marker></defs>
+<rect x="-3900" y="-5000" width="25400" height="28200" fill="#ffffff" stroke="none" stroke-width="18" />
+<line x1="0" y1="-500" x2="0" y2="17850" stroke="#d5d5d5" stroke-width="10" stroke-dasharray="300 150 40 150"/>
+<line x1="1300" y1="-500" x2="1300" y2="17850" stroke="#d5d5d5" stroke-width="10" stroke-dasharray="300 150 40 150"/>
+<line x1="4200" y1="-500" x2="4200" y2="17850" stroke="#d5d5d5" stroke-width="10" stroke-dasharray="300 150 40 150"/>
+<line x1="6100" y1="-500" x2="6100" y2="17850" stroke="#d5d5d5" stroke-width="10" stroke-dasharray="300 150 40 150"/>
+<line x1="7800" y1="-500" x2="7800" y2="17850" stroke="#d5d5d5" stroke-width="10" stroke-dasharray="300 150 40 150"/>
+<line x1="10800" y1="-500" x2="10800" y2="17850" stroke="#d5d5d5" stroke-width="10" stroke-dasharray="300 150 40 150"/>
+<line x1="12900" y1="-500" x2="12900" y2="17850" stroke="#d5d5d5" stroke-width="10" stroke-dasharray="300 150 40 150"/>
+<line x1="15850" y1="-500" x2="15850" y2="17850" stroke="#d5d5d5" stroke-width="10" stroke-dasharray="300 150 40 150"/>
+<line x1="18550" y1="-500" x2="18550" y2="17850" stroke="#d5d5d5" stroke-width="10" stroke-dasharray="300 150 40 150"/>
+<line x1="-700" y1="0" x2="19050" y2="0" stroke="#d5d5d5" stroke-width="10" stroke-dasharray="300 150 40 150"/>
+<line x1="-700" y1="2400" x2="19050" y2="2400" stroke="#d5d5d5" stroke-width="10" stroke-dasharray="300 150 40 150"/>
+<line x1="-700" y1="3700" x2="19050" y2="3700" stroke="#d5d5d5" stroke-width="10" stroke-dasharray="300 150 40 150"/>
+<line x1="-700" y1="5700" x2="19050" y2="5700" stroke="#d5d5d5" stroke-width="10" stroke-dasharray="300 150 40 150"/>
+<line x1="-700" y1="7600" x2="19050" y2="7600" stroke="#d5d5d5" stroke-width="10" stroke-dasharray="300 150 40 150"/>
+<line x1="-700" y1="10250" x2="19050" y2="10250" stroke="#d5d5d5" stroke-width="10" stroke-dasharray="300 150 40 150"/>
+<line x1="-700" y1="11500" x2="19050" y2="11500" stroke="#d5d5d5" stroke-width="10" stroke-dasharray="300 150 40 150"/>
+<line x1="-700" y1="12900" x2="19050" y2="12900" stroke="#d5d5d5" stroke-width="10" stroke-dasharray="300 150 40 150"/>
+<line x1="-700" y1="15200" x2="19050" y2="15200" stroke="#d5d5d5" stroke-width="10" stroke-dasharray="300 150 40 150"/>
+<line x1="-700" y1="17350" x2="19050" y2="17350" stroke="#d5d5d5" stroke-width="10" stroke-dasharray="300 150 40 150"/>
+<rect x="12900" y="7440" width="5650" height="9910" fill="url(#core)" stroke="none" stroke-width="18" />
+<rect x="12456" y="5500" width="1385" height="330" fill="#3a3a3a" stroke="none" stroke-width="18" />
+<line x1="13841" y1="5605" x2="18550" y2="5605" stroke="#1769aa" stroke-width="22" />
+<line x1="13841" y1="5725" x2="18550" y2="5725" stroke="#1769aa" stroke-width="22" />
+<rect x="18300" y="5500" width="250" height="11850" fill="#3a3a3a" stroke="none" stroke-width="18" />
+<rect x="12456" y="17100" width="3564" height="250" fill="#3a3a3a" stroke="none" stroke-width="18" />
+<rect x="15660" y="7500" width="360" height="2750" fill="#3a3a3a" stroke="none" stroke-width="18" />
+<rect x="16020" y="7380" width="2280" height="240" fill="#3a3a3a" stroke="none" stroke-width="18" />
+<rect x="16250" y="7850" width="1850" height="2050" fill="#f4f4f4" stroke="#000" stroke-width="16" />
+<line x1="16250" y1="7850" x2="18100" y2="9900" stroke="#000" stroke-width="10" />
+<line x1="16250" y1="9900" x2="18100" y2="7850" stroke="#000" stroke-width="10" />
+<text x="17175" y="8965" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="260" text-anchor="middle" fill="#000" font-weight="normal">电梯</text>
+<rect x="15660" y="8375" width="360" height="1000" fill="#ffffff" stroke="none" stroke-width="18" />
+<rect x="15660" y="10250" width="360" height="2650" fill="#3a3a3a" stroke="none" stroke-width="18" />
+<rect x="16020" y="10130" width="2280" height="240" fill="#3a3a3a" stroke="none" stroke-width="18" />
+<rect x="16250" y="10600" width="1850" height="1950" fill="#f4f4f4" stroke="#000" stroke-width="16" />
+<line x1="16250" y1="10600" x2="18100" y2="12550" stroke="#000" stroke-width="10" />
+<line x1="16250" y1="12550" x2="18100" y2="10600" stroke="#000" stroke-width="10" />
+<text x="17175" y="11665" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="260" text-anchor="middle" fill="#000" font-weight="normal">电梯</text>
+<rect x="15660" y="11075" width="360" height="1000" fill="#ffffff" stroke="none" stroke-width="18" />
+<rect x="15660" y="12900" width="360" height="2590" fill="#3a3a3a" stroke="none" stroke-width="18" />
+<rect x="16020" y="12780" width="2280" height="240" fill="#3a3a3a" stroke="none" stroke-width="18" />
+<rect x="16250" y="13250" width="1850" height="1890" fill="#f4f4f4" stroke="#000" stroke-width="16" />
+<line x1="16250" y1="13250" x2="18100" y2="15140" stroke="#000" stroke-width="10" />
+<line x1="16250" y1="15140" x2="18100" y2="13250" stroke="#000" stroke-width="10" />
+<text x="17175" y="14285" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="260" text-anchor="middle" fill="#000" font-weight="normal">电梯</text>
+<rect x="15660" y="13695" width="360" height="1000" fill="#ffffff" stroke="none" stroke-width="18" />
+<rect x="16020" y="15370" width="2280" height="240" fill="#3a3a3a" stroke="none" stroke-width="18" />
+<text x="17175" y="16450" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="240" text-anchor="middle" fill="#000" font-weight="normal">设备/管井</text>
+<rect x="13300" y="11200" width="1300" height="5400" fill="#fff" stroke="#000" stroke-width="16" />
+<line x1="13300" y1="11200" x2="14600" y2="11200" stroke="#000" stroke-width="10" />
+<line x1="13300" y1="11470" x2="14600" y2="11470" stroke="#000" stroke-width="10" />
+<line x1="13300" y1="11740" x2="14600" y2="11740" stroke="#000" stroke-width="10" />
+<line x1="13300" y1="12010" x2="14600" y2="12010" stroke="#000" stroke-width="10" />
+<line x1="13300" y1="12280" x2="14600" y2="12280" stroke="#000" stroke-width="10" />
+<line x1="13300" y1="12550" x2="14600" y2="12550" stroke="#000" stroke-width="10" />
+<line x1="13300" y1="12820" x2="14600" y2="12820" stroke="#000" stroke-width="10" />
+<line x1="13300" y1="13090" x2="14600" y2="13090" stroke="#000" stroke-width="10" />
+<line x1="13300" y1="13360" x2="14600" y2="13360" stroke="#000" stroke-width="10" />
+<line x1="13300" y1="13630" x2="14600" y2="13630" stroke="#000" stroke-width="10" />
+<line x1="13300" y1="13900" x2="14600" y2="13900" stroke="#000" stroke-width="10" />
+<line x1="13300" y1="14170" x2="14600" y2="14170" stroke="#000" stroke-width="10" />
+<line x1="13300" y1="14440" x2="14600" y2="14440" stroke="#000" stroke-width="10" />
+<line x1="13300" y1="14710" x2="14600" y2="14710" stroke="#000" stroke-width="10" />
+<line x1="13300" y1="14980" x2="14600" y2="14980" stroke="#000" stroke-width="10" />
+<line x1="13300" y1="15250" x2="14600" y2="15250" stroke="#000" stroke-width="10" />
+<line x1="13300" y1="15520" x2="14600" y2="15520" stroke="#000" stroke-width="10" />
+<line x1="13300" y1="15790" x2="14600" y2="15790" stroke="#000" stroke-width="10" />
+<line x1="13300" y1="16060" x2="14600" y2="16060" stroke="#000" stroke-width="10" />
+<line x1="13300" y1="16330" x2="14600" y2="16330" stroke="#000" stroke-width="10" />
+<line x1="13300" y1="16600" x2="14600" y2="16600" stroke="#000" stroke-width="10" />
+<line x1="13950" y1="16450" x2="13950" y2="11450" stroke="#000" stroke-width="28" marker-end="url(#arrow)"/>
+<text x="13950" y="10800" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="280" text-anchor="middle" fill="#000" font-weight="normal">楼梯</text>
+<text x="14300" y="9000" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="300" text-anchor="middle" fill="#000" font-weight="normal">电梯厅</text>
+<text x="15700" y="6700" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="300" text-anchor="middle" fill="#333" font-weight="normal">公共走道</text>
+<line x1="0" y1="0" x2="1000" y2="0" stroke="#1769aa" stroke-width="40" />
+<line x1="0" y1="-75" x2="1000" y2="-75" stroke="#1769aa" stroke-width="14" />
+<line x1="0" y1="75" x2="1000" y2="75" stroke="#1769aa" stroke-width="14" />
+<rect x="218" y="326" width="564" height="150" fill="#ffffff" stroke="none" stroke-width="18" />
+<text x="500" y="442" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="150" text-anchor="middle" fill="#1769aa" font-weight="normal">窗1000</text>
+<line x1="230" y1="230" x2="1010" y2="230" stroke="#000" stroke-width="10" />
+<rect x="1000" y="0" width="3500" height="250" fill="#3a3a3a" stroke="none" stroke-width="18" />
+<rect x="2552" y="326" width="396" height="150" fill="#ffffff" stroke="none" stroke-width="18" />
+<text x="2750" y="442" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="150" text-anchor="middle" fill="#444444" font-weight="normal">3500</text>
+<line x1="4500" y1="0" x2="7880" y2="0" stroke="#1769aa" stroke-width="40" />
+<line x1="4500" y1="-75" x2="7880" y2="-75" stroke="#1769aa" stroke-width="14" />
+<line x1="4500" y1="75" x2="7880" y2="75" stroke="#1769aa" stroke-width="14" />
+<rect x="5908" y="326" width="564" height="150" fill="#ffffff" stroke="none" stroke-width="18" />
+<text x="6190" y="442" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="150" text-anchor="middle" fill="#1769aa" font-weight="normal">窗3380</text>
+<line x1="7880" y1="0" x2="9450" y2="0" stroke="#1769aa" stroke-width="40" />
+<line x1="7880" y1="-75" x2="9450" y2="-75" stroke="#1769aa" stroke-width="14" />
+<line x1="7880" y1="75" x2="9450" y2="75" stroke="#1769aa" stroke-width="14" />
+<rect x="8383" y="326" width="564" height="150" fill="#ffffff" stroke="none" stroke-width="18" />
+<text x="8665" y="442" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="150" text-anchor="middle" fill="#1769aa" font-weight="normal">窗1570</text>
+<line x1="8750" y1="150" x2="9450" y2="150" stroke="#000" stroke-width="10" />
+<rect x="9450" y="0" width="1425" height="250" fill="#3a3a3a" stroke="none" stroke-width="18" />
+<rect x="9964" y="326" width="396" height="150" fill="#ffffff" stroke="none" stroke-width="18" />
+<text x="10162" y="442" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="150" text-anchor="middle" fill="#444444" font-weight="normal">1420</text>
+<line x1="0" y1="0" x2="0" y2="2900" stroke="#1769aa" stroke-width="40" />
+<line x1="-75" y1="0" x2="-75" y2="2900" stroke="#1769aa" stroke-width="14" />
+<line x1="75" y1="0" x2="75" y2="2900" stroke="#1769aa" stroke-width="14" />
+<rect x="326" y="1168" width="150" height="564" fill="#ffffff" stroke="none" stroke-width="18" />
+<text x="442" y="1450" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="150" text-anchor="middle" fill="#1769aa" font-weight="normal" transform="rotate(-90 442 1450)">窗2900</text>
+<rect x="0" y="2900" width="250" height="750" fill="#3a3a3a" stroke="none" stroke-width="18" />
+<rect x="326" y="3119" width="150" height="312" fill="#ffffff" stroke="none" stroke-width="18" />
+<text x="442" y="3275" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="150" text-anchor="middle" fill="#444444" font-weight="normal" transform="rotate(-90 442 3275)">750</text>
+<rect x="-300" y="3650" width="1550" height="450" fill="#000000" stroke="none" stroke-width="18" />
+<line x1="-360" y1="4100" x2="-360" y2="11150" stroke="#1769aa" stroke-width="22" />
+<line x1="-240" y1="4100" x2="-240" y2="11150" stroke="#1769aa" stroke-width="22" />
+<rect x="-104" y="7091" width="150" height="1068" fill="#ffffff" stroke="none" stroke-width="18" />
+<text x="12" y="7625" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="150" text-anchor="middle" fill="#1769aa" font-weight="normal" transform="rotate(-90 12 7625)">玻璃栏板7050</text>
+<line x1="-150" y1="4100" x2="-150" y2="11150" stroke="#000" stroke-width="8" />
+<rect x="-300" y="11150" width="2000" height="500" fill="#000000" stroke="none" stroke-width="18" />
+<rect x="0" y="11650" width="250" height="750" fill="#3a3a3a" stroke="none" stroke-width="18" />
+<rect x="326" y="11869" width="150" height="312" fill="#ffffff" stroke="none" stroke-width="18" />
+<text x="442" y="12025" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="150" text-anchor="middle" fill="#444444" font-weight="normal" transform="rotate(-90 442 12025)">750</text>
+<line x1="0" y1="12400" x2="0" y2="15200" stroke="#1769aa" stroke-width="40" />
+<line x1="-75" y1="12400" x2="-75" y2="15200" stroke="#1769aa" stroke-width="14" />
+<line x1="75" y1="12400" x2="75" y2="15200" stroke="#1769aa" stroke-width="14" />
+<rect x="326" y="13518" width="150" height="564" fill="#ffffff" stroke="none" stroke-width="18" />
+<text x="442" y="13800" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="150" text-anchor="middle" fill="#1769aa" font-weight="normal" transform="rotate(-90 442 13800)">窗2800</text>
+<line x1="0" y1="15200" x2="1000" y2="15200" stroke="#1769aa" stroke-width="40" />
+<line x1="0" y1="15125" x2="1000" y2="15125" stroke="#1769aa" stroke-width="14" />
+<line x1="0" y1="15275" x2="1000" y2="15275" stroke="#1769aa" stroke-width="14" />
+<rect x="218" y="14753" width="564" height="150" fill="#ffffff" stroke="none" stroke-width="18" />
+<text x="500" y="14870" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="150" text-anchor="middle" fill="#1769aa" font-weight="normal">窗1000</text>
+<line x1="350" y1="15000" x2="1020" y2="15000" stroke="#000" stroke-width="10" />
+<rect x="1000" y="14950" width="3500" height="250" fill="#3a3a3a" stroke="none" stroke-width="18" />
+<rect x="2552" y="14753" width="396" height="150" fill="#ffffff" stroke="none" stroke-width="18" />
+<text x="2750" y="14870" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="150" text-anchor="middle" fill="#444444" font-weight="normal">3500</text>
+<line x1="4500" y1="15200" x2="6075" y2="15200" stroke="#1769aa" stroke-width="40" />
+<line x1="4500" y1="15125" x2="6075" y2="15125" stroke="#1769aa" stroke-width="14" />
+<line x1="4500" y1="15275" x2="6075" y2="15275" stroke="#1769aa" stroke-width="14" />
+<rect x="5006" y="14753" width="564" height="150" fill="#ffffff" stroke="none" stroke-width="18" />
+<text x="5288" y="14870" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="150" text-anchor="middle" fill="#1769aa" font-weight="normal">窗1580</text>
+<line x1="6225" y1="15200" x2="7735" y2="15200" stroke="#1769aa" stroke-width="40" />
+<line x1="6225" y1="15125" x2="7735" y2="15125" stroke="#1769aa" stroke-width="14" />
+<line x1="6225" y1="15275" x2="7735" y2="15275" stroke="#1769aa" stroke-width="14" />
+<rect x="6698" y="14753" width="564" height="150" fill="#ffffff" stroke="none" stroke-width="18" />
+<text x="6980" y="14870" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="150" text-anchor="middle" fill="#1769aa" font-weight="normal">窗1510</text>
+<line x1="7885" y1="15200" x2="9450" y2="15200" stroke="#1769aa" stroke-width="40" />
+<line x1="7885" y1="15125" x2="9450" y2="15125" stroke="#1769aa" stroke-width="14" />
+<line x1="7885" y1="15275" x2="9450" y2="15275" stroke="#1769aa" stroke-width="14" />
+<rect x="8386" y="14753" width="564" height="150" fill="#ffffff" stroke="none" stroke-width="18" />
+<text x="8668" y="14870" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="150" text-anchor="middle" fill="#1769aa" font-weight="normal">窗1560</text>
+<rect x="9450" y="14950" width="1425" height="250" fill="#3a3a3a" stroke="none" stroke-width="18" />
+<rect x="9964" y="14753" width="396" height="150" fill="#ffffff" stroke="none" stroke-width="18" />
+<text x="10162" y="14870" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="150" text-anchor="middle" fill="#444444" font-weight="normal">1420</text>
+<rect x="10625" y="0" width="250" height="4050" fill="#3a3a3a" stroke="none" stroke-width="18" />
+<rect x="10990" y="452" width="150" height="396" fill="#ffffff" stroke="none" stroke-width="18" />
+<text x="11108" y="650" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="150" text-anchor="middle" fill="#444444" font-weight="normal" transform="rotate(-90 11108 650)">1300</text>
+<rect x="10990" y="1652" width="150" height="396" fill="#ffffff" stroke="none" stroke-width="18" />
+<text x="11108" y="1850" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="150" text-anchor="middle" fill="#444444" font-weight="normal" transform="rotate(-90 11108 1850)">1100</text>
+<rect x="10388" y="3027" width="150" height="396" fill="#ffffff" stroke="none" stroke-width="18" />
+<text x="10505" y="3225" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="150" text-anchor="middle" fill="#444444" font-weight="normal" transform="rotate(-90 10505 3225)">1650</text>
+<line x1="10800" y1="4800" x2="11550" y2="4800" stroke="#000" stroke-width="38" />
+<path d="M 10800 4050 A 750 750 0 0 1 11550 4800" fill="none" stroke="#000" stroke-width="14" stroke-dasharray="70 45"/>
+<rect x="11046" y="4185" width="150" height="480" fill="#ffffff" stroke="none" stroke-width="18" />
+<text x="11162" y="4425" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="150" text-anchor="middle" fill="#b3261e" font-weight="normal" transform="rotate(-90 11162 4425)">门750</text>
+<rect x="10800" y="4800" width="155" height="900" fill="#ffffff" stroke="#6a6a6a" stroke-width="28" />
+<rect x="11070" y="5049" width="150" height="312" fill="#ffffff" stroke="none" stroke-width="18" />
+<text x="11188" y="5205" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="150" text-anchor="middle" fill="#444444" font-weight="normal" transform="rotate(-90 11188 5205)">810</text>
+<rect x="10875" y="700" width="2025" height="600" fill="url(#ac)" stroke="#000" stroke-width="20" />
+<text x="11890" y="1040" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="170" text-anchor="middle" fill="#333" font-weight="normal">空调机位</text>
+<line x1="10875" y1="1300" x2="12900" y2="1300" stroke="#1769aa" stroke-width="40" />
+<line x1="10875" y1="1225" x2="12900" y2="1225" stroke="#1769aa" stroke-width="14" />
+<line x1="10875" y1="1375" x2="12900" y2="1375" stroke="#1769aa" stroke-width="14" />
+<rect x="11606" y="1416" width="564" height="150" fill="#ffffff" stroke="none" stroke-width="18" />
+<text x="11888" y="1532" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="150" text-anchor="middle" fill="#1769aa" font-weight="normal">窗2020</text>
+<line x1="12900" y1="1300" x2="12900" y2="2400" stroke="#1769aa" stroke-width="40" />
+<line x1="12825" y1="1300" x2="12825" y2="2400" stroke="#1769aa" stroke-width="14" />
+<line x1="12975" y1="1300" x2="12975" y2="2400" stroke="#1769aa" stroke-width="14" />
+<rect x="12663" y="1568" width="150" height="564" fill="#ffffff" stroke="none" stroke-width="18" />
+<text x="12780" y="1850" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="150" text-anchor="middle" fill="#1769aa" font-weight="normal" transform="rotate(-90 12780 1850)">窗1100</text>
+<line x1="10930" y1="2400" x2="10930" y2="1630" stroke="#000" stroke-width="38" />
+<path d="M 11700 2400 A 770 770 0 0 0 10930 1630" fill="none" stroke="#000" stroke-width="14" stroke-dasharray="70 45"/>
+<rect x="11075" y="2163" width="480" height="150" fill="#ffffff" stroke="none" stroke-width="18" />
+<text x="11315" y="2280" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="150" text-anchor="middle" fill="#b3261e" font-weight="normal">门770</text>
+<line x1="11700" y1="2400" x2="12650" y2="2400" stroke="#1769aa" stroke-width="40" />
+<line x1="11700" y1="2325" x2="12650" y2="2325" stroke="#1769aa" stroke-width="14" />
+<line x1="11700" y1="2475" x2="12650" y2="2475" stroke="#1769aa" stroke-width="14" />
+<rect x="11935" y="2163" width="480" height="150" fill="#ffffff" stroke="none" stroke-width="18" />
+<text x="12175" y="2280" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="150" text-anchor="middle" fill="#1769aa" font-weight="normal">窗950</text>
+<rect x="12650" y="2400" width="250" height="3430" fill="#3a3a3a" stroke="none" stroke-width="18" />
+<rect x="12413" y="3807" width="150" height="396" fill="#ffffff" stroke="none" stroke-width="18" />
+<text x="12530" y="4005" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="150" text-anchor="middle" fill="#444444" font-weight="normal" transform="rotate(-90 12530 4005)">3210</text>
+<rect x="9500" y="5610" width="3150" height="220" fill="#ffffff" stroke="#6a6a6a" stroke-width="28" />
+<rect x="11072" y="5373" width="396" height="150" fill="#ffffff" stroke="none" stroke-width="18" />
+<text x="11270" y="5490" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="150" text-anchor="middle" fill="#444444" font-weight="normal">2760</text>
+<rect x="9230" y="5610" width="270" height="470" fill="#3a3a3a" stroke="none" stroke-width="18" />
+<rect x="13146" y="6101" width="150" height="1068" fill="#ffffff" stroke="none" stroke-width="18" />
+<text x="13262" y="6635" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="150" text-anchor="middle" fill="#b3261e" font-weight="normal" transform="rotate(-90 13262 6635)">入户门洞1610</text>
+<rect x="12600" y="7440" width="300" height="4760" fill="#3a3a3a" stroke="none" stroke-width="18" />
+<rect x="12363" y="9622" width="150" height="396" fill="#ffffff" stroke="none" stroke-width="18" />
+<text x="12480" y="9820" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="150" text-anchor="middle" fill="#444444" font-weight="normal" transform="rotate(-90 12480 9820)">4760</text>
+<rect x="12712" y="12200" width="188" height="1810" fill="#3a3a3a" stroke="none" stroke-width="18" />
+<rect x="12475" y="12907" width="150" height="396" fill="#ffffff" stroke="none" stroke-width="18" />
+<text x="12592" y="13105" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="150" text-anchor="middle" fill="#444444" font-weight="normal" transform="rotate(-90 12592 13105)">1810</text>
+<rect x="12507" y="14010" width="410" height="3340" fill="#3a3a3a" stroke="none" stroke-width="18" />
+<rect x="1250" y="3650" width="450" height="1165" fill="#000000" stroke="none" stroke-width="18" />
+<rect x="1816" y="4182" width="150" height="312" fill="#ffffff" stroke="none" stroke-width="18" />
+<text x="1932" y="4338" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="150" text-anchor="middle" fill="#444444" font-weight="normal" transform="rotate(-90 1932 4338)">960</text>
+<rect x="1250" y="6841" width="450" height="1584" fill="#000000" stroke="none" stroke-width="18" />
+<rect x="1816" y="7010" width="150" height="312" fill="#ffffff" stroke="none" stroke-width="18" />
+<text x="1932" y="7166" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="150" text-anchor="middle" fill="#444444" font-weight="normal" transform="rotate(-90 1932 7166)">650</text>
+<rect x="1816" y="7932" width="150" height="312" fill="#ffffff" stroke="none" stroke-width="18" />
+<text x="1932" y="8088" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="150" text-anchor="middle" fill="#444444" font-weight="normal" transform="rotate(-90 1932 8088)">680</text>
+<rect x="1250" y="10451" width="450" height="1199" fill="#000000" stroke="none" stroke-width="18" />
+<rect x="1816" y="10744" width="150" height="312" fill="#ffffff" stroke="none" stroke-width="18" />
+<text x="1932" y="10900" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="150" text-anchor="middle" fill="#444444" font-weight="normal" transform="rotate(-90 1932 10900)">900</text>
+<line x1="1450" y1="4815" x2="1450" y2="6841" stroke="#1769aa" stroke-width="40" />
+<line x1="1375" y1="4815" x2="1375" y2="6841" stroke="#1769aa" stroke-width="14" />
+<line x1="1525" y1="4815" x2="1525" y2="6841" stroke="#1769aa" stroke-width="14" />
+<rect x="1606" y="5210" width="150" height="1236" fill="#ffffff" stroke="none" stroke-width="18" />
+<text x="1722" y="5828" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="150" text-anchor="middle" fill="#1769aa" font-weight="normal" transform="rotate(-90 1722 5828)">玻璃推拉门2030</text>
+<line x1="1450" y1="8425" x2="1450" y2="10451" stroke="#1769aa" stroke-width="40" />
+<line x1="1375" y1="8425" x2="1375" y2="10451" stroke="#1769aa" stroke-width="14" />
+<line x1="1525" y1="8425" x2="1525" y2="10451" stroke="#1769aa" stroke-width="14" />
+<rect x="1606" y="8820" width="150" height="1236" fill="#ffffff" stroke="none" stroke-width="18" />
+<text x="1722" y="9438" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="150" text-anchor="middle" fill="#1769aa" font-weight="normal" transform="rotate(-90 1722 9438)">玻璃推拉门2030</text>
+<rect x="5330" y="3660" width="340" height="390" fill="#000000" stroke="none" stroke-width="18" />
+<rect x="5300" y="6900" width="320" height="1000" fill="#000000" stroke="none" stroke-width="18" />
+<rect x="5736" y="7202" width="150" height="396" fill="#ffffff" stroke="none" stroke-width="18" />
+<text x="5852" y="7400" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="150" text-anchor="middle" fill="#444444" font-weight="normal" transform="rotate(-90 5852 7400)">1000</text>
+<rect x="5320" y="11300" width="415" height="400" fill="#000000" stroke="none" stroke-width="18" />
+<rect x="5360" y="11690" width="250" height="960" fill="#000000" stroke="none" stroke-width="18" />
+<rect x="5123" y="12014" width="150" height="312" fill="#ffffff" stroke="none" stroke-width="18" />
+<text x="5240" y="12170" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="150" text-anchor="middle" fill="#444444" font-weight="normal" transform="rotate(-90 5240 12170)">960</text>
+<rect x="9505" y="9500" width="385" height="190" fill="#000000" stroke="none" stroke-width="18" />
+<rect x="9505" y="11250" width="385" height="290" fill="#000000" stroke="none" stroke-width="18" />
+<rect x="10000" y="3500" width="875" height="550" fill="#000000" stroke="none" stroke-width="18" />
+<rect x="1700" y="3660" width="3630" height="200" fill="#3a3a3a" stroke="none" stroke-width="18" />
+<rect x="3312" y="3976" width="396" height="150" fill="#ffffff" stroke="none" stroke-width="18" />
+<text x="3510" y="4092" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="150" text-anchor="middle" fill="#444444" font-weight="normal">1120</text>
+<rect x="4617" y="3976" width="396" height="150" fill="#ffffff" stroke="none" stroke-width="18" />
+<text x="4815" y="4092" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="150" text-anchor="middle" fill="#444444" font-weight="normal">1030</text>
+<rect x="1750" y="3660" width="1200" height="200" fill="#fff" stroke="none" stroke-width="18" />
+<line x1="1750" y1="3700" x2="1750" y2="3100" stroke="#000" stroke-width="38" />
+<path d="M 2350 3700 A 600 600 0 0 0 1750 3100" fill="none" stroke="#000" stroke-width="14" stroke-dasharray="70 45"/>
+<line x1="2950" y1="3700" x2="2950" y2="3100" stroke="#000" stroke-width="38" />
+<path d="M 2350 3700 A 600 600 0 0 1 2950 3100" fill="none" stroke="#000" stroke-width="14" stroke-dasharray="70 45"/>
+<rect x="1900" y="2883" width="900" height="150" fill="#ffffff" stroke="none" stroke-width="18" />
+<text x="2350" y="3000" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="150" text-anchor="middle" fill="#b3261e" font-weight="normal">双开门1200</text>
+<rect x="6970" y="3660" width="100" height="200" fill="#3a3a3a" stroke="none" stroke-width="18" />
+<line x1="5670" y1="3760" x2="5670" y2="4410" stroke="#000" stroke-width="38" />
+<path d="M 6320 3760 A 650 650 0 0 1 5670 4410" fill="none" stroke="#000" stroke-width="14" stroke-dasharray="70 45"/>
+<line x1="6970" y1="3760" x2="6970" y2="4410" stroke="#000" stroke-width="38" />
+<path d="M 6320 3760 A 650 650 0 0 0 6970 4410" fill="none" stroke="#000" stroke-width="14" stroke-dasharray="70 45"/>
+<rect x="5870" y="4556" width="900" height="150" fill="#ffffff" stroke="none" stroke-width="18" />
+<text x="6320" y="4672" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="150" text-anchor="middle" fill="#b3261e" font-weight="normal">双开门1300</text>
+<rect x="7070" y="3620" width="2930" height="130" fill="#ffffff" stroke="#6a6a6a" stroke-width="28" />
+<rect x="8337" y="3383" width="396" height="150" fill="#ffffff" stroke="none" stroke-width="18" />
+<text x="8535" y="3500" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="150" text-anchor="middle" fill="#444444" font-weight="normal">2930</text>
+<rect x="4070" y="250" width="230" height="1300" fill="#3a3a3a" stroke="none" stroke-width="18" />
+<rect x="3833" y="702" width="150" height="396" fill="#ffffff" stroke="none" stroke-width="18" />
+<text x="3950" y="900" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="150" text-anchor="middle" fill="#444444" font-weight="normal" transform="rotate(-90 3950 900)">1300</text>
+<rect x="4100" y="1550" width="140" height="850" fill="#ffffff" stroke="#6a6a6a" stroke-width="28" />
+<rect x="3703" y="1399" width="150" height="1152" fill="#ffffff" stroke="none" stroke-width="18" />
+<text x="3820" y="1975" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="150" text-anchor="middle" fill="#444444" font-weight="normal" transform="rotate(-90 3820 1975)">轻质/玻璃?850</text>
+<rect x="3818" y="2739" width="150" height="732" fill="#ffffff" stroke="none" stroke-width="18" />
+<text x="3935" y="3105" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="150" text-anchor="middle" fill="#b3261e" font-weight="normal" transform="rotate(-90 3935 3105)">门洞1110</text>
+<rect x="4100" y="2400" width="2050" height="150" fill="#ffffff" stroke="#6a6a6a" stroke-width="28" />
+<rect x="5027" y="2163" width="396" height="150" fill="#ffffff" stroke="none" stroke-width="18" />
+<text x="5225" y="2280" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="150" text-anchor="middle" fill="#444444" font-weight="normal">1850</text>
+<line x1="6150" y1="2475" x2="6150" y2="1675" stroke="#000" stroke-width="38" />
+<path d="M 6950 2475 A 800 800 0 0 0 6150 1675" fill="none" stroke="#000" stroke-width="14" stroke-dasharray="70 45"/>
+<rect x="6310" y="2238" width="480" height="150" fill="#ffffff" stroke="none" stroke-width="18" />
+<text x="6550" y="2355" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="150" text-anchor="middle" fill="#b3261e" font-weight="normal">门800</text>
+<rect x="6950" y="2400" width="1000" height="150" fill="#ffffff" stroke="#6a6a6a" stroke-width="28" />
+<rect x="7259" y="2163" width="312" height="150" fill="#ffffff" stroke="none" stroke-width="18" />
+<text x="7415" y="2280" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="150" text-anchor="middle" fill="#444444" font-weight="normal">930</text>
+<rect x="7815" y="0" width="135" height="2550" fill="#ffffff" stroke="#6a6a6a" stroke-width="28" />
+<rect x="8066" y="1052" width="150" height="396" fill="#ffffff" stroke="none" stroke-width="18" />
+<text x="8182" y="1250" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="150" text-anchor="middle" fill="#444444" font-weight="normal" transform="rotate(-90 8182 1250)">2300</text>
+<rect x="8126" y="2719" width="150" height="732" fill="#ffffff" stroke="none" stroke-width="18" />
+<text x="8242" y="3085" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="150" text-anchor="middle" fill="#b3261e" font-weight="normal" transform="rotate(-90 8242 3085)">洞口1070</text>
+<rect x="10084" y="7440" width="192" height="2110" fill="#ffffff" stroke="#6a6a6a" stroke-width="28" />
+<rect x="10392" y="8297" width="150" height="396" fill="#ffffff" stroke="none" stroke-width="18" />
+<text x="10508" y="8495" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="150" text-anchor="middle" fill="#444444" font-weight="normal" transform="rotate(-90 10508 8495)">2110</text>
+<rect x="10084" y="5830" width="192" height="160" fill="#3a3a3a" stroke="none" stroke-width="18" />
+<line x1="10180" y1="5990" x2="9130" y2="5990" stroke="#000" stroke-width="38" />
+<path d="M 10180 7040 A 1050 1050 0 0 1 9130 5990" fill="none" stroke="#000" stroke-width="14" stroke-dasharray="70 45"/>
+<line x1="10180" y1="7440" x2="9780" y2="7440" stroke="#000" stroke-width="38" />
+<path d="M 10180 7040 A 400 400 0 0 0 9780 7440" fill="none" stroke="#000" stroke-width="14" stroke-dasharray="70 45"/>
+<rect x="8763" y="6265" width="150" height="900" fill="#ffffff" stroke="none" stroke-width="18" />
+<text x="8880" y="6715" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="150" text-anchor="middle" fill="#b3261e" font-weight="normal" transform="rotate(-90 8880 6715)">子母门1450</text>
+<rect x="9890" y="9550" width="2822" height="150" fill="#ffffff" stroke="#6a6a6a" stroke-width="28" />
+<rect x="11103" y="9816" width="396" height="150" fill="#ffffff" stroke="none" stroke-width="18" />
+<text x="11301" y="9932" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="150" text-anchor="middle" fill="#444444" font-weight="normal">2820</text>
+<rect x="11950" y="7600" width="650" height="1500" fill="#ffffff" stroke="#6a6a6a" stroke-width="28" />
+<text x="12275" y="8420" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="200" text-anchor="middle" fill="#000" font-weight="normal">SP</text>
+<text x="12275" y="8650" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="160" text-anchor="middle" fill="#000" font-weight="normal">管井</text>
+<line x1="9700" y1="9690" x2="9700" y2="11250" stroke="#1769aa" stroke-width="40" />
+<line x1="9625" y1="9690" x2="9625" y2="11250" stroke="#1769aa" stroke-width="14" />
+<line x1="9775" y1="9690" x2="9775" y2="11250" stroke="#1769aa" stroke-width="14" />
+<rect x="9423" y="9852" width="150" height="1236" fill="#ffffff" stroke="none" stroke-width="18" />
+<text x="9540" y="10470" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="150" text-anchor="middle" fill="#1769aa" font-weight="normal" transform="rotate(-90 9540 10470)">玻璃推拉门1560</text>
+<rect x="9890" y="11250" width="1030" height="350" fill="#3a3a3a" stroke="none" stroke-width="18" />
+<rect x="10207" y="11013" width="396" height="150" fill="#ffffff" stroke="none" stroke-width="18" />
+<text x="10405" y="11130" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="150" text-anchor="middle" fill="#444444" font-weight="normal">1030</text>
+<rect x="10650" y="11250" width="270" height="3950" fill="#3a3a3a" stroke="none" stroke-width="18" />
+<rect x="11036" y="12052" width="150" height="396" fill="#ffffff" stroke="none" stroke-width="18" />
+<text x="11152" y="12250" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="150" text-anchor="middle" fill="#444444" font-weight="normal" transform="rotate(-90 11152 12250)">1300</text>
+<rect x="10413" y="13152" width="150" height="396" fill="#ffffff" stroke="none" stroke-width="18" />
+<text x="10530" y="13350" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="150" text-anchor="middle" fill="#444444" font-weight="normal" transform="rotate(-90 10530 13350)">3200</text>
+<line x1="11000" y1="12900" x2="11000" y2="13750" stroke="#000" stroke-width="38" />
+<path d="M 11850 12900 A 850 850 0 0 1 11000 13750" fill="none" stroke="#000" stroke-width="14" stroke-dasharray="70 45"/>
+<rect x="11185" y="12663" width="480" height="150" fill="#ffffff" stroke="none" stroke-width="18" />
+<text x="11425" y="12780" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="150" text-anchor="middle" fill="#b3261e" font-weight="normal">门850</text>
+<line x1="11850" y1="12900" x2="12712" y2="12900" stroke="#1769aa" stroke-width="40" />
+<line x1="11850" y1="12825" x2="12712" y2="12825" stroke="#1769aa" stroke-width="14" />
+<line x1="11850" y1="12975" x2="12712" y2="12975" stroke="#1769aa" stroke-width="14" />
+<rect x="12041" y="12663" width="480" height="150" fill="#ffffff" stroke="none" stroke-width="18" />
+<text x="12281" y="12780" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="150" text-anchor="middle" fill="#1769aa" font-weight="normal">窗860</text>
+<line x1="10920" y1="13950" x2="12712" y2="13950" stroke="#1769aa" stroke-width="22" />
+<line x1="10920" y1="14070" x2="12712" y2="14070" stroke="#1769aa" stroke-width="22" />
+<rect x="11282" y="13773" width="1068" height="150" fill="#ffffff" stroke="none" stroke-width="18" />
+<text x="11816" y="13890" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="150" text-anchor="middle" fill="#1769aa" font-weight="normal">玻璃栏板1790</text>
+<rect x="10920" y="14130" width="570" height="970" fill="#3a3a3a" stroke="none" stroke-width="18" />
+<rect x="11490" y="14130" width="1020" height="660" fill="url(#ac)" stroke="#000" stroke-width="20" />
+<text x="12000" y="14500" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="170" text-anchor="middle" fill="#333" font-weight="normal">空调机位</text>
+<rect x="1700" y="7490" width="3600" height="260" fill="#3a3a3a" stroke="none" stroke-width="18" />
+<rect x="3302" y="7866" width="396" height="150" fill="#ffffff" stroke="none" stroke-width="18" />
+<text x="3500" y="7982" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="150" text-anchor="middle" fill="#444444" font-weight="normal">3600</text>
+<rect x="1700" y="11350" width="3620" height="300" fill="#3a3a3a" stroke="none" stroke-width="18" />
+<rect x="1750" y="11350" width="1000" height="300" fill="#fff" stroke="none" stroke-width="18" />
+<line x1="1750" y1="11600" x2="1750" y2="12100" stroke="#000" stroke-width="38" />
+<path d="M 2250 11600 A 500 500 0 0 1 1750 12100" fill="none" stroke="#000" stroke-width="14" stroke-dasharray="70 45"/>
+<line x1="2750" y1="11600" x2="2750" y2="12100" stroke="#000" stroke-width="38" />
+<path d="M 2250 11600 A 500 500 0 0 0 2750 12100" fill="none" stroke="#000" stroke-width="14" stroke-dasharray="70 45"/>
+<rect x="1800" y="12146" width="900" height="150" fill="#ffffff" stroke="none" stroke-width="18" />
+<text x="2250" y="12262" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="150" text-anchor="middle" fill="#b3261e" font-weight="normal">双开门1000</text>
+<rect x="3202" y="11766" width="396" height="150" fill="#ffffff" stroke="none" stroke-width="18" />
+<text x="3400" y="11882" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="150" text-anchor="middle" fill="#444444" font-weight="normal">1300</text>
+<rect x="5982" y="11746" width="732" height="150" fill="#ffffff" stroke="none" stroke-width="18" />
+<text x="6348" y="11862" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="150" text-anchor="middle" fill="#b3261e" font-weight="normal">洞口1220</text>
+<rect x="6960" y="11250" width="2545" height="350" fill="url(#cab)" stroke="#000" stroke-width="15" />
+<rect x="6960" y="11646" width="2545" height="104" fill="#ffffff" stroke="#6a6a6a" stroke-width="28" />
+<rect x="8497" y="11866" width="396" height="150" fill="#ffffff" stroke="none" stroke-width="18" />
+<text x="8695" y="11982" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="150" text-anchor="middle" fill="#444444" font-weight="normal">1620</text>
+<rect x="7750" y="11650" width="130" height="100" fill="#ffffff" stroke="#6a6a6a" stroke-width="28" />
+<line x1="7880" y1="12600" x2="8730" y2="12600" stroke="#000" stroke-width="38" />
+<path d="M 7880 11750 A 850 850 0 0 1 8730 12600" fill="none" stroke="#000" stroke-width="14" stroke-dasharray="70 45"/>
+<rect x="8126" y="11935" width="150" height="480" fill="#ffffff" stroke="none" stroke-width="18" />
+<text x="8242" y="12175" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="150" text-anchor="middle" fill="#b3261e" font-weight="normal" transform="rotate(-90 8242 12175)">门850</text>
+<rect x="7750" y="12600" width="130" height="2600" fill="#ffffff" stroke="#6a6a6a" stroke-width="28" />
+<rect x="7996" y="13658" width="150" height="396" fill="#ffffff" stroke="none" stroke-width="18" />
+<text x="8112" y="13856" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="150" text-anchor="middle" fill="#444444" font-weight="normal" transform="rotate(-90 8112 13856)">2190</text>
+<rect x="4050" y="12633" width="570" height="130" fill="#ffffff" stroke="#6a6a6a" stroke-width="28" />
+<rect x="4279" y="12396" width="312" height="150" fill="#ffffff" stroke="none" stroke-width="18" />
+<text x="4435" y="12513" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="150" text-anchor="middle" fill="#444444" font-weight="normal">370</text>
+<line x1="4620" y1="12700" x2="4620" y2="11960" stroke="#000" stroke-width="38" />
+<path d="M 5360 12700 A 740 740 0 0 0 4620 11960" fill="none" stroke="#000" stroke-width="14" stroke-dasharray="70 45"/>
+<rect x="4750" y="12463" width="480" height="150" fill="#ffffff" stroke="none" stroke-width="18" />
+<text x="4990" y="12580" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="150" text-anchor="middle" fill="#b3261e" font-weight="normal">门740</text>
+<rect x="5610" y="12633" width="1410" height="130" fill="#ffffff" stroke="#6a6a6a" stroke-width="28" />
+<rect x="6117" y="12396" width="396" height="150" fill="#ffffff" stroke="none" stroke-width="18" />
+<text x="6315" y="12513" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="150" text-anchor="middle" fill="#444444" font-weight="normal">1410</text>
+<line x1="7020" y1="12700" x2="7020" y2="13450" stroke="#000" stroke-width="38" />
+<path d="M 7770 12700 A 750 750 0 0 1 7020 13450" fill="none" stroke="#000" stroke-width="14" stroke-dasharray="70 45"/>
+<rect x="7155" y="12816" width="480" height="150" fill="#ffffff" stroke="none" stroke-width="18" />
+<text x="7395" y="12932" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="150" text-anchor="middle" fill="#b3261e" font-weight="normal">门750</text>
+<rect x="6060" y="12633" width="190" height="2567" fill="#3a3a3a" stroke="none" stroke-width="18" />
+<rect x="6366" y="13658" width="150" height="396" fill="#ffffff" stroke="none" stroke-width="18" />
+<text x="6482" y="13856" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="150" text-anchor="middle" fill="#444444" font-weight="normal" transform="rotate(-90 6482 13856)">2190</text>
+<rect x="4050" y="12633" width="200" height="2567" fill="#3a3a3a" stroke="none" stroke-width="18" />
+<rect x="3813" y="13658" width="150" height="396" fill="#ffffff" stroke="none" stroke-width="18" />
+<text x="3930" y="13856" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="150" text-anchor="middle" fill="#444444" font-weight="normal" transform="rotate(-90 3930 13856)">2190</text>
+<line x1="4150" y1="11650" x2="4150" y2="12633" stroke="#000" stroke-width="14" stroke-dasharray="120 80"/>
+<rect x="3783" y="11524" width="150" height="1236" fill="#ffffff" stroke="none" stroke-width="18" />
+<text x="3900" y="12142" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="150" text-anchor="middle" fill="#b3261e" font-weight="normal" transform="rotate(-90 3900 12142)">推拉门/洞口980</text>
+<rect x="250" y="250" width="3820" height="530" fill="url(#cab)" stroke="#000" stroke-width="15" />
+<rect x="1450" y="780" width="2100" height="2070" fill="none" stroke="#000" stroke-width="22" />
+<line x1="1450" y1="1350" x2="3550" y2="1350" stroke="#000" stroke-width="12" />
+<rect x="1550" y="850" width="900" height="400" fill="none" stroke="#000" stroke-width="10" />
+<rect x="2550" y="850" width="900" height="400" fill="none" stroke="#000" stroke-width="10" />
+<rect x="4350" y="250" width="600" height="1200" fill="url(#cab)" stroke="#000" stroke-width="15" />
+<rect x="5050" y="250" width="550" height="600" fill="none" stroke="#000" stroke-width="14" />
+<ellipse cx="5325" cy="620" rx="200" ry="230" fill="none" stroke="#000" stroke-width="15"/>
+<rect x="6100" y="100" width="500" height="750" fill="none" stroke="#000" stroke-width="14" />
+<ellipse cx="6350" cy="520" rx="190" ry="250" fill="none" stroke="#000" stroke-width="15"/>
+<rect x="6800" y="100" width="1000" height="760" fill="#eef5fb" stroke="#000" stroke-width="14" />
+<circle cx="7300" cy="480" r="80" fill="none" stroke="#000" stroke-width="18"/>
+<line x1="6800" y1="860" x2="7800" y2="860" stroke="#1769aa" stroke-width="40" />
+<line x1="6800" y1="785" x2="7800" y2="785" stroke="#1769aa" stroke-width="14" />
+<line x1="6800" y1="935" x2="7800" y2="935" stroke="#1769aa" stroke-width="14" />
+<rect x="4350" y="1540" width="1650" height="860" fill="none" stroke="#000" stroke-width="16" rx="300"/>
+<rect x="4500" y="1660" width="1350" height="620" fill="none" stroke="#000" stroke-width="10" rx="250"/>
+<rect x="7400" y="1050" width="415" height="1350" fill="none" stroke="#000" stroke-width="14" />
+<ellipse cx="7607" cy="1380" rx="160" ry="200" fill="none" stroke="#000" stroke-width="15"/>
+<ellipse cx="7607" cy="2070" rx="160" ry="200" fill="none" stroke="#000" stroke-width="15"/>
+<rect x="8000" y="250" width="550" height="2310" fill="none" stroke="#000" stroke-width="15" />
+<line x1="8000" y1="390" x2="8550" y2="390" stroke="#000" stroke-width="8" />
+<line x1="8000" y1="530" x2="8550" y2="530" stroke="#000" stroke-width="8" />
+<line x1="8000" y1="670" x2="8550" y2="670" stroke="#000" stroke-width="8" />
+<line x1="8000" y1="810" x2="8550" y2="810" stroke="#000" stroke-width="8" />
+<line x1="8000" y1="950" x2="8550" y2="950" stroke="#000" stroke-width="8" />
+<line x1="8000" y1="1090" x2="8550" y2="1090" stroke="#000" stroke-width="8" />
+<line x1="8000" y1="1230" x2="8550" y2="1230" stroke="#000" stroke-width="8" />
+<line x1="8000" y1="1370" x2="8550" y2="1370" stroke="#000" stroke-width="8" />
+<line x1="8000" y1="1510" x2="8550" y2="1510" stroke="#000" stroke-width="8" />
+<line x1="8000" y1="1650" x2="8550" y2="1650" stroke="#000" stroke-width="8" />
+<line x1="8000" y1="1790" x2="8550" y2="1790" stroke="#000" stroke-width="8" />
+<line x1="8000" y1="1930" x2="8550" y2="1930" stroke="#000" stroke-width="8" />
+<line x1="8000" y1="2070" x2="8550" y2="2070" stroke="#000" stroke-width="8" />
+<line x1="8000" y1="2210" x2="8550" y2="2210" stroke="#000" stroke-width="8" />
+<line x1="8000" y1="2350" x2="8550" y2="2350" stroke="#000" stroke-width="8" />
+<line x1="8000" y1="2490" x2="8550" y2="2490" stroke="#000" stroke-width="8" />
+<rect x="10100" y="250" width="500" height="3320" fill="none" stroke="#000" stroke-width="15" />
+<line x1="10100" y1="390" x2="10600" y2="390" stroke="#000" stroke-width="8" />
+<line x1="10100" y1="530" x2="10600" y2="530" stroke="#000" stroke-width="8" />
+<line x1="10100" y1="670" x2="10600" y2="670" stroke="#000" stroke-width="8" />
+<line x1="10100" y1="810" x2="10600" y2="810" stroke="#000" stroke-width="8" />
+<line x1="10100" y1="950" x2="10600" y2="950" stroke="#000" stroke-width="8" />
+<line x1="10100" y1="1090" x2="10600" y2="1090" stroke="#000" stroke-width="8" />
+<line x1="10100" y1="1230" x2="10600" y2="1230" stroke="#000" stroke-width="8" />
+<line x1="10100" y1="1370" x2="10600" y2="1370" stroke="#000" stroke-width="8" />
+<line x1="10100" y1="1510" x2="10600" y2="1510" stroke="#000" stroke-width="8" />
+<line x1="10100" y1="1650" x2="10600" y2="1650" stroke="#000" stroke-width="8" />
+<line x1="10100" y1="1790" x2="10600" y2="1790" stroke="#000" stroke-width="8" />
+<line x1="10100" y1="1930" x2="10600" y2="1930" stroke="#000" stroke-width="8" />
+<line x1="10100" y1="2070" x2="10600" y2="2070" stroke="#000" stroke-width="8" />
+<line x1="10100" y1="2210" x2="10600" y2="2210" stroke="#000" stroke-width="8" />
+<line x1="10100" y1="2350" x2="10600" y2="2350" stroke="#000" stroke-width="8" />
+<line x1="10100" y1="2490" x2="10600" y2="2490" stroke="#000" stroke-width="8" />
+<line x1="10100" y1="2630" x2="10600" y2="2630" stroke="#000" stroke-width="8" />
+<line x1="10100" y1="2770" x2="10600" y2="2770" stroke="#000" stroke-width="8" />
+<line x1="10100" y1="2910" x2="10600" y2="2910" stroke="#000" stroke-width="8" />
+<line x1="10100" y1="3050" x2="10600" y2="3050" stroke="#000" stroke-width="8" />
+<line x1="10100" y1="3190" x2="10600" y2="3190" stroke="#000" stroke-width="8" />
+<line x1="10100" y1="3330" x2="10600" y2="3330" stroke="#000" stroke-width="8" />
+<line x1="10100" y1="3470" x2="10600" y2="3470" stroke="#000" stroke-width="8" />
+<rect x="8800" y="1130" width="970" height="2090" fill="none" stroke="#000" stroke-width="16" />
+<rect x="12000" y="2550" width="550" height="2500" fill="url(#cab)" stroke="#000" stroke-width="15" />
+<rect x="10950" y="2550" width="600" height="600" fill="none" stroke="#000" stroke-width="14" />
+<circle cx="11250" cy="2850" r="210" fill="none" stroke="#000" stroke-width="18"/>
+<rect x="1700" y="3880" width="3600" height="200" fill="url(#cab)" stroke="#000" stroke-width="15" />
+<rect x="2400" y="6950" width="2900" height="350" fill="url(#cab)" stroke="#000" stroke-width="15" />
+<ellipse cx="3300" cy="5600" rx="1500" ry="1250" fill="none" stroke="#000" stroke-width="15"/>
+<circle cx="2500" cy="4800" r="300" fill="none" stroke="#000" stroke-width="18"/>
+<circle cx="2500" cy="4800" r="110" fill="none" stroke="#000" stroke-width="18"/>
+<rect x="2900" y="4400" width="800" height="700" fill="none" stroke="#000" stroke-width="12" rx="150"/>
+<rect x="7120" y="3760" width="2760" height="260" fill="url(#cab)" stroke="#000" stroke-width="15" />
+<rect x="7070" y="4050" width="2430" height="1700" fill="none" stroke="#000" stroke-width="8" stroke-dasharray="60 60"/>
+<rect x="7260" y="5090" width="2130" height="490" fill="none" stroke="#000" stroke-width="20" />
+<circle cx="9100" cy="5335" r="190" fill="none" stroke="#000" stroke-width="18"/>
+<rect x="7400" y="5200" width="1100" height="280" fill="none" stroke="#000" stroke-width="10" />
+<circle cx="7700" cy="5800" r="200" fill="none" stroke="#000" stroke-width="18"/>
+<circle cx="8300" cy="5800" r="200" fill="none" stroke="#000" stroke-width="18"/>
+<rect x="9530" y="5030" width="1095" height="550" fill="url(#cab)" stroke="#000" stroke-width="15" />
+<rect x="7550" y="8050" width="810" height="2250" fill="none" stroke="#000" stroke-width="20" />
+<rect x="7150" y="8300" width="350" height="450" fill="none" stroke="#000" stroke-width="10" />
+<rect x="8410" y="8300" width="350" height="450" fill="none" stroke="#000" stroke-width="10" />
+<rect x="7150" y="8950" width="350" height="450" fill="none" stroke="#000" stroke-width="10" />
+<rect x="8410" y="8950" width="350" height="450" fill="none" stroke="#000" stroke-width="10" />
+<rect x="7150" y="9600" width="350" height="450" fill="none" stroke="#000" stroke-width="10" />
+<rect x="8410" y="9600" width="350" height="450" fill="none" stroke="#000" stroke-width="10" />
+<rect x="9530" y="8160" width="554" height="1280" fill="url(#cab)" stroke="#000" stroke-width="15" />
+<circle cx="9800" cy="7780" r="180" fill="none" stroke="#000" stroke-width="18"/>
+<rect x="11400" y="7440" width="300" height="1660" fill="url(#cab)" stroke="#000" stroke-width="15" />
+<rect x="10330" y="9100" width="1370" height="330" fill="url(#cab)" stroke="#000" stroke-width="15" />
+<rect x="9890" y="9740" width="2060" height="520" fill="url(#cab)" stroke="#000" stroke-width="15" />
+<rect x="11970" y="9740" width="540" height="490" fill="#555" stroke="none" stroke-width="18" />
+<text x="12240" y="10030" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="140" text-anchor="middle" fill="#fff" font-weight="normal">冰箱</text>
+<rect x="12000" y="10290" width="600" height="2410" fill="url(#cab)" stroke="#000" stroke-width="15" />
+<circle cx="12300" cy="10650" r="170" fill="none" stroke="#000" stroke-width="18"/>
+<circle cx="12300" cy="11400" r="140" fill="none" stroke="#000" stroke-width="18"/>
+<circle cx="12300" cy="11750" r="140" fill="none" stroke="#000" stroke-width="18"/>
+<line x1="2720" y1="7800" x2="4100" y2="7800" stroke="#000" stroke-width="55" />
+<rect x="1890" y="8450" width="790" height="2040" fill="none" stroke="#000" stroke-width="16" />
+<rect x="1890" y="10490" width="3430" height="710" fill="none" stroke="#000" stroke-width="16" />
+<line x1="2680" y1="10490" x2="2680" y2="11200" stroke="#000" stroke-width="8" />
+<line x1="3340" y1="10490" x2="3340" y2="11200" stroke="#000" stroke-width="8" />
+<line x1="4000" y1="10490" x2="4000" y2="11200" stroke="#000" stroke-width="8" />
+<line x1="4660" y1="10490" x2="4660" y2="11200" stroke="#000" stroke-width="8" />
+<circle cx="3730" cy="9580" r="400" fill="none" stroke="#000" stroke-width="18"/>
+<circle cx="3730" cy="9580" r="280" fill="none" stroke="#000" stroke-width="18"/>
+<rect x="1890" y="8450" width="3430" height="2870" fill="none" stroke="#000" stroke-width="8" stroke-dasharray="60 60"/>
+<rect x="1100" y="12750" width="1830" height="1790" fill="none" stroke="#000" stroke-width="22" />
+<line x1="1100" y1="13950" x2="2930" y2="13950" stroke="#000" stroke-width="12" />
+<rect x="1200" y="14050" width="750" height="400" fill="none" stroke="#000" stroke-width="10" />
+<rect x="2080" y="14050" width="750" height="400" fill="none" stroke="#000" stroke-width="10" />
+<rect x="290" y="14540" width="3210" height="490" fill="url(#cab)" stroke="#000" stroke-width="15" />
+<rect x="3530" y="12620" width="500" height="2410" fill="none" stroke="#000" stroke-width="15" />
+<line x1="3530" y1="12760" x2="4030" y2="12760" stroke="#000" stroke-width="8" />
+<line x1="3530" y1="12900" x2="4030" y2="12900" stroke="#000" stroke-width="8" />
+<line x1="3530" y1="13040" x2="4030" y2="13040" stroke="#000" stroke-width="8" />
+<line x1="3530" y1="13180" x2="4030" y2="13180" stroke="#000" stroke-width="8" />
+<line x1="3530" y1="13320" x2="4030" y2="13320" stroke="#000" stroke-width="8" />
+<line x1="3530" y1="13460" x2="4030" y2="13460" stroke="#000" stroke-width="8" />
+<line x1="3530" y1="13600" x2="4030" y2="13600" stroke="#000" stroke-width="8" />
+<line x1="3530" y1="13740" x2="4030" y2="13740" stroke="#000" stroke-width="8" />
+<line x1="3530" y1="13880" x2="4030" y2="13880" stroke="#000" stroke-width="8" />
+<line x1="3530" y1="14020" x2="4030" y2="14020" stroke="#000" stroke-width="8" />
+<line x1="3530" y1="14160" x2="4030" y2="14160" stroke="#000" stroke-width="8" />
+<line x1="3530" y1="14300" x2="4030" y2="14300" stroke="#000" stroke-width="8" />
+<line x1="3530" y1="14440" x2="4030" y2="14440" stroke="#000" stroke-width="8" />
+<line x1="3530" y1="14580" x2="4030" y2="14580" stroke="#000" stroke-width="8" />
+<line x1="3530" y1="14720" x2="4030" y2="14720" stroke="#000" stroke-width="8" />
+<line x1="3530" y1="14860" x2="4030" y2="14860" stroke="#000" stroke-width="8" />
+<line x1="3530" y1="15000" x2="4030" y2="15000" stroke="#000" stroke-width="8" />
+<rect x="4350" y="12800" width="1640" height="550" fill="none" stroke="#000" stroke-width="12" />
+<ellipse cx="5250" cy="13075" rx="220" ry="150" fill="none" stroke="#000" stroke-width="15"/>
+<rect x="6310" y="12800" width="1425" height="550" fill="none" stroke="#000" stroke-width="12" />
+<ellipse cx="7020" cy="13075" rx="220" ry="150" fill="none" stroke="#000" stroke-width="15"/>
+<rect x="4350" y="13700" width="700" height="1250" fill="#eef5fb" stroke="#000" stroke-width="12" />
+<circle cx="4700" cy="14300" r="80" fill="none" stroke="#000" stroke-width="18"/>
+<line x1="5050" y1="13700" x2="5050" y2="14950" stroke="#1769aa" stroke-width="40" />
+<line x1="4975" y1="13700" x2="4975" y2="14950" stroke="#1769aa" stroke-width="14" />
+<line x1="5125" y1="13700" x2="5125" y2="14950" stroke="#1769aa" stroke-width="14" />
+<rect x="5400" y="14350" width="550" height="600" fill="none" stroke="#000" stroke-width="12" />
+<ellipse cx="5675" cy="14600" rx="180" ry="220" fill="none" stroke="#000" stroke-width="15"/>
+<rect x="6300" y="13650" width="650" height="1300" fill="#eef5fb" stroke="#000" stroke-width="12" />
+<circle cx="6625" cy="14300" r="80" fill="none" stroke="#000" stroke-width="18"/>
+<line x1="6950" y1="13650" x2="6950" y2="14950" stroke="#1769aa" stroke-width="40" />
+<line x1="6875" y1="13650" x2="6875" y2="14950" stroke="#1769aa" stroke-width="14" />
+<line x1="7025" y1="13650" x2="7025" y2="14950" stroke="#1769aa" stroke-width="14" />
+<rect x="7050" y="14350" width="650" height="600" fill="none" stroke="#000" stroke-width="12" />
+<ellipse cx="7375" cy="14600" rx="180" ry="220" fill="none" stroke="#000" stroke-width="15"/>
+<rect x="8700" y="11750" width="480" height="450" fill="url(#cab)" stroke="#000" stroke-width="15" />
+<rect x="9180" y="11750" width="1460" height="450" fill="none" stroke="#000" stroke-width="15" />
+<line x1="9320" y1="11750" x2="9320" y2="12200" stroke="#000" stroke-width="8" />
+<line x1="9460" y1="11750" x2="9460" y2="12200" stroke="#000" stroke-width="8" />
+<line x1="9600" y1="11750" x2="9600" y2="12200" stroke="#000" stroke-width="8" />
+<line x1="9740" y1="11750" x2="9740" y2="12200" stroke="#000" stroke-width="8" />
+<line x1="9880" y1="11750" x2="9880" y2="12200" stroke="#000" stroke-width="8" />
+<line x1="10020" y1="11750" x2="10020" y2="12200" stroke="#000" stroke-width="8" />
+<line x1="10160" y1="11750" x2="10160" y2="12200" stroke="#000" stroke-width="8" />
+<line x1="10300" y1="11750" x2="10300" y2="12200" stroke="#000" stroke-width="8" />
+<line x1="10440" y1="11750" x2="10440" y2="12200" stroke="#000" stroke-width="8" />
+<line x1="10580" y1="11750" x2="10580" y2="12200" stroke="#000" stroke-width="8" />
+<rect x="8200" y="12900" width="1600" height="2000" fill="none" stroke="#000" stroke-width="20" />
+<line x1="9300" y1="12900" x2="9300" y2="14900" stroke="#000" stroke-width="10" />
+<rect x="9400" y="13000" width="300" height="850" fill="none" stroke="#000" stroke-width="10" />
+<rect x="9400" y="13950" width="300" height="850" fill="none" stroke="#000" stroke-width="10" />
+<rect x="9800" y="12900" width="600" height="2000" fill="#eee" stroke="#000" stroke-width="14" />
+<rect x="12050" y="13000" width="550" height="550" fill="none" stroke="#000" stroke-width="12" />
+<circle cx="12325" cy="13275" r="190" fill="none" stroke="#000" stroke-width="18"/>
+<text x="2000" y="1950" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="320" text-anchor="middle" fill="#000" font-weight="bold">主卧室</text>
+<text x="2000" y="2254" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="230.39999999999998" text-anchor="middle" fill="#222" font-weight="normal">约13.5㎡</text>
+<polygon points="100,250 4070,250 4070,3660 100,3660" fill="none" stroke="#9aa" stroke-width="8" stroke-dasharray="40 60"/>
+<text x="5450" y="1250" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="280" text-anchor="middle" fill="#000" font-weight="bold">主卫生间</text>
+<text x="5450" y="1516" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="201.6" text-anchor="middle" fill="#222" font-weight="normal">约8.1㎡</text>
+<polygon points="4300,100 7815,100 7815,2400 4300,2400" fill="none" stroke="#9aa" stroke-width="8" stroke-dasharray="40 60"/>
+<text x="5000" y="3150" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="240" text-anchor="middle" fill="#000" font-weight="bold">过厅</text>
+<text x="5000" y="3378" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="172.79999999999998" text-anchor="middle" fill="#222" font-weight="normal">约3.8㎡</text>
+<polygon points="4300,2550 7880,2550 7880,3620 4300,3620" fill="none" stroke="#9aa" stroke-width="8" stroke-dasharray="40 60"/>
+<text x="9300" y="600" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="280" text-anchor="middle" fill="#000" font-weight="bold">衣帽间</text>
+<text x="9300" y="866" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="201.6" text-anchor="middle" fill="#222" font-weight="normal">约9.4㎡</text>
+<polygon points="7950,100 10625,100 10625,3620 7950,3620" fill="none" stroke="#9aa" stroke-width="8" stroke-dasharray="40 60"/>
+<text x="11850" y="1800" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="220" text-anchor="middle" fill="#000" font-weight="bold">北阳台</text>
+<text x="11850" y="2009" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="158.4" text-anchor="middle" fill="#222" font-weight="normal">约1.8㎡</text>
+<polygon points="10875,1400 12800,1400 12800,2325 10875,2325" fill="none" stroke="#9aa" stroke-width="8" stroke-dasharray="40 60"/>
+<text x="11800" y="3700" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="220" text-anchor="middle" fill="#000" font-weight="bold">家政多功能室</text>
+<text x="11800" y="3909" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="158.4" text-anchor="middle" fill="#222" font-weight="normal">约5.2㎡</text>
+<polygon points="10955,2550 12650,2550 12650,5610 10955,5610" fill="none" stroke="#9aa" stroke-width="8" stroke-dasharray="40 60"/>
+<text x="3600" y="6300" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="320" text-anchor="middle" fill="#000" font-weight="bold">多功能室</text>
+<text x="3600" y="6604" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="230.39999999999998" text-anchor="middle" fill="#222" font-weight="normal">约14.7㎡</text>
+<text x="3600" y="6828" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="160.0" text-anchor="middle" fill="#666" font-weight="normal">开放式，东侧以保留剪力墙线划分</text>
+<polygon points="1700,3860 5600,3860 5600,7490 1700,7490 1700,6841 1450,6841 1450,4815 1700,4815" fill="none" stroke="#9aa" stroke-width="8" stroke-dasharray="40 60"/>
+<text x="550" y="7600" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="220" text-anchor="middle" fill="#000" font-weight="bold">休闲阳台</text>
+<text x="550" y="7809" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="158.4" text-anchor="middle" fill="#222" font-weight="normal">约9.9㎡</text>
+<polygon points="-150,4100 1250,4100 1250,11150 -150,11150" fill="none" stroke="#9aa" stroke-width="8" stroke-dasharray="40 60"/>
+<text x="3650" y="8250" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="320" text-anchor="middle" fill="#000" font-weight="bold">客厅</text>
+<text x="3650" y="8554" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="230.39999999999998" text-anchor="middle" fill="#222" font-weight="normal">约14.5㎡</text>
+<text x="3650" y="8778" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="160.0" text-anchor="middle" fill="#666" font-weight="normal">开放式，东侧以保留剪力墙线划分</text>
+<polygon points="1700,7750 5600,7750 5600,11350 1700,11350 1700,10451 1450,10451 1450,8425 1700,8425" fill="none" stroke="#9aa" stroke-width="8" stroke-dasharray="40 60"/>
+<text x="8300" y="4420" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="260" text-anchor="middle" fill="#000" font-weight="bold">西厨</text>
+<text x="8300" y="4667" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="187.2" text-anchor="middle" fill="#222" font-weight="normal">约7.4㎡</text>
+<text x="8300" y="4849" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="130.0" text-anchor="middle" fill="#666" font-weight="normal">开放式，南侧以玄关墙线划分</text>
+<polygon points="7070,3760 10625,3760 10625,5610 10955,5610 10955,5830 7070,5830" fill="none" stroke="#9aa" stroke-width="8" stroke-dasharray="40 60"/>
+<text x="7950" y="7000" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="320" text-anchor="middle" fill="#000" font-weight="bold">餐厅</text>
+<text x="7950" y="7304" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="230.39999999999998" text-anchor="middle" fill="#222" font-weight="normal">约26.6㎡</text>
+<text x="7950" y="7528" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="160.0" text-anchor="middle" fill="#666" font-weight="normal">含过厅双开门前通道</text>
+<polygon points="5600,3860 7070,3860 7070,5830 10084,5830 10084,9550 9505,9550 9505,11350 5600,11350" fill="none" stroke="#9aa" stroke-width="8" stroke-dasharray="40 60"/>
+<text x="11500" y="6500" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="280" text-anchor="middle" fill="#000" font-weight="bold">玄关</text>
+<text x="11500" y="6766" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="201.6" text-anchor="middle" fill="#222" font-weight="normal">约3.7㎡</text>
+<polygon points="10330,5830 12650,5830 12650,7440 10330,7440" fill="none" stroke="#9aa" stroke-width="8" stroke-dasharray="40 60"/>
+<text x="11100" y="8300" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="220" text-anchor="middle" fill="#000" font-weight="bold">储物/收纳</text>
+<text x="11100" y="8509" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="158.4" text-anchor="middle" fill="#222" font-weight="normal">约3.5㎡</text>
+<polygon points="10276,7440 11950,7440 11950,9550 10276,9550" fill="none" stroke="#9aa" stroke-width="8" stroke-dasharray="40 60"/>
+<text x="11300" y="10900" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="280" text-anchor="middle" fill="#000" font-weight="bold">中厨</text>
+<text x="11300" y="11166" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="201.6" text-anchor="middle" fill="#222" font-weight="normal">约7.6㎡</text>
+<polygon points="9700,9700 12712,9700 12712,12900 10920,12900 10920,11250 9700,11250" fill="none" stroke="#9aa" stroke-width="8" stroke-dasharray="40 60"/>
+<text x="12200" y="13760" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="170" text-anchor="middle" fill="#000" font-weight="bold">南阳台</text>
+<text x="12200" y="13922" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="122.39999999999999" text-anchor="middle" fill="#222" font-weight="normal">约2.0㎡</text>
+<polygon points="10920,12900 12712,12900 12712,14010 10920,14010" fill="none" stroke="#9aa" stroke-width="8" stroke-dasharray="40 60"/>
+<text x="2000" y="13300" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="320" text-anchor="middle" fill="#000" font-weight="bold">卧室</text>
+<text x="2000" y="13604" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="230.39999999999998" text-anchor="middle" fill="#222" font-weight="normal">约13.0㎡</text>
+<polygon points="100,11650 4050,11650 4050,14950 100,14950" fill="none" stroke="#9aa" stroke-width="8" stroke-dasharray="40 60"/>
+<text x="4800" y="12050" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="170" text-anchor="middle" fill="#000" font-weight="bold">走道(西)</text>
+<text x="4800" y="12212" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="122.39999999999999" text-anchor="middle" fill="#222" font-weight="normal">约1.1㎡</text>
+<polygon points="4250,11650 5360,11650 5360,12633 4250,12633" fill="none" stroke="#9aa" stroke-width="8" stroke-dasharray="40 60"/>
+<text x="6600" y="12050" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="190" text-anchor="middle" fill="#000" font-weight="bold">走道(东)</text>
+<text x="6600" y="12230" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="136.79999999999998" text-anchor="middle" fill="#222" font-weight="normal">约2.1㎡</text>
+<polygon points="5610,11650 7750,11650 7750,12633 5610,12633" fill="none" stroke="#9aa" stroke-width="8" stroke-dasharray="40 60"/>
+<text x="5150" y="13700" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="210" text-anchor="middle" fill="#000" font-weight="bold">客卫生间A</text>
+<text x="5150" y="13900" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="151.2" text-anchor="middle" fill="#222" font-weight="normal">约4.0㎡</text>
+<polygon points="4250,12763 6060,12763 6060,14950 4250,14950" fill="none" stroke="#9aa" stroke-width="8" stroke-dasharray="40 60"/>
+<text x="7000" y="13700" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="210" text-anchor="middle" fill="#000" font-weight="bold">客卫生间B</text>
+<text x="7000" y="13900" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="151.2" text-anchor="middle" fill="#222" font-weight="normal">约3.3㎡</text>
+<polygon points="6250,12763 7750,12763 7750,14950 6250,14950" fill="none" stroke="#9aa" stroke-width="8" stroke-dasharray="40 60"/>
+<text x="9200" y="12550" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="280" text-anchor="middle" fill="#000" font-weight="bold">儿童卧室</text>
+<text x="9200" y="12816" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="201.6" text-anchor="middle" fill="#222" font-weight="normal">约8.9㎡</text>
+<polygon points="7880,11750 10650,11750 10650,14950 7880,14950" fill="none" stroke="#9aa" stroke-width="8" stroke-dasharray="40 60"/>
+<line x1="0" y1="-1300" x2="18550" y2="-1300" stroke="#000" stroke-width="16" />
+<line x1="0" y1="-1410" x2="0" y2="-1190" stroke="#000" stroke-width="16" />
+<line x1="-70" y1="-1230" x2="70" y2="-1370" stroke="#000" stroke-width="22" />
+<line x1="1300" y1="-1410" x2="1300" y2="-1190" stroke="#000" stroke-width="16" />
+<line x1="1230" y1="-1230" x2="1370" y2="-1370" stroke="#000" stroke-width="22" />
+<line x1="4200" y1="-1410" x2="4200" y2="-1190" stroke="#000" stroke-width="16" />
+<line x1="4130" y1="-1230" x2="4270" y2="-1370" stroke="#000" stroke-width="22" />
+<line x1="6100" y1="-1410" x2="6100" y2="-1190" stroke="#000" stroke-width="16" />
+<line x1="6030" y1="-1230" x2="6170" y2="-1370" stroke="#000" stroke-width="22" />
+<line x1="7800" y1="-1410" x2="7800" y2="-1190" stroke="#000" stroke-width="16" />
+<line x1="7730" y1="-1230" x2="7870" y2="-1370" stroke="#000" stroke-width="22" />
+<line x1="10800" y1="-1410" x2="10800" y2="-1190" stroke="#000" stroke-width="16" />
+<line x1="10730" y1="-1230" x2="10870" y2="-1370" stroke="#000" stroke-width="22" />
+<line x1="12900" y1="-1410" x2="12900" y2="-1190" stroke="#000" stroke-width="16" />
+<line x1="12830" y1="-1230" x2="12970" y2="-1370" stroke="#000" stroke-width="22" />
+<line x1="15850" y1="-1410" x2="15850" y2="-1190" stroke="#000" stroke-width="16" />
+<line x1="15780" y1="-1230" x2="15920" y2="-1370" stroke="#000" stroke-width="22" />
+<line x1="18550" y1="-1410" x2="18550" y2="-1190" stroke="#000" stroke-width="16" />
+<line x1="18480" y1="-1230" x2="18620" y2="-1370" stroke="#000" stroke-width="22" />
+<text x="650" y="-1380" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="250" text-anchor="middle" fill="#111111" font-weight="normal">1300</text>
+<text x="2750" y="-1380" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="250" text-anchor="middle" fill="#111111" font-weight="normal">2900</text>
+<text x="5150" y="-1380" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="250" text-anchor="middle" fill="#111111" font-weight="normal">1900</text>
+<text x="6950" y="-1380" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="250" text-anchor="middle" fill="#111111" font-weight="normal">1700</text>
+<text x="9300" y="-1380" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="250" text-anchor="middle" fill="#111111" font-weight="normal">3000</text>
+<text x="11850" y="-1380" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="250" text-anchor="middle" fill="#111111" font-weight="normal">2100</text>
+<text x="14375" y="-1380" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="250" text-anchor="middle" fill="#111111" font-weight="normal">2950</text>
+<text x="17200" y="-1380" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="250" text-anchor="middle" fill="#111111" font-weight="normal">2700</text>
+<line x1="0" y1="-2100" x2="18550" y2="-2100" stroke="#000" stroke-width="16" />
+<line x1="0" y1="-2210" x2="0" y2="-1990" stroke="#000" stroke-width="16" />
+<line x1="-70" y1="-2030" x2="70" y2="-2170" stroke="#000" stroke-width="22" />
+<line x1="18550" y1="-2210" x2="18550" y2="-1990" stroke="#000" stroke-width="16" />
+<line x1="18480" y1="-2030" x2="18620" y2="-2170" stroke="#000" stroke-width="22" />
+<text x="9275" y="-2180" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="250" text-anchor="middle" fill="#111111" font-weight="normal">18550</text>
+<line x1="0" y1="18650" x2="18550" y2="18650" stroke="#000" stroke-width="16" />
+<line x1="0" y1="18540" x2="0" y2="18760" stroke="#000" stroke-width="16" />
+<line x1="-70" y1="18720" x2="70" y2="18580" stroke="#000" stroke-width="22" />
+<line x1="1300" y1="18540" x2="1300" y2="18760" stroke="#000" stroke-width="16" />
+<line x1="1230" y1="18720" x2="1370" y2="18580" stroke="#000" stroke-width="22" />
+<line x1="4200" y1="18540" x2="4200" y2="18760" stroke="#000" stroke-width="16" />
+<line x1="4130" y1="18720" x2="4270" y2="18580" stroke="#000" stroke-width="22" />
+<line x1="6100" y1="18540" x2="6100" y2="18760" stroke="#000" stroke-width="16" />
+<line x1="6030" y1="18720" x2="6170" y2="18580" stroke="#000" stroke-width="22" />
+<line x1="7800" y1="18540" x2="7800" y2="18760" stroke="#000" stroke-width="16" />
+<line x1="7730" y1="18720" x2="7870" y2="18580" stroke="#000" stroke-width="22" />
+<line x1="10800" y1="18540" x2="10800" y2="18760" stroke="#000" stroke-width="16" />
+<line x1="10730" y1="18720" x2="10870" y2="18580" stroke="#000" stroke-width="22" />
+<line x1="12900" y1="18540" x2="12900" y2="18760" stroke="#000" stroke-width="16" />
+<line x1="12830" y1="18720" x2="12970" y2="18580" stroke="#000" stroke-width="22" />
+<line x1="15850" y1="18540" x2="15850" y2="18760" stroke="#000" stroke-width="16" />
+<line x1="15780" y1="18720" x2="15920" y2="18580" stroke="#000" stroke-width="22" />
+<line x1="18550" y1="18540" x2="18550" y2="18760" stroke="#000" stroke-width="16" />
+<line x1="18480" y1="18720" x2="18620" y2="18580" stroke="#000" stroke-width="22" />
+<text x="650" y="18950" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="250" text-anchor="middle" fill="#111111" font-weight="normal">1300</text>
+<text x="2750" y="18950" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="250" text-anchor="middle" fill="#111111" font-weight="normal">2900</text>
+<text x="5150" y="18950" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="250" text-anchor="middle" fill="#111111" font-weight="normal">1900</text>
+<text x="6950" y="18950" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="250" text-anchor="middle" fill="#111111" font-weight="normal">1700</text>
+<text x="9300" y="18950" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="250" text-anchor="middle" fill="#111111" font-weight="normal">3000</text>
+<text x="11850" y="18950" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="250" text-anchor="middle" fill="#111111" font-weight="normal">2100</text>
+<text x="14375" y="18950" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="250" text-anchor="middle" fill="#111111" font-weight="normal">2950</text>
+<text x="17200" y="18950" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="250" text-anchor="middle" fill="#111111" font-weight="normal">2700</text>
+<line x1="0" y1="19450" x2="18550" y2="19450" stroke="#000" stroke-width="16" />
+<line x1="0" y1="19340" x2="0" y2="19560" stroke="#000" stroke-width="16" />
+<line x1="-70" y1="19520" x2="70" y2="19380" stroke="#000" stroke-width="22" />
+<line x1="18550" y1="19340" x2="18550" y2="19560" stroke="#000" stroke-width="16" />
+<line x1="18480" y1="19520" x2="18620" y2="19380" stroke="#000" stroke-width="22" />
+<text x="9275" y="19750" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="250" text-anchor="middle" fill="#111111" font-weight="normal">18550</text>
+<line x1="-1300" y1="0" x2="-1300" y2="17350" stroke="#000" stroke-width="16" />
+<line x1="-1410" y1="0" x2="-1190" y2="0" stroke="#000" stroke-width="16" />
+<line x1="-1370" y1="70" x2="-1230" y2="-70" stroke="#000" stroke-width="22" />
+<line x1="-1410" y1="2400" x2="-1190" y2="2400" stroke="#000" stroke-width="16" />
+<line x1="-1370" y1="2470" x2="-1230" y2="2330" stroke="#000" stroke-width="22" />
+<line x1="-1410" y1="3700" x2="-1190" y2="3700" stroke="#000" stroke-width="16" />
+<line x1="-1370" y1="3770" x2="-1230" y2="3630" stroke="#000" stroke-width="22" />
+<line x1="-1410" y1="5700" x2="-1190" y2="5700" stroke="#000" stroke-width="16" />
+<line x1="-1370" y1="5770" x2="-1230" y2="5630" stroke="#000" stroke-width="22" />
+<line x1="-1410" y1="7600" x2="-1190" y2="7600" stroke="#000" stroke-width="16" />
+<line x1="-1370" y1="7670" x2="-1230" y2="7530" stroke="#000" stroke-width="22" />
+<line x1="-1410" y1="10250" x2="-1190" y2="10250" stroke="#000" stroke-width="16" />
+<line x1="-1370" y1="10320" x2="-1230" y2="10180" stroke="#000" stroke-width="22" />
+<line x1="-1410" y1="11500" x2="-1190" y2="11500" stroke="#000" stroke-width="16" />
+<line x1="-1370" y1="11570" x2="-1230" y2="11430" stroke="#000" stroke-width="22" />
+<line x1="-1410" y1="12900" x2="-1190" y2="12900" stroke="#000" stroke-width="16" />
+<line x1="-1370" y1="12970" x2="-1230" y2="12830" stroke="#000" stroke-width="22" />
+<line x1="-1410" y1="15200" x2="-1190" y2="15200" stroke="#000" stroke-width="16" />
+<line x1="-1370" y1="15270" x2="-1230" y2="15130" stroke="#000" stroke-width="22" />
+<line x1="-1410" y1="17350" x2="-1190" y2="17350" stroke="#000" stroke-width="16" />
+<line x1="-1370" y1="17420" x2="-1230" y2="17280" stroke="#000" stroke-width="22" />
+<text x="-1380" y="1200" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="250" text-anchor="middle" fill="#111111" font-weight="normal" transform="rotate(-90 -1380 1200)">2400</text>
+<text x="-1380" y="3050" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="250" text-anchor="middle" fill="#111111" font-weight="normal" transform="rotate(-90 -1380 3050)">1300</text>
+<text x="-1380" y="4700" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="250" text-anchor="middle" fill="#111111" font-weight="normal" transform="rotate(-90 -1380 4700)">2000</text>
+<text x="-1380" y="6650" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="250" text-anchor="middle" fill="#111111" font-weight="normal" transform="rotate(-90 -1380 6650)">1900</text>
+<text x="-1380" y="8925" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="250" text-anchor="middle" fill="#111111" font-weight="normal" transform="rotate(-90 -1380 8925)">2650</text>
+<text x="-1380" y="10875" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="250" text-anchor="middle" fill="#111111" font-weight="normal" transform="rotate(-90 -1380 10875)">1250</text>
+<text x="-1380" y="12200" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="250" text-anchor="middle" fill="#111111" font-weight="normal" transform="rotate(-90 -1380 12200)">1400</text>
+<text x="-1380" y="14050" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="250" text-anchor="middle" fill="#111111" font-weight="normal" transform="rotate(-90 -1380 14050)">2300</text>
+<text x="-1380" y="16275" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="250" text-anchor="middle" fill="#111111" font-weight="normal" transform="rotate(-90 -1380 16275)">2150</text>
+<line x1="-2100" y1="0" x2="-2100" y2="17350" stroke="#000" stroke-width="16" />
+<line x1="-2210" y1="0" x2="-1990" y2="0" stroke="#000" stroke-width="16" />
+<line x1="-2170" y1="70" x2="-2030" y2="-70" stroke="#000" stroke-width="22" />
+<line x1="-2210" y1="17350" x2="-1990" y2="17350" stroke="#000" stroke-width="16" />
+<line x1="-2170" y1="17420" x2="-2030" y2="17280" stroke="#000" stroke-width="22" />
+<text x="-2180" y="8675" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="250" text-anchor="middle" fill="#111111" font-weight="normal" transform="rotate(-90 -2180 8675)">17350</text>
+<line x1="19850" y1="0" x2="19850" y2="17350" stroke="#000" stroke-width="16" />
+<line x1="19740" y1="0" x2="19960" y2="0" stroke="#000" stroke-width="16" />
+<line x1="19780" y1="70" x2="19920" y2="-70" stroke="#000" stroke-width="22" />
+<line x1="19740" y1="2400" x2="19960" y2="2400" stroke="#000" stroke-width="16" />
+<line x1="19780" y1="2470" x2="19920" y2="2330" stroke="#000" stroke-width="22" />
+<line x1="19740" y1="3700" x2="19960" y2="3700" stroke="#000" stroke-width="16" />
+<line x1="19780" y1="3770" x2="19920" y2="3630" stroke="#000" stroke-width="22" />
+<line x1="19740" y1="5700" x2="19960" y2="5700" stroke="#000" stroke-width="16" />
+<line x1="19780" y1="5770" x2="19920" y2="5630" stroke="#000" stroke-width="22" />
+<line x1="19740" y1="7600" x2="19960" y2="7600" stroke="#000" stroke-width="16" />
+<line x1="19780" y1="7670" x2="19920" y2="7530" stroke="#000" stroke-width="22" />
+<line x1="19740" y1="10250" x2="19960" y2="10250" stroke="#000" stroke-width="16" />
+<line x1="19780" y1="10320" x2="19920" y2="10180" stroke="#000" stroke-width="22" />
+<line x1="19740" y1="11500" x2="19960" y2="11500" stroke="#000" stroke-width="16" />
+<line x1="19780" y1="11570" x2="19920" y2="11430" stroke="#000" stroke-width="22" />
+<line x1="19740" y1="12900" x2="19960" y2="12900" stroke="#000" stroke-width="16" />
+<line x1="19780" y1="12970" x2="19920" y2="12830" stroke="#000" stroke-width="22" />
+<line x1="19740" y1="15200" x2="19960" y2="15200" stroke="#000" stroke-width="16" />
+<line x1="19780" y1="15270" x2="19920" y2="15130" stroke="#000" stroke-width="22" />
+<line x1="19740" y1="17350" x2="19960" y2="17350" stroke="#000" stroke-width="16" />
+<line x1="19780" y1="17420" x2="19920" y2="17280" stroke="#000" stroke-width="22" />
+<text x="20150" y="1200" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="250" text-anchor="middle" fill="#111111" font-weight="normal" transform="rotate(-90 20150 1200)">2400</text>
+<text x="20150" y="3050" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="250" text-anchor="middle" fill="#111111" font-weight="normal" transform="rotate(-90 20150 3050)">1300</text>
+<text x="20150" y="4700" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="250" text-anchor="middle" fill="#111111" font-weight="normal" transform="rotate(-90 20150 4700)">2000</text>
+<text x="20150" y="6650" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="250" text-anchor="middle" fill="#111111" font-weight="normal" transform="rotate(-90 20150 6650)">1900</text>
+<text x="20150" y="8925" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="250" text-anchor="middle" fill="#111111" font-weight="normal" transform="rotate(-90 20150 8925)">2650</text>
+<text x="20150" y="10875" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="250" text-anchor="middle" fill="#111111" font-weight="normal" transform="rotate(-90 20150 10875)">1250</text>
+<text x="20150" y="12200" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="250" text-anchor="middle" fill="#111111" font-weight="normal" transform="rotate(-90 20150 12200)">1400</text>
+<text x="20150" y="14050" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="250" text-anchor="middle" fill="#111111" font-weight="normal" transform="rotate(-90 20150 14050)">2300</text>
+<text x="20150" y="16275" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="250" text-anchor="middle" fill="#111111" font-weight="normal" transform="rotate(-90 20150 16275)">2150</text>
+<line x1="20650" y1="0" x2="20650" y2="17350" stroke="#000" stroke-width="16" />
+<line x1="20540" y1="0" x2="20760" y2="0" stroke="#000" stroke-width="16" />
+<line x1="20580" y1="70" x2="20720" y2="-70" stroke="#000" stroke-width="22" />
+<line x1="20540" y1="17350" x2="20760" y2="17350" stroke="#000" stroke-width="16" />
+<line x1="20580" y1="17420" x2="20720" y2="17280" stroke="#000" stroke-width="22" />
+<text x="20950" y="8675" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="250" text-anchor="middle" fill="#111111" font-weight="normal" transform="rotate(-90 20950 8675)">17350</text>
+<circle cx="0" cy="-2850" r="230" fill="#fff" stroke="#000" stroke-width="18"/>
+<text x="0" y="-2760" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="250" text-anchor="middle" fill="#000" font-weight="normal">1</text>
+<circle cx="1300" cy="-2850" r="230" fill="#fff" stroke="#000" stroke-width="18"/>
+<text x="1300" y="-2760" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="250" text-anchor="middle" fill="#000" font-weight="normal">2</text>
+<circle cx="4200" cy="-2850" r="230" fill="#fff" stroke="#000" stroke-width="18"/>
+<text x="4200" y="-2760" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="250" text-anchor="middle" fill="#000" font-weight="normal">3</text>
+<circle cx="6100" cy="-2850" r="230" fill="#fff" stroke="#000" stroke-width="18"/>
+<text x="6100" y="-2760" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="250" text-anchor="middle" fill="#000" font-weight="normal">4</text>
+<circle cx="7800" cy="-2850" r="230" fill="#fff" stroke="#000" stroke-width="18"/>
+<text x="7800" y="-2760" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="250" text-anchor="middle" fill="#000" font-weight="normal">5</text>
+<circle cx="10800" cy="-2850" r="230" fill="#fff" stroke="#000" stroke-width="18"/>
+<text x="10800" y="-2760" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="250" text-anchor="middle" fill="#000" font-weight="normal">6</text>
+<circle cx="12900" cy="-2850" r="230" fill="#fff" stroke="#000" stroke-width="18"/>
+<text x="12900" y="-2760" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="250" text-anchor="middle" fill="#000" font-weight="normal">7</text>
+<circle cx="15850" cy="-2850" r="230" fill="#fff" stroke="#000" stroke-width="18"/>
+<text x="15850" y="-2760" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="250" text-anchor="middle" fill="#000" font-weight="normal">8</text>
+<circle cx="18550" cy="-2850" r="230" fill="#fff" stroke="#000" stroke-width="18"/>
+<text x="18550" y="-2760" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="250" text-anchor="middle" fill="#000" font-weight="normal">9</text>
+<circle cx="-2850" cy="0" r="230" fill="#fff" stroke="#000" stroke-width="18"/>
+<text x="-2850" y="90" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="250" text-anchor="middle" fill="#000" font-weight="normal">A</text>
+<circle cx="-2850" cy="2400" r="230" fill="#fff" stroke="#000" stroke-width="18"/>
+<text x="-2850" y="2490" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="250" text-anchor="middle" fill="#000" font-weight="normal">B</text>
+<circle cx="-2850" cy="3700" r="230" fill="#fff" stroke="#000" stroke-width="18"/>
+<text x="-2850" y="3790" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="250" text-anchor="middle" fill="#000" font-weight="normal">C</text>
+<circle cx="-2850" cy="5700" r="230" fill="#fff" stroke="#000" stroke-width="18"/>
+<text x="-2850" y="5790" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="250" text-anchor="middle" fill="#000" font-weight="normal">D</text>
+<circle cx="-2850" cy="7600" r="230" fill="#fff" stroke="#000" stroke-width="18"/>
+<text x="-2850" y="7690" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="250" text-anchor="middle" fill="#000" font-weight="normal">E</text>
+<circle cx="-2850" cy="10250" r="230" fill="#fff" stroke="#000" stroke-width="18"/>
+<text x="-2850" y="10340" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="250" text-anchor="middle" fill="#000" font-weight="normal">F</text>
+<circle cx="-2850" cy="11500" r="230" fill="#fff" stroke="#000" stroke-width="18"/>
+<text x="-2850" y="11590" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="250" text-anchor="middle" fill="#000" font-weight="normal">G</text>
+<circle cx="-2850" cy="12900" r="230" fill="#fff" stroke="#000" stroke-width="18"/>
+<text x="-2850" y="12990" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="250" text-anchor="middle" fill="#000" font-weight="normal">H</text>
+<circle cx="-2850" cy="15200" r="230" fill="#fff" stroke="#000" stroke-width="18"/>
+<text x="-2850" y="15290" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="250" text-anchor="middle" fill="#000" font-weight="normal">I</text>
+<circle cx="-2850" cy="17350" r="230" fill="#fff" stroke="#000" stroke-width="18"/>
+<text x="-2850" y="17440" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="250" text-anchor="middle" fill="#000" font-weight="normal">J</text>
+<path d="M 20500 800 L 20750 1800 L 20500 1600 L 20250 1800 Z" fill="#000"/>
+<text x="20500" y="2250" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="300" text-anchor="middle" fill="#000" font-weight="bold">北</text>
+<text x="-3600" y="-4300" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="480" text-anchor="start" fill="#000" font-weight="bold">深业世纪山谷 3C栋 04+05打通户型  建面约262㎡  平面图（高清重绘 v2：墙/玻璃分段尺寸 + 各空间净面积）</text>
+<text x="-3600" y="-3750" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="230" text-anchor="start" fill="#333" font-weight="normal">黑色外围尺寸链（mm）为开发商原图标注；灰色=墙段/洞口推算净长，蓝色=窗/玻璃推算长度，红色=门洞宽；房间面积为推算墙面围合的净面积（不含墙体），仅供参考，非测绘成果，非施工图。</text>
+<text x="-3600" y="-3350" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="230" text-anchor="start" fill="#333" font-weight="normal">墙体类型按原图图例判读：白色填充→实墙；较厚/成对出现的墙段→推测剪力墙（黑）；空心双线→轻质隔断（具体材质需以装修图为准）；外围细线→玻璃窗/幕墙；阳台外缘双线→玻璃栏板。</text>
+<rect x="12900" y="19600" width="600" height="250" fill="#000000" stroke="none" stroke-width="18" />
+<text x="13700" y="19830" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="220" text-anchor="start" fill="#000" font-weight="normal">剪力墙 / 结构柱（按原图线宽推测，非结构图）</text>
+<rect x="12900" y="20030" width="600" height="250" fill="#3a3a3a" stroke="none" stroke-width="18" />
+<text x="13700" y="20260" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="220" text-anchor="start" fill="#000" font-weight="normal">实墙（原图白色填充）</text>
+<rect x="12900" y="20460" width="600" height="200" fill="#ffffff" stroke="#6a6a6a" stroke-width="28" />
+<text x="13700" y="20690" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="220" text-anchor="start" fill="#000" font-weight="normal">轻质隔断（原图空心双线）</text>
+<line x1="12900" y1="21010" x2="13500" y2="21010" stroke="#1769aa" stroke-width="40" />
+<line x1="12900" y1="20935" x2="13500" y2="20935" stroke="#1769aa" stroke-width="14" />
+<line x1="12900" y1="21085" x2="13500" y2="21085" stroke="#1769aa" stroke-width="14" />
+<text x="13700" y="21120" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="220" text-anchor="start" fill="#000" font-weight="normal">外窗 / 玻璃门窗</text>
+<line x1="12900" y1="21380" x2="13500" y2="21380" stroke="#1769aa" stroke-width="22" />
+<line x1="12900" y1="21500" x2="13500" y2="21500" stroke="#1769aa" stroke-width="22" />
+<text x="13700" y="21550" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="220" text-anchor="start" fill="#000" font-weight="normal">玻璃栏板</text>
+<rect x="12900" y="21750" width="600" height="250" fill="url(#cab)" stroke="#000" stroke-width="15" />
+<text x="13700" y="21980" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="220" text-anchor="start" fill="#000" font-weight="normal">固定柜体</text>
+<rect x="12900" y="22180" width="600" height="250" fill="url(#core)" stroke="none" stroke-width="18" />
+<text x="13700" y="22410" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="220" text-anchor="start" fill="#000" font-weight="normal">公共区域（电梯厅 / 楼梯 / 管井）</text>
+<line x1="12900" y1="22860" x2="12900" y2="22510" stroke="#000" stroke-width="38" />
+<path d="M 13250 22860 A 350 350 0 0 0 12900 22510" fill="none" stroke="#000" stroke-width="14" stroke-dasharray="70 45"/>
+<text x="13700" y="22840" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="220" text-anchor="start" fill="#000" font-weight="normal">平开门（弧线为开启方向）；虚线=推拉门/门洞</text>
+<rect x="0" y="19700" width="1000" height="180" fill="#000" stroke="#000" stroke-width="15" />
+<rect x="1000" y="19700" width="1000" height="180" fill="#fff" stroke="#000" stroke-width="15" />
+<rect x="2000" y="19700" width="1000" height="180" fill="#000" stroke="#000" stroke-width="15" />
+<rect x="3000" y="19700" width="1000" height="180" fill="#fff" stroke="#000" stroke-width="15" />
+<rect x="4000" y="19700" width="1000" height="180" fill="#000" stroke="#000" stroke-width="15" />
+<text x="0" y="20180" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="220" text-anchor="middle" fill="#000" font-weight="normal">0m</text>
+<text x="1000" y="20180" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="220" text-anchor="middle" fill="#000" font-weight="normal">1m</text>
+<text x="2000" y="20180" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="220" text-anchor="middle" fill="#000" font-weight="normal">2m</text>
+<text x="3000" y="20180" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="220" text-anchor="middle" fill="#000" font-weight="normal">3m</text>
+<text x="4000" y="20180" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="220" text-anchor="middle" fill="#000" font-weight="normal">4m</text>
+<text x="5000" y="20180" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="220" text-anchor="middle" fill="#000" font-weight="normal">5m</text>
+<text x="0" y="20900" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="260" text-anchor="start" fill="#000" font-weight="bold">面积汇总（推算净面积，不含墙体）</text>
+<text x="0" y="21320" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="230" text-anchor="start" fill="#000" font-weight="normal">室内各空间合计 ≈ 150.5 ㎡（含走道，不含阳台/空调机位/管井）</text>
+<text x="0" y="21700" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="230" text-anchor="start" fill="#000" font-weight="normal">阳台合计 ≈ 13.6 ㎡（休闲阳台 + 北阳台 + 南阳台）</text>
+<text x="0" y="22080" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="230" text-anchor="start" fill="#000" font-weight="normal">外轮廓轴线面积（含公共走道/电梯厅/楼梯）18.55 m × 17.35 m ≈ 321.8 ㎡</text>
+<text x="0" y="22460" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="230" text-anchor="start" fill="#333" font-weight="normal">建筑面积 262 ㎡ 为含公摊口径，不能与上述净面积直接相减得到公摊；精确套内面积以《房屋测绘报告》为准。</text>
+<text x="0" y="22900" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="200" text-anchor="start" fill="#555" font-weight="normal">原图来源：开发商宣传户型图（用户提供）。重绘：2026-11，脚本 重绘脚本_draw_262_plan_v2.py。</text>
 </svg>
