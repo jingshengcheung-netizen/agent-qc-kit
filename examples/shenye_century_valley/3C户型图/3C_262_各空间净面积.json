@@ -11,7 +11,7 @@
  },
  {
   "room": "过厅",
-  "area_m2": 3.83,
+  "area_m2": 3.9,
   "indoor": true
  },
  {
@@ -81,12 +81,12 @@
  },
  {
   "room": "走道(西)",
-  "area_m2": 1.09,
+  "area_m2": 1.19,
   "indoor": true
  },
  {
   "room": "走道(东)",
-  "area_m2": 2.1,
+  "area_m2": 2.07,
   "indoor": true
  },
  {
@@ -96,12 +96,12 @@
  },
  {
   "room": "客卫生间B",
-  "area_m2": 3.28,
+  "area_m2": 3.38,
   "indoor": true
  },
  {
   "room": "儿童卧室",
-  "area_m2": 8.86,
+  "area_m2": 8.58,
   "indoor": true
  }
 ]
