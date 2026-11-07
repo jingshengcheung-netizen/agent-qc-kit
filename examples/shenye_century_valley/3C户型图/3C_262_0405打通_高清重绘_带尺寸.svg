@@ -236,10 +236,6 @@
 <text x="2885" y="3520" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="150" text-anchor="middle" fill="#444444" font-weight="normal">2370</text>
 <rect x="4602" y="3403" width="396" height="150" fill="#ffffff" stroke="none" stroke-width="18" />
 <text x="4800" y="3520" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="150" text-anchor="middle" fill="#444444" font-weight="normal">1000</text>
-<rect x="1640" y="3580" width="1330" height="60" fill="#000" stroke="none" stroke-width="18" />
-<line x1="2305" y1="3640" x2="1855" y2="3120" stroke="#000" stroke-width="10" stroke-dasharray="40 40"/>
-<line x1="2305" y1="3640" x2="2305" y2="3120" stroke="#000" stroke-width="10" stroke-dasharray="40 40"/>
-<line x1="2305" y1="3640" x2="2755" y2="3120" stroke="#000" stroke-width="10" stroke-dasharray="40 40"/>
 <line x1="5300" y1="3646" x2="5650" y2="3646" stroke="#000" stroke-width="14" />
 <rect x="5109" y="3409" width="732" height="150" fill="#ffffff" stroke="none" stroke-width="18" />
 <text x="5475" y="3526" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="150" text-anchor="middle" fill="#444444" font-weight="normal">开口?350</text>
@@ -328,15 +324,10 @@
 <rect x="1700" y="11350" width="3615" height="300" fill="#3a3a3a" stroke="none" stroke-width="18" />
 <rect x="2677" y="11766" width="396" height="150" fill="#ffffff" stroke="none" stroke-width="18" />
 <text x="2875" y="11882" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="150" text-anchor="middle" fill="#444444" font-weight="normal">2350</text>
-<rect x="1300" y="11650" width="1390" height="60" fill="#000" stroke="none" stroke-width="18" />
-<line x1="1995" y1="11650" x2="1545" y2="12170" stroke="#000" stroke-width="10" stroke-dasharray="40 40"/>
-<line x1="1995" y1="11650" x2="1995" y2="12170" stroke="#000" stroke-width="10" stroke-dasharray="40 40"/>
-<line x1="1995" y1="11650" x2="2445" y2="12170" stroke="#000" stroke-width="10" stroke-dasharray="40 40"/>
 <rect x="5962" y="11746" width="732" height="150" fill="#ffffff" stroke="none" stroke-width="18" />
 <text x="6328" y="11862" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="150" text-anchor="middle" fill="#b3261e" font-weight="normal">洞口1160</text>
 <line x1="5745" y1="11230" x2="6910" y2="11230" stroke="#000" stroke-width="10" />
 <line x1="5745" y1="11680" x2="6910" y2="11680" stroke="#000" stroke-width="10" />
-<rect x="6910" y="11250" width="2595" height="370" fill="url(#cab)" stroke="#000" stroke-width="15" />
 <rect x="6910" y="11646" width="2595" height="104" fill="#ffffff" stroke="#6a6a6a" stroke-width="28" />
 <rect x="8540" y="11866" width="396" height="150" fill="#ffffff" stroke="none" stroke-width="18" />
 <text x="8738" y="11982" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="150" text-anchor="middle" fill="#444444" font-weight="normal">1540</text>
@@ -372,173 +363,28 @@
 <text x="3930" y="13856" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="150" text-anchor="middle" fill="#444444" font-weight="normal" transform="rotate(-90 3930 13856)">2190</text>
 <rect x="3783" y="11230" width="150" height="1824" fill="#ffffff" stroke="none" stroke-width="18" />
 <text x="3900" y="12142" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="150" text-anchor="middle" fill="#b3261e" font-weight="normal" transform="rotate(-90 3900 12142)">门洞(原图未画门扇)980</text>
-<rect x="250" y="250" width="3820" height="530" fill="url(#cab)" stroke="#000" stroke-width="15" />
-<rect x="1450" y="780" width="2100" height="2070" fill="none" stroke="#000" stroke-width="22" />
-<line x1="1450" y1="1350" x2="3550" y2="1350" stroke="#000" stroke-width="12" />
-<rect x="1550" y="850" width="900" height="400" fill="none" stroke="#000" stroke-width="10" />
-<rect x="2550" y="850" width="900" height="400" fill="none" stroke="#000" stroke-width="10" />
-<rect x="4350" y="250" width="600" height="1200" fill="url(#cab)" stroke="#000" stroke-width="15" />
-<rect x="5050" y="250" width="550" height="600" fill="none" stroke="#000" stroke-width="14" />
-<ellipse cx="5325" cy="620" rx="200" ry="230" fill="none" stroke="#000" stroke-width="15"/>
-<rect x="6100" y="100" width="500" height="750" fill="none" stroke="#000" stroke-width="14" />
-<ellipse cx="6350" cy="520" rx="190" ry="250" fill="none" stroke="#000" stroke-width="15"/>
-<rect x="6800" y="100" width="1000" height="760" fill="#eef5fb" stroke="#000" stroke-width="14" />
-<circle cx="7300" cy="480" r="80" fill="none" stroke="#000" stroke-width="18"/>
-<line x1="6800" y1="860" x2="7800" y2="860" stroke="#1769aa" stroke-width="40" />
-<line x1="6800" y1="785" x2="7800" y2="785" stroke="#1769aa" stroke-width="14" />
-<line x1="6800" y1="935" x2="7800" y2="935" stroke="#1769aa" stroke-width="14" />
-<rect x="4350" y="1540" width="1650" height="860" fill="none" stroke="#000" stroke-width="16" rx="300"/>
-<rect x="4500" y="1660" width="1350" height="620" fill="none" stroke="#000" stroke-width="10" rx="250"/>
-<rect x="7400" y="1050" width="415" height="1350" fill="none" stroke="#000" stroke-width="14" />
-<ellipse cx="7607" cy="1380" rx="160" ry="200" fill="none" stroke="#000" stroke-width="15"/>
-<ellipse cx="7607" cy="2070" rx="160" ry="200" fill="none" stroke="#000" stroke-width="15"/>
-<rect x="8000" y="250" width="550" height="2310" fill="none" stroke="#000" stroke-width="15" />
-<line x1="8000" y1="390" x2="8550" y2="390" stroke="#000" stroke-width="8" />
-<line x1="8000" y1="530" x2="8550" y2="530" stroke="#000" stroke-width="8" />
-<line x1="8000" y1="670" x2="8550" y2="670" stroke="#000" stroke-width="8" />
-<line x1="8000" y1="810" x2="8550" y2="810" stroke="#000" stroke-width="8" />
-<line x1="8000" y1="950" x2="8550" y2="950" stroke="#000" stroke-width="8" />
-<line x1="8000" y1="1090" x2="8550" y2="1090" stroke="#000" stroke-width="8" />
-<line x1="8000" y1="1230" x2="8550" y2="1230" stroke="#000" stroke-width="8" />
-<line x1="8000" y1="1370" x2="8550" y2="1370" stroke="#000" stroke-width="8" />
-<line x1="8000" y1="1510" x2="8550" y2="1510" stroke="#000" stroke-width="8" />
-<line x1="8000" y1="1650" x2="8550" y2="1650" stroke="#000" stroke-width="8" />
-<line x1="8000" y1="1790" x2="8550" y2="1790" stroke="#000" stroke-width="8" />
-<line x1="8000" y1="1930" x2="8550" y2="1930" stroke="#000" stroke-width="8" />
-<line x1="8000" y1="2070" x2="8550" y2="2070" stroke="#000" stroke-width="8" />
-<line x1="8000" y1="2210" x2="8550" y2="2210" stroke="#000" stroke-width="8" />
-<line x1="8000" y1="2350" x2="8550" y2="2350" stroke="#000" stroke-width="8" />
-<line x1="8000" y1="2490" x2="8550" y2="2490" stroke="#000" stroke-width="8" />
-<rect x="10100" y="250" width="500" height="3320" fill="none" stroke="#000" stroke-width="15" />
-<line x1="10100" y1="390" x2="10600" y2="390" stroke="#000" stroke-width="8" />
-<line x1="10100" y1="530" x2="10600" y2="530" stroke="#000" stroke-width="8" />
-<line x1="10100" y1="670" x2="10600" y2="670" stroke="#000" stroke-width="8" />
-<line x1="10100" y1="810" x2="10600" y2="810" stroke="#000" stroke-width="8" />
-<line x1="10100" y1="950" x2="10600" y2="950" stroke="#000" stroke-width="8" />
-<line x1="10100" y1="1090" x2="10600" y2="1090" stroke="#000" stroke-width="8" />
-<line x1="10100" y1="1230" x2="10600" y2="1230" stroke="#000" stroke-width="8" />
-<line x1="10100" y1="1370" x2="10600" y2="1370" stroke="#000" stroke-width="8" />
-<line x1="10100" y1="1510" x2="10600" y2="1510" stroke="#000" stroke-width="8" />
-<line x1="10100" y1="1650" x2="10600" y2="1650" stroke="#000" stroke-width="8" />
-<line x1="10100" y1="1790" x2="10600" y2="1790" stroke="#000" stroke-width="8" />
-<line x1="10100" y1="1930" x2="10600" y2="1930" stroke="#000" stroke-width="8" />
-<line x1="10100" y1="2070" x2="10600" y2="2070" stroke="#000" stroke-width="8" />
-<line x1="10100" y1="2210" x2="10600" y2="2210" stroke="#000" stroke-width="8" />
-<line x1="10100" y1="2350" x2="10600" y2="2350" stroke="#000" stroke-width="8" />
-<line x1="10100" y1="2490" x2="10600" y2="2490" stroke="#000" stroke-width="8" />
-<line x1="10100" y1="2630" x2="10600" y2="2630" stroke="#000" stroke-width="8" />
-<line x1="10100" y1="2770" x2="10600" y2="2770" stroke="#000" stroke-width="8" />
-<line x1="10100" y1="2910" x2="10600" y2="2910" stroke="#000" stroke-width="8" />
-<line x1="10100" y1="3050" x2="10600" y2="3050" stroke="#000" stroke-width="8" />
-<line x1="10100" y1="3190" x2="10600" y2="3190" stroke="#000" stroke-width="8" />
-<line x1="10100" y1="3330" x2="10600" y2="3330" stroke="#000" stroke-width="8" />
-<line x1="10100" y1="3470" x2="10600" y2="3470" stroke="#000" stroke-width="8" />
-<rect x="8800" y="1130" width="970" height="2090" fill="none" stroke="#000" stroke-width="16" />
-<rect x="12000" y="2550" width="550" height="2500" fill="url(#cab)" stroke="#000" stroke-width="15" />
-<rect x="10950" y="2550" width="600" height="600" fill="none" stroke="#000" stroke-width="14" />
-<circle cx="11250" cy="2850" r="210" fill="none" stroke="#000" stroke-width="18"/>
-<rect x="1700" y="3880" width="3820" height="170" fill="url(#cab)" stroke="#000" stroke-width="15" />
-<rect x="2400" y="6950" width="2860" height="350" fill="url(#cab)" stroke="#000" stroke-width="15" />
-<ellipse cx="3300" cy="5600" rx="1500" ry="1250" fill="none" stroke="#000" stroke-width="15"/>
-<circle cx="2500" cy="4800" r="300" fill="none" stroke="#000" stroke-width="18"/>
-<circle cx="2500" cy="4800" r="110" fill="none" stroke="#000" stroke-width="18"/>
-<rect x="2900" y="4400" width="800" height="700" fill="none" stroke="#000" stroke-width="12" rx="150"/>
-<rect x="7120" y="3760" width="2760" height="260" fill="url(#cab)" stroke="#000" stroke-width="15" />
-<rect x="7070" y="4050" width="2430" height="1700" fill="none" stroke="#000" stroke-width="8" stroke-dasharray="60 60"/>
-<rect x="7260" y="5090" width="2130" height="490" fill="none" stroke="#000" stroke-width="20" />
-<circle cx="9100" cy="5335" r="190" fill="none" stroke="#000" stroke-width="18"/>
-<rect x="7400" y="5200" width="1100" height="280" fill="none" stroke="#000" stroke-width="10" />
-<circle cx="7700" cy="5800" r="200" fill="none" stroke="#000" stroke-width="18"/>
-<circle cx="8300" cy="5800" r="200" fill="none" stroke="#000" stroke-width="18"/>
-<rect x="9530" y="5030" width="1095" height="550" fill="url(#cab)" stroke="#000" stroke-width="15" />
-<rect x="7550" y="8050" width="810" height="2250" fill="none" stroke="#000" stroke-width="20" />
-<rect x="7150" y="8300" width="350" height="450" fill="none" stroke="#000" stroke-width="10" />
-<rect x="8410" y="8300" width="350" height="450" fill="none" stroke="#000" stroke-width="10" />
-<rect x="7150" y="8950" width="350" height="450" fill="none" stroke="#000" stroke-width="10" />
-<rect x="8410" y="8950" width="350" height="450" fill="none" stroke="#000" stroke-width="10" />
-<rect x="7150" y="9600" width="350" height="450" fill="none" stroke="#000" stroke-width="10" />
-<rect x="8410" y="9600" width="350" height="450" fill="none" stroke="#000" stroke-width="10" />
-<rect x="9530" y="8160" width="554" height="1280" fill="url(#cab)" stroke="#000" stroke-width="15" />
-<circle cx="9800" cy="7780" r="180" fill="none" stroke="#000" stroke-width="18"/>
-<rect x="11400" y="7440" width="300" height="1660" fill="url(#cab)" stroke="#000" stroke-width="15" />
-<rect x="10330" y="9100" width="1370" height="330" fill="url(#cab)" stroke="#000" stroke-width="15" />
-<rect x="9890" y="9740" width="2060" height="520" fill="url(#cab)" stroke="#000" stroke-width="15" />
-<rect x="11970" y="9740" width="540" height="490" fill="#555" stroke="none" stroke-width="18" />
-<text x="12240" y="10030" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="140" text-anchor="middle" fill="#fff" font-weight="normal">冰箱</text>
-<rect x="12000" y="10290" width="600" height="2410" fill="url(#cab)" stroke="#000" stroke-width="15" />
-<circle cx="12300" cy="10650" r="170" fill="none" stroke="#000" stroke-width="18"/>
-<circle cx="12300" cy="11400" r="140" fill="none" stroke="#000" stroke-width="18"/>
-<circle cx="12300" cy="11750" r="140" fill="none" stroke="#000" stroke-width="18"/>
-<line x1="2720" y1="7800" x2="4100" y2="7800" stroke="#000" stroke-width="55" />
-<rect x="1890" y="8450" width="790" height="2040" fill="none" stroke="#000" stroke-width="16" />
-<rect x="1890" y="10490" width="3430" height="710" fill="none" stroke="#000" stroke-width="16" />
-<line x1="2680" y1="10490" x2="2680" y2="11200" stroke="#000" stroke-width="8" />
-<line x1="3340" y1="10490" x2="3340" y2="11200" stroke="#000" stroke-width="8" />
-<line x1="4000" y1="10490" x2="4000" y2="11200" stroke="#000" stroke-width="8" />
-<line x1="4660" y1="10490" x2="4660" y2="11200" stroke="#000" stroke-width="8" />
-<circle cx="3730" cy="9580" r="400" fill="none" stroke="#000" stroke-width="18"/>
-<circle cx="3730" cy="9580" r="280" fill="none" stroke="#000" stroke-width="18"/>
-<rect x="1890" y="8450" width="3430" height="2870" fill="none" stroke="#000" stroke-width="8" stroke-dasharray="60 60"/>
-<rect x="1100" y="12750" width="1830" height="1790" fill="none" stroke="#000" stroke-width="22" />
-<line x1="1100" y1="13950" x2="2930" y2="13950" stroke="#000" stroke-width="12" />
-<rect x="1200" y="14050" width="750" height="400" fill="none" stroke="#000" stroke-width="10" />
-<rect x="2080" y="14050" width="750" height="400" fill="none" stroke="#000" stroke-width="10" />
-<rect x="290" y="14540" width="3210" height="490" fill="url(#cab)" stroke="#000" stroke-width="15" />
-<rect x="3530" y="12620" width="500" height="2410" fill="none" stroke="#000" stroke-width="15" />
-<line x1="3530" y1="12760" x2="4030" y2="12760" stroke="#000" stroke-width="8" />
-<line x1="3530" y1="12900" x2="4030" y2="12900" stroke="#000" stroke-width="8" />
-<line x1="3530" y1="13040" x2="4030" y2="13040" stroke="#000" stroke-width="8" />
-<line x1="3530" y1="13180" x2="4030" y2="13180" stroke="#000" stroke-width="8" />
-<line x1="3530" y1="13320" x2="4030" y2="13320" stroke="#000" stroke-width="8" />
-<line x1="3530" y1="13460" x2="4030" y2="13460" stroke="#000" stroke-width="8" />
-<line x1="3530" y1="13600" x2="4030" y2="13600" stroke="#000" stroke-width="8" />
-<line x1="3530" y1="13740" x2="4030" y2="13740" stroke="#000" stroke-width="8" />
-<line x1="3530" y1="13880" x2="4030" y2="13880" stroke="#000" stroke-width="8" />
-<line x1="3530" y1="14020" x2="4030" y2="14020" stroke="#000" stroke-width="8" />
-<line x1="3530" y1="14160" x2="4030" y2="14160" stroke="#000" stroke-width="8" />
-<line x1="3530" y1="14300" x2="4030" y2="14300" stroke="#000" stroke-width="8" />
-<line x1="3530" y1="14440" x2="4030" y2="14440" stroke="#000" stroke-width="8" />
-<line x1="3530" y1="14580" x2="4030" y2="14580" stroke="#000" stroke-width="8" />
-<line x1="3530" y1="14720" x2="4030" y2="14720" stroke="#000" stroke-width="8" />
-<line x1="3530" y1="14860" x2="4030" y2="14860" stroke="#000" stroke-width="8" />
-<line x1="3530" y1="15000" x2="4030" y2="15000" stroke="#000" stroke-width="8" />
-<rect x="4350" y="12800" width="1640" height="550" fill="none" stroke="#000" stroke-width="12" />
-<ellipse cx="5250" cy="13075" rx="220" ry="150" fill="none" stroke="#000" stroke-width="15"/>
-<rect x="6310" y="12800" width="1425" height="550" fill="none" stroke="#000" stroke-width="12" />
-<ellipse cx="7020" cy="13075" rx="220" ry="150" fill="none" stroke="#000" stroke-width="15"/>
-<rect x="4350" y="13700" width="700" height="1250" fill="#eef5fb" stroke="#000" stroke-width="12" />
-<circle cx="4700" cy="14300" r="80" fill="none" stroke="#000" stroke-width="18"/>
-<line x1="5050" y1="13700" x2="5050" y2="14950" stroke="#1769aa" stroke-width="40" />
-<line x1="4975" y1="13700" x2="4975" y2="14950" stroke="#1769aa" stroke-width="14" />
-<line x1="5125" y1="13700" x2="5125" y2="14950" stroke="#1769aa" stroke-width="14" />
-<rect x="5400" y="14350" width="550" height="600" fill="none" stroke="#000" stroke-width="12" />
-<ellipse cx="5675" cy="14600" rx="180" ry="220" fill="none" stroke="#000" stroke-width="15"/>
-<rect x="6300" y="13650" width="650" height="1300" fill="#eef5fb" stroke="#000" stroke-width="12" />
-<circle cx="6625" cy="14300" r="80" fill="none" stroke="#000" stroke-width="18"/>
-<line x1="6950" y1="13650" x2="6950" y2="14950" stroke="#1769aa" stroke-width="40" />
-<line x1="6875" y1="13650" x2="6875" y2="14950" stroke="#1769aa" stroke-width="14" />
-<line x1="7025" y1="13650" x2="7025" y2="14950" stroke="#1769aa" stroke-width="14" />
-<rect x="7050" y="14350" width="650" height="600" fill="none" stroke="#000" stroke-width="12" />
-<ellipse cx="7375" cy="14600" rx="180" ry="220" fill="none" stroke="#000" stroke-width="15"/>
-<rect x="8700" y="11750" width="480" height="450" fill="url(#cab)" stroke="#000" stroke-width="15" />
-<rect x="9180" y="11750" width="1460" height="450" fill="none" stroke="#000" stroke-width="15" />
-<line x1="9320" y1="11750" x2="9320" y2="12200" stroke="#000" stroke-width="8" />
-<line x1="9460" y1="11750" x2="9460" y2="12200" stroke="#000" stroke-width="8" />
-<line x1="9600" y1="11750" x2="9600" y2="12200" stroke="#000" stroke-width="8" />
-<line x1="9740" y1="11750" x2="9740" y2="12200" stroke="#000" stroke-width="8" />
-<line x1="9880" y1="11750" x2="9880" y2="12200" stroke="#000" stroke-width="8" />
-<line x1="10020" y1="11750" x2="10020" y2="12200" stroke="#000" stroke-width="8" />
-<line x1="10160" y1="11750" x2="10160" y2="12200" stroke="#000" stroke-width="8" />
-<line x1="10300" y1="11750" x2="10300" y2="12200" stroke="#000" stroke-width="8" />
-<line x1="10440" y1="11750" x2="10440" y2="12200" stroke="#000" stroke-width="8" />
-<line x1="10580" y1="11750" x2="10580" y2="12200" stroke="#000" stroke-width="8" />
-<rect x="8200" y="12900" width="1600" height="2000" fill="none" stroke="#000" stroke-width="20" />
-<line x1="9300" y1="12900" x2="9300" y2="14900" stroke="#000" stroke-width="10" />
-<rect x="9400" y="13000" width="300" height="850" fill="none" stroke="#000" stroke-width="10" />
-<rect x="9400" y="13950" width="300" height="850" fill="none" stroke="#000" stroke-width="10" />
-<rect x="9800" y="12900" width="600" height="2000" fill="#eee" stroke="#000" stroke-width="14" />
-<rect x="12350" y="13100" width="350" height="400" fill="none" stroke="#000" stroke-width="12" />
-<circle cx="12525" cy="13300" r="150" fill="none" stroke="#000" stroke-width="18"/>
+<rect x="5050" y="250" width="550" height="600" fill="none" stroke="#8a8a8a" stroke-width="14" />
+<ellipse cx="5325" cy="620" rx="200" ry="230" fill="none" stroke="#8a8a8a" stroke-width="12"/>
+<rect x="6100" y="100" width="500" height="750" fill="none" stroke="#8a8a8a" stroke-width="14" />
+<ellipse cx="6350" cy="520" rx="190" ry="250" fill="none" stroke="#8a8a8a" stroke-width="12"/>
+<rect x="6800" y="100" width="1000" height="760" fill="none" stroke="#8a8a8a" stroke-width="14" />
+<circle cx="7300" cy="480" r="80" fill="none" stroke="#8a8a8a" stroke-width="12"/>
+<rect x="4350" y="1540" width="1650" height="860" fill="none" stroke="#8a8a8a" stroke-width="14" rx="300"/>
+<rect x="7400" y="1050" width="415" height="1350" fill="none" stroke="#8a8a8a" stroke-width="14" />
+<ellipse cx="7607" cy="1380" rx="160" ry="200" fill="none" stroke="#8a8a8a" stroke-width="12"/>
+<ellipse cx="7607" cy="2070" rx="160" ry="200" fill="none" stroke="#8a8a8a" stroke-width="12"/>
+<rect x="4350" y="12800" width="1640" height="550" fill="none" stroke="#8a8a8a" stroke-width="14" />
+<ellipse cx="5250" cy="13075" rx="220" ry="150" fill="none" stroke="#8a8a8a" stroke-width="12"/>
+<rect x="6310" y="12800" width="1425" height="550" fill="none" stroke="#8a8a8a" stroke-width="14" />
+<ellipse cx="7020" cy="13075" rx="220" ry="150" fill="none" stroke="#8a8a8a" stroke-width="12"/>
+<rect x="4350" y="13700" width="700" height="1250" fill="none" stroke="#8a8a8a" stroke-width="14" />
+<circle cx="4700" cy="14300" r="80" fill="none" stroke="#8a8a8a" stroke-width="12"/>
+<rect x="5400" y="14350" width="550" height="600" fill="none" stroke="#8a8a8a" stroke-width="14" />
+<ellipse cx="5675" cy="14600" rx="180" ry="220" fill="none" stroke="#8a8a8a" stroke-width="12"/>
+<rect x="6300" y="13650" width="650" height="1300" fill="none" stroke="#8a8a8a" stroke-width="14" />
+<circle cx="6625" cy="14300" r="80" fill="none" stroke="#8a8a8a" stroke-width="12"/>
+<rect x="7050" y="14350" width="650" height="600" fill="none" stroke="#8a8a8a" stroke-width="14" />
+<ellipse cx="7375" cy="14600" rx="180" ry="220" fill="none" stroke="#8a8a8a" stroke-width="12"/>
 <text x="2000" y="1950" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="320" text-anchor="middle" fill="#000" font-weight="bold">主卧室</text>
 <text x="2000" y="2254" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="230.39999999999998" text-anchor="middle" fill="#222" font-weight="normal">约13.5㎡</text>
 <polygon points="100,250 4070,250 4070,3660 100,3660" fill="none" stroke="#9aa" stroke-width="8" stroke-dasharray="40 60"/>
@@ -559,14 +405,14 @@
 <polygon points="10955,2550 12650,2550 12650,5610 10955,5610" fill="none" stroke="#9aa" stroke-width="8" stroke-dasharray="40 60"/>
 <text x="3600" y="6300" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="320" text-anchor="middle" fill="#000" font-weight="bold">多功能室</text>
 <text x="3600" y="6604" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="230.39999999999998" text-anchor="middle" fill="#222" font-weight="normal">约14.7㎡</text>
-<text x="3600" y="6828" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="160.0" text-anchor="middle" fill="#666" font-weight="normal">开放式，东侧以保留剪力墙线划分</text>
+<text x="3600" y="6828" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="160.0" text-anchor="middle" fill="#666" font-weight="normal">开放式，东侧以柱/矮墙线划分</text>
 <polygon points="1700,3860 5600,3860 5600,7490 1700,7490 1700,6841 1450,6841 1450,4815 1700,4815" fill="none" stroke="#9aa" stroke-width="8" stroke-dasharray="40 60"/>
 <text x="550" y="7600" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="220" text-anchor="middle" fill="#000" font-weight="bold">休闲阳台</text>
 <text x="550" y="7809" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="158.4" text-anchor="middle" fill="#222" font-weight="normal">约9.9㎡</text>
 <polygon points="-150,4100 1250,4100 1250,11150 -150,11150" fill="none" stroke="#9aa" stroke-width="8" stroke-dasharray="40 60"/>
 <text x="3650" y="8250" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="320" text-anchor="middle" fill="#000" font-weight="bold">客厅</text>
 <text x="3650" y="8554" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="230.39999999999998" text-anchor="middle" fill="#222" font-weight="normal">约14.5㎡</text>
-<text x="3650" y="8778" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="160.0" text-anchor="middle" fill="#666" font-weight="normal">开放式，东侧以保留剪力墙线划分</text>
+<text x="3650" y="8778" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="160.0" text-anchor="middle" fill="#666" font-weight="normal">开放式，东侧以柱/矮墙线划分</text>
 <polygon points="1700,7750 5600,7750 5600,11350 1700,11350 1700,10451 1450,10451 1450,8425 1700,8425" fill="none" stroke="#9aa" stroke-width="8" stroke-dasharray="40 60"/>
 <text x="8300" y="4420" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="260" text-anchor="middle" fill="#000" font-weight="bold">西厨</text>
 <text x="8300" y="4667" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="187.2" text-anchor="middle" fill="#222" font-weight="normal">约7.4㎡</text>
@@ -784,7 +630,7 @@
 <text x="-2850" y="17440" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="250" text-anchor="middle" fill="#000" font-weight="normal">J</text>
 <path d="M 20500 800 L 20750 1800 L 20500 1600 L 20250 1800 Z" fill="#000"/>
 <text x="20500" y="2250" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="300" text-anchor="middle" fill="#000" font-weight="bold">北</text>
-<text x="-3600" y="-4300" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="480" text-anchor="start" fill="#000" font-weight="bold">深业世纪山谷 3C栋 04+05打通户型  建面约262㎡  平面图（高清重绘 v3：门窗、墙体逐一按原图复核）</text>
+<text x="-3600" y="-4300" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="480" text-anchor="start" fill="#000" font-weight="bold">深业世纪山谷 3C栋 04+05打通户型  建面约262㎡  平面图（高清重绘 v4：去除全部柜体与软装家具）</text>
 <text x="-3600" y="-3750" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="230" text-anchor="start" fill="#333" font-weight="normal">黑色外围尺寸链（mm）为开发商原图标注；灰色=墙段/洞口推算净长，蓝色=窗/玻璃推算长度，红色=门洞宽；房间面积为推算墙面围合的净面积（不含墙体），仅供参考，非测绘成果，非施工图。</text>
 <text x="-3600" y="-3350" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="230" text-anchor="start" fill="#333" font-weight="normal">墙体按原图画法判读：白色填充→实墙（原建筑墙）；空心双线→新建隔墙（材质不明）；点状/空心矩形填充→柱/墙垛（疑似结构构件）；外围细线→玻璃窗/幕墙；阳台外缘双线→玻璃栏板。门扇/开启方向逐一按原图弧线复核。</text>
 <rect x="12900" y="19600" width="280" height="250" fill="url(#col)" stroke="#000" stroke-width="20" />
@@ -801,8 +647,9 @@
 <line x1="12900" y1="21380" x2="13500" y2="21380" stroke="#1769aa" stroke-width="22" />
 <line x1="12900" y1="21500" x2="13500" y2="21500" stroke="#1769aa" stroke-width="22" />
 <text x="13700" y="21550" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="220" text-anchor="start" fill="#000" font-weight="normal">玻璃栏板</text>
-<rect x="12900" y="21750" width="600" height="250" fill="url(#cab)" stroke="#000" stroke-width="15" />
-<text x="13700" y="21980" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="220" text-anchor="start" fill="#000" font-weight="normal">固定柜体</text>
+<rect x="12900" y="21750" width="600" height="250" fill="none" stroke="#8a8a8a" stroke-width="14" />
+<ellipse cx="13200" cy="21875" rx="160" ry="90" fill="none" stroke="#8a8a8a" stroke-width="12"/>
+<text x="13700" y="21980" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="220" text-anchor="start" fill="#000" font-weight="normal">卫浴洁具（按原图位置示意；柜体与软装家具现场无，已全部去除）</text>
 <rect x="12900" y="22180" width="600" height="250" fill="url(#core)" stroke="none" stroke-width="18" />
 <text x="13700" y="22410" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="220" text-anchor="start" fill="#000" font-weight="normal">公共区域（电梯厅 / 楼梯 / 管井）</text>
 <line x1="12900" y1="22860" x2="12900" y2="22560" stroke="#000" stroke-width="38" />
@@ -826,5 +673,5 @@
 <text x="0" y="21700" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="230" text-anchor="start" fill="#000" font-weight="normal">阳台合计 ≈ 13.6 ㎡（休闲阳台 + 北阳台 + 南阳台）</text>
 <text x="0" y="22080" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="230" text-anchor="start" fill="#000" font-weight="normal">外轮廓轴线面积（含公共走道/电梯厅/楼梯）18.55 m × 17.35 m ≈ 321.8 ㎡</text>
 <text x="0" y="22460" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="230" text-anchor="start" fill="#333" font-weight="normal">建筑面积 262 ㎡ 为含公摊口径，不能与上述净面积直接相减得到公摊；精确套内面积以《房屋测绘报告》为准。</text>
-<text x="0" y="22900" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="200" text-anchor="start" fill="#555" font-weight="normal">原图来源：开发商宣传户型图（用户提供）。重绘：2026-11，脚本 重绘脚本_draw_262_plan_v3.py。</text>
+<text x="0" y="22900" font-family="WenQuanYi Micro Hei, Noto Sans CJK SC, Droid Sans Fallback, sans-serif" font-size="200" text-anchor="start" fill="#555" font-weight="normal">原图来源：开发商宣传户型图（用户提供）。重绘：2026-11，脚本 重绘脚本_draw_262_plan_v4.py。</text>
 </svg>
