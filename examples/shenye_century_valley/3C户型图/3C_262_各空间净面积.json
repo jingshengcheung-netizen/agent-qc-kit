@@ -1,0 +1,107 @@
+[
+ {
+  "room": "主卧室",
+  "area_m2": 13.54,
+  "indoor": true
+ },
+ {
+  "room": "主卫生间",
+  "area_m2": 8.08,
+  "indoor": true
+ },
+ {
+  "room": "过厅",
+  "area_m2": 3.9,
+  "indoor": true
+ },
+ {
+  "room": "衣帽间",
+  "area_m2": 9.42,
+  "indoor": true
+ },
+ {
+  "room": "北阳台",
+  "area_m2": 1.78,
+  "indoor": false
+ },
+ {
+  "room": "家政多功能室",
+  "area_m2": 5.19,
+  "indoor": true
+ },
+ {
+  "room": "多功能室",
+  "area_m2": 14.66,
+  "indoor": true
+ },
+ {
+  "room": "休闲阳台",
+  "area_m2": 9.87,
+  "indoor": false
+ },
+ {
+  "room": "客厅",
+  "area_m2": 14.55,
+  "indoor": true
+ },
+ {
+  "room": "西厨",
+  "area_m2": 7.43,
+  "indoor": true
+ },
+ {
+  "room": "餐厅",
+  "area_m2": 26.61,
+  "indoor": true
+ },
+ {
+  "room": "玄关",
+  "area_m2": 3.74,
+  "indoor": true
+ },
+ {
+  "room": "储物/收纳",
+  "area_m2": 3.53,
+  "indoor": true
+ },
+ {
+  "room": "中厨",
+  "area_m2": 7.63,
+  "indoor": true
+ },
+ {
+  "room": "南阳台",
+  "area_m2": 1.99,
+  "indoor": false
+ },
+ {
+  "room": "卧室",
+  "area_m2": 13.04,
+  "indoor": true
+ },
+ {
+  "room": "走道(西)",
+  "area_m2": 1.19,
+  "indoor": true
+ },
+ {
+  "room": "走道(东)",
+  "area_m2": 2.07,
+  "indoor": true
+ },
+ {
+  "room": "客卫生间A",
+  "area_m2": 3.96,
+  "indoor": true
+ },
+ {
+  "room": "客卫生间B",
+  "area_m2": 3.38,
+  "indoor": true
+ },
+ {
+  "room": "儿童卧室",
+  "area_m2": 8.58,
+  "indoor": true
+ }
+]
